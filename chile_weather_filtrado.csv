@@ -1,0 +1,1641 @@
+date,time,city,temp_C,condition_text,condition_code,humidity_%,wind_kph,wind_dir,precip_mm,cloud_%
+2025-05-26,2025-05-26 00:00,Punta Arenas,4.1,Nublado,1006,79,23.4,SSE,0.0,63
+2025-05-26,2025-05-26 01:00,Punta Arenas,4.2,Parcialmente nublado,1003,79,23.4,SSE,0.0,45
+2025-05-26,2025-05-26 02:00,Punta Arenas,4.1,Despejado,1000,79,23.0,SSE,0.0,11
+2025-05-26,2025-05-26 03:00,Punta Arenas,4.0,Despejado,1000,78,23.0,S,0.0,20
+2025-05-26,2025-05-26 04:00,Punta Arenas,4.0,Despejado,1000,77,22.3,S,0.0,18
+2025-05-26,2025-05-26 05:00,Punta Arenas,3.9,Despejado,1000,75,22.0,S,0.0,15
+2025-05-26,2025-05-26 06:00,Punta Arenas,3.8,Despejado,1000,75,22.0,S,0.0,16
+2025-05-26,2025-05-26 07:00,Punta Arenas,3.8,Despejado,1000,76,21.6,S,0.0,22
+2025-05-26,2025-05-26 08:00,Punta Arenas,3.6,Despejado,1000,76,21.2,S,0.0,21
+2025-05-26,2025-05-26 09:00,Punta Arenas,3.7,Despejado,1000,75,21.2,S,0.0,19
+2025-05-26,2025-05-26 10:00,Punta Arenas,3.9,Soleado,1000,73,21.2,SSW,0.0,22
+2025-05-26,2025-05-26 11:00,Punta Arenas,4.3,Parcialmente nublado,1003,70,20.9,S,0.0,26
+2025-05-26,2025-05-26 12:00,Punta Arenas,4.9,Parcialmente nublado,1003,68,20.9,S,0.0,34
+2025-05-26,2025-05-26 13:00,Punta Arenas,5.0,Parcialmente nublado,1003,68,21.2,S,0.0,62
+2025-05-26,2025-05-26 14:00,Punta Arenas,4.9,Parcialmente nublado,1003,70,19.1,S,0.0,59
+2025-05-26,2025-05-26 15:00,Punta Arenas,4.7,Parcialmente nublado,1003,70,16.9,S,0.0,32
+2025-05-26,2025-05-26 16:00,Punta Arenas,4.3,Nublado,1006,69,15.1,S,0.0,74
+2025-05-26,2025-05-26 17:00,Punta Arenas,4.0,Parcialmente nublado,1003,69,14.8,SSW,0.0,57
+2025-05-26,2025-05-26 18:00,Punta Arenas,3.7,Despejado,1000,69,14.8,SSW,0.0,23
+2025-05-26,2025-05-26 19:00,Punta Arenas,3.6,Despejado,1000,65,14.4,SSW,0.0,10
+2025-05-26,2025-05-26 20:00,Punta Arenas,3.3,Despejado,1000,65,14.4,SSW,0.0,7
+2025-05-26,2025-05-26 21:00,Punta Arenas,3.1,Despejado,1000,67,14.4,SW,0.0,6
+2025-05-26,2025-05-26 22:00,Punta Arenas,3.1,Despejado,1000,68,14.4,SW,0.0,5
+2025-05-26,2025-05-26 23:00,Punta Arenas,3.1,Despejado,1000,68,12.2,SSW,0.0,3
+2025-05-27,2025-05-27 00:00,Punta Arenas,3.3,Despejado,1000,71,15.8,SW,0.0,2
+2025-05-27,2025-05-27 01:00,Punta Arenas,3.4,Despejado,1000,71,14.4,SW,0.0,0
+2025-05-27,2025-05-27 02:00,Punta Arenas,3.2,Despejado,1000,72,12.2,SW,0.0,0
+2025-05-27,2025-05-27 03:00,Punta Arenas,3.3,Despejado,1000,71,9.4,SW,0.0,0
+2025-05-27,2025-05-27 04:00,Punta Arenas,3.2,Despejado,1000,72,8.3,WSW,0.0,0
+2025-05-27,2025-05-27 05:00,Punta Arenas,3.0,Despejado,1000,72,6.5,WSW,0.0,0
+2025-05-27,2025-05-27 06:00,Punta Arenas,3.0,Despejado,1000,70,2.9,S,0.0,0
+2025-05-27,2025-05-27 07:00,Punta Arenas,3.2,Despejado,1000,71,5.8,WNW,0.0,0
+2025-05-27,2025-05-27 08:00,Punta Arenas,3.0,Despejado,1000,73,6.5,WNW,0.0,5
+2025-05-27,2025-05-27 09:00,Punta Arenas,2.7,Parcialmente nublado,1003,75,4.3,NW,0.0,32
+2025-05-27,2025-05-27 10:00,Punta Arenas,2.9,Soleado,1000,76,6.8,NW,0.0,13
+2025-05-27,2025-05-27 11:00,Punta Arenas,3.2,Soleado,1000,76,6.8,NNW,0.0,7
+2025-05-27,2025-05-27 12:00,Punta Arenas,3.2,Soleado,1000,75,6.8,NW,0.0,15
+2025-05-27,2025-05-27 13:00,Punta Arenas,3.2,Parcialmente nublado,1003,74,6.1,NNW,0.0,32
+2025-05-27,2025-05-27 14:00,Punta Arenas,3.2,Soleado,1000,72,6.1,NNE,0.0,22
+2025-05-27,2025-05-27 15:00,Punta Arenas,3.2,Parcialmente nublado,1003,72,7.9,NNE,0.0,37
+2025-05-27,2025-05-27 16:00,Punta Arenas,3.1,Cielo cubierto,1009,71,9.0,NNE,0.0,98
+2025-05-27,2025-05-27 17:00,Punta Arenas,3.2,Soleado,1000,68,13.0,NNE,0.0,10
+2025-05-27,2025-05-27 18:00,Punta Arenas,3.1,Parcialmente nublado,1003,68,14.8,N,0.0,30
+2025-05-27,2025-05-27 19:00,Punta Arenas,2.5,Parcialmente nublado,1003,71,14.4,N,0.0,46
+2025-05-27,2025-05-27 20:00,Punta Arenas,2.2,Parcialmente nublado,1003,73,15.1,N,0.0,31
+2025-05-27,2025-05-27 21:00,Punta Arenas,2.2,Parcialmente nublado,1003,73,16.6,NNE,0.0,53
+2025-05-27,2025-05-27 22:00,Punta Arenas,2.3,Cielo cubierto,1009,71,17.3,NNE,0.0,96
+2025-05-27,2025-05-27 23:00,Punta Arenas,2.3,Nublado,1006,69,18.0,NNE,0.0,86
+2025-05-28,2025-05-28 00:00,Punta Arenas,2.1,Cielo cubierto,1009,74,18.0,N,0.0,95
+2025-05-28,2025-05-28 01:00,Punta Arenas,1.8,Cielo cubierto,1009,76,15.8,NNE,0.0,100
+2025-05-28,2025-05-28 02:00,Punta Arenas,1.8,Lluvia  moderada a intervalos,1063,76,19.1,NNE,0.04,100
+2025-05-28,2025-05-28 03:00,Punta Arenas,1.7,Lluvia  moderada a intervalos,1063,75,16.6,NNE,0.01,100
+2025-05-28,2025-05-28 04:00,Punta Arenas,1.2,Ligeras precipitaciones de aguanieve,1204,81,17.6,NNE,0.17,58
+2025-05-28,2025-05-28 05:00,Punta Arenas,0.9,Ligeras lluvias heladas,1198,84,18.4,NNE,0.02,69
+2025-05-28,2025-05-28 06:00,Punta Arenas,0.7,Ligeras lluvias heladas,1198,87,18.0,N,0.04,100
+2025-05-28,2025-05-28 07:00,Punta Arenas,0.9,Nublado,1006,86,18.0,NNE,0.0,84
+2025-05-28,2025-05-28 08:00,Punta Arenas,0.9,Parcialmente nublado,1003,83,14.8,N,0.0,62
+2025-05-28,2025-05-28 09:00,Punta Arenas,1.0,Parcialmente nublado,1003,80,11.2,N,0.0,55
+2025-05-28,2025-05-28 10:00,Punta Arenas,1.7,Parcialmente nublado,1003,75,13.7,N,0.0,55
+2025-05-28,2025-05-28 11:00,Punta Arenas,2.4,Cielo cubierto,1009,70,11.2,N,0.0,100
+2025-05-28,2025-05-28 12:00,Punta Arenas,2.7,Nublado,1006,73,15.1,NNW,0.0,78
+2025-05-28,2025-05-28 13:00,Punta Arenas,4.3,Soleado,1000,77,17.6,NW,0.0,24
+2025-05-28,2025-05-28 14:00,Punta Arenas,5.8,Cielo cubierto,1009,80,15.1,NW,0.0,100
+2025-05-28,2025-05-28 15:00,Punta Arenas,5.6,Lluvia  moderada a intervalos,1063,83,14.8,NW,0.01,100
+2025-05-28,2025-05-28 16:00,Punta Arenas,5.3,Lluvia  moderada a intervalos,1063,87,14.8,WNW,0.01,89
+2025-05-28,2025-05-28 17:00,Punta Arenas,4.8,Lluvia  moderada a intervalos,1063,88,12.6,WNW,0.01,100
+2025-05-28,2025-05-28 18:00,Punta Arenas,4.8,Lluvia  moderada a intervalos,1063,88,12.6,NW,0.01,99
+2025-05-28,2025-05-28 19:00,Punta Arenas,4.8,Lluvia  moderada a intervalos,1063,90,14.8,NW,0.02,100
+2025-05-28,2025-05-28 20:00,Punta Arenas,5.5,Llovizna,1153,88,21.6,WNW,0.62,100
+2025-05-28,2025-05-28 21:00,Punta Arenas,5.9,Llovizna,1153,85,23.0,WNW,0.2,100
+2025-05-28,2025-05-28 22:00,Punta Arenas,5.4,Lluvia  moderada a intervalos,1063,88,15.8,WNW,0.1,100
+2025-05-28,2025-05-28 23:00,Punta Arenas,5.4,Cielo cubierto,1009,87,13.0,NW,0.0,100
+2025-05-29,2025-05-29 00:00,Punta Arenas,5.5,Parcialmente nublado,1003,80,27.0,WNW,0.0,27
+2025-05-29,2025-05-29 01:00,Punta Arenas,5.3,Despejado,1000,79,24.8,WNW,0.0,14
+2025-05-29,2025-05-29 02:00,Punta Arenas,5.1,Parcialmente nublado,1003,79,22.7,WNW,0.0,26
+2025-05-29,2025-05-29 03:00,Punta Arenas,4.6,Despejado,1000,81,18.7,WNW,0.0,24
+2025-05-29,2025-05-29 04:00,Punta Arenas,4.6,Despejado,1000,79,15.8,WNW,0.0,17
+2025-05-29,2025-05-29 05:00,Punta Arenas,4.8,Despejado,1000,78,14.0,WNW,0.0,24
+2025-05-29,2025-05-29 06:00,Punta Arenas,4.5,Cielo cubierto,1009,81,13.3,NW,0.0,100
+2025-05-29,2025-05-29 07:00,Punta Arenas,4.7,Nublado,1006,88,21.2,NNW,0.0,80
+2025-05-29,2025-05-29 08:00,Punta Arenas,5.2,Cielo cubierto,1009,90,20.5,NNW,0.0,90
+2025-05-29,2025-05-29 09:00,Punta Arenas,4.9,Cielo cubierto,1009,89,18.0,N,0.0,100
+2025-05-29,2025-05-29 10:00,Punta Arenas,5.0,Cielo cubierto,1009,88,21.2,NNE,0.0,100
+2025-05-29,2025-05-29 11:00,Punta Arenas,5.2,Llovizna,1153,84,27.0,NE,0.22,100
+2025-05-29,2025-05-29 12:00,Punta Arenas,5.0,Llovizna,1153,85,24.1,NNE,0.42,100
+2025-05-29,2025-05-29 13:00,Punta Arenas,5.3,Lluvia  moderada a intervalos,1063,87,25.9,NNE,0.1,100
+2025-05-29,2025-05-29 14:00,Punta Arenas,5.1,Ligeras lluvias,1183,87,22.7,N,0.83,83
+2025-05-29,2025-05-29 15:00,Punta Arenas,5.1,Llovizna,1153,88,24.8,NE,0.19,100
+2025-05-29,2025-05-29 16:00,Punta Arenas,5.1,Lluvia  moderada a intervalos,1063,89,22.7,NNE,0.1,97
+2025-05-29,2025-05-29 17:00,Punta Arenas,4.9,Lluvia  moderada a intervalos,1063,90,15.8,NNE,0.01,100
+2025-05-29,2025-05-29 18:00,Punta Arenas,4.6,Cielo cubierto,1009,89,11.2,N,0.0,100
+2025-05-29,2025-05-29 19:00,Punta Arenas,4.6,Nublado,1006,86,8.3,N,0.0,83
+2025-05-29,2025-05-29 20:00,Punta Arenas,4.6,Nublado,1006,85,12.2,N,0.0,68
+2025-05-29,2025-05-29 21:00,Punta Arenas,4.4,Despejado,1000,83,7.9,NW,0.0,7
+2025-05-29,2025-05-29 22:00,Punta Arenas,4.1,Despejado,1000,83,10.4,NNW,0.0,10
+2025-05-29,2025-05-29 23:00,Punta Arenas,4.1,Despejado,1000,83,11.9,N,0.0,20
+2025-05-30,2025-05-30 00:00,Punta Arenas,4.0,Parcialmente nublado,1003,87,15.1,WNW,0.0,50
+2025-05-30,2025-05-30 01:00,Punta Arenas,3.6,Despejado,1000,88,15.8,WNW,0.0,15
+2025-05-30,2025-05-30 02:00,Punta Arenas,3.4,Despejado,1000,86,13.7,W,0.0,9
+2025-05-30,2025-05-30 03:00,Punta Arenas,3.4,Despejado,1000,84,9.4,WSW,0.0,18
+2025-05-30,2025-05-30 04:00,Punta Arenas,3.3,Despejado,1000,84,9.0,W,0.0,25
+2025-05-30,2025-05-30 05:00,Punta Arenas,3.2,Parcialmente nublado,1003,85,11.5,W,0.0,33
+2025-05-30,2025-05-30 06:00,Punta Arenas,3.2,Parcialmente nublado,1003,85,13.0,W,0.0,35
+2025-05-30,2025-05-30 07:00,Punta Arenas,3.1,Parcialmente nublado,1003,84,11.2,WSW,0.0,32
+2025-05-30,2025-05-30 08:00,Punta Arenas,3.3,Parcialmente nublado,1003,82,11.9,W,0.0,34
+2025-05-30,2025-05-30 09:00,Punta Arenas,3.0,Parcialmente nublado,1003,84,14.0,W,0.0,28
+2025-05-30,2025-05-30 10:00,Punta Arenas,3.1,Parcialmente nublado,1003,85,16.6,W,0.0,26
+2025-05-30,2025-05-30 11:00,Punta Arenas,3.6,Parcialmente nublado,1003,85,20.5,W,0.0,37
+2025-05-30,2025-05-30 12:00,Punta Arenas,4.0,Soleado,1000,81,15.1,WSW,0.0,18
+2025-05-30,2025-05-30 13:00,Punta Arenas,4.3,Soleado,1000,80,14.0,W,0.0,19
+2025-05-30,2025-05-30 14:00,Punta Arenas,4.4,Soleado,1000,80,16.2,W,0.0,11
+2025-05-30,2025-05-30 15:00,Punta Arenas,4.4,Soleado,1000,80,17.3,W,0.0,13
+2025-05-30,2025-05-30 16:00,Punta Arenas,4.1,Soleado,1000,82,19.8,W,0.0,15
+2025-05-30,2025-05-30 17:00,Punta Arenas,3.8,Soleado,1000,82,18.7,WSW,0.0,20
+2025-05-30,2025-05-30 18:00,Punta Arenas,3.7,Despejado,1000,83,18.4,WSW,0.0,23
+2025-05-30,2025-05-30 19:00,Punta Arenas,3.5,Despejado,1000,84,19.8,W,0.0,21
+2025-05-30,2025-05-30 20:00,Punta Arenas,3.4,Parcialmente nublado,1003,87,22.3,W,0.0,56
+2025-05-30,2025-05-30 21:00,Punta Arenas,3.4,Parcialmente nublado,1003,88,24.1,W,0.0,51
+2025-05-30,2025-05-30 22:00,Punta Arenas,3.3,Parcialmente nublado,1003,89,24.5,W,0.0,53
+2025-05-30,2025-05-30 23:00,Punta Arenas,3.4,Parcialmente nublado,1003,88,24.8,WSW,0.0,45
+2025-05-31,2025-05-31 00:00,Punta Arenas,4.0,Parcialmente nublado,1003,83,23.8,W,0.0,38
+2025-05-31,2025-05-31 01:00,Punta Arenas,4.2,Parcialmente nublado,1003,75,19.8,WSW,0.0,45
+2025-05-31,2025-05-31 02:00,Punta Arenas,4.3,Parcialmente nublado,1003,70,15.8,WSW,0.0,62
+2025-05-31,2025-05-31 03:00,Punta Arenas,4.6,Parcialmente nublado,1003,70,17.3,WSW,0.0,51
+2025-05-31,2025-05-31 04:00,Punta Arenas,4.8,Parcialmente nublado,1003,73,18.0,WSW,0.0,45
+2025-05-31,2025-05-31 05:00,Punta Arenas,4.6,Despejado,1000,78,19.8,W,0.0,21
+2025-05-31,2025-05-31 06:00,Punta Arenas,4.1,Despejado,1000,85,20.9,W,0.0,12
+2025-05-31,2025-05-31 07:00,Punta Arenas,3.7,Parcialmente nublado,1003,89,20.9,W,0.0,27
+2025-05-31,2025-05-31 08:00,Punta Arenas,3.9,Nublado,1006,89,20.2,W,0.0,79
+2025-05-31,2025-05-31 09:00,Punta Arenas,4.0,Parcialmente nublado,1003,89,20.9,W,0.0,28
+2025-05-31,2025-05-31 10:00,Punta Arenas,3.8,Parcialmente nublado,1003,91,21.6,WNW,0.0,36
+2025-05-31,2025-05-31 11:00,Punta Arenas,4.2,Nublado,1006,91,21.2,WNW,0.0,67
+2025-05-31,2025-05-31 12:00,Punta Arenas,4.6,Parcialmente nublado,1003,89,20.2,WNW,0.0,44
+2025-05-31,2025-05-31 13:00,Punta Arenas,4.8,Soleado,1000,86,18.4,W,0.0,23
+2025-05-31,2025-05-31 14:00,Punta Arenas,4.9,Soleado,1000,82,12.2,W,0.0,17
+2025-05-31,2025-05-31 15:00,Punta Arenas,4.7,Soleado,1000,82,7.9,WNW,0.0,12
+2025-05-31,2025-05-31 16:00,Punta Arenas,4.3,Soleado,1000,82,7.9,NNW,0.0,14
+2025-05-31,2025-05-31 17:00,Punta Arenas,4.1,Soleado,1000,83,11.9,NNW,0.0,18
+2025-05-31,2025-05-31 18:00,Punta Arenas,4.2,Despejado,1000,82,13.0,N,0.0,13
+2025-05-31,2025-05-31 19:00,Punta Arenas,4.1,Despejado,1000,80,14.4,N,0.0,15
+2025-05-31,2025-05-31 20:00,Punta Arenas,3.8,Parcialmente nublado,1003,81,18.4,N,0.0,48
+2025-05-31,2025-05-31 21:00,Punta Arenas,3.8,Lluvia  moderada a intervalos,1063,79,21.2,N,0.02,64
+2025-05-31,2025-05-31 22:00,Punta Arenas,3.9,Llovizna,1153,82,22.7,NNE,0.23,100
+2025-05-31,2025-05-31 23:00,Punta Arenas,4.0,Lluvia  moderada a intervalos,1063,81,22.0,NNE,0.11,100
+2025-06-01,2025-06-01 00:00,Punta Arenas,3.8,Cielo cubierto,1009,78,34.9,NNW,0.0,100
+2025-06-01,2025-06-01 01:00,Punta Arenas,3.5,Parcialmente nublado,1003,79,25.2,NNW,0.0,54
+2025-06-01,2025-06-01 02:00,Punta Arenas,3.6,Parcialmente nublado,1003,80,14.4,WNW,0.0,52
+2025-06-01,2025-06-01 03:00,Punta Arenas,3.5,Cielo cubierto,1009,81,14.8,W,0.0,91
+2025-06-01,2025-06-01 04:00,Punta Arenas,3.3,Nublado,1006,86,14.8,W,0.0,82
+2025-06-01,2025-06-01 05:00,Punta Arenas,3.0,Parcialmente nublado,1003,90,14.4,WSW,0.0,58
+2025-06-01,2025-06-01 06:00,Punta Arenas,3.1,Parcialmente nublado,1003,89,9.4,WSW,0.0,54
+2025-06-01,2025-06-01 07:00,Punta Arenas,2.9,Cielo cubierto,1009,88,13.3,WNW,0.0,100
+2025-06-01,2025-06-01 08:00,Punta Arenas,3.2,Nublado,1006,87,16.9,WNW,0.0,85
+2025-06-01,2025-06-01 09:00,Punta Arenas,3.0,Despejado,1000,85,17.3,NW,0.0,24
+2025-06-01,2025-06-01 10:00,Punta Arenas,3.0,Soleado,1000,84,19.1,NW,0.0,18
+2025-06-01,2025-06-01 11:00,Punta Arenas,3.5,Soleado,1000,78,18.0,NW,0.0,10
+2025-06-01,2025-06-01 12:00,Punta Arenas,4.0,Parcialmente nublado,1003,72,19.1,NW,0.0,46
+2025-06-01,2025-06-01 13:00,Punta Arenas,3.4,Nevadas intensas,1222,79,23.4,NW,0.28,68
+2025-06-01,2025-06-01 14:00,Punta Arenas,3.6,Parcialmente nublado,1003,81,24.5,WNW,0.0,25
+2025-06-01,2025-06-01 15:00,Punta Arenas,3.5,Soleado,1000,82,25.2,W,0.0,10
+2025-06-01,2025-06-01 16:00,Punta Arenas,3.3,Lluvia  moderada a intervalos,1063,82,25.6,W,0.01,72
+2025-06-01,2025-06-01 17:00,Punta Arenas,3.5,Nevadas ligeras a intervalos,1210,77,22.3,W,0.02,76
+2025-06-01,2025-06-01 18:00,Punta Arenas,3.7,Despejado,1000,73,21.2,W,0.0,11
+2025-06-01,2025-06-01 19:00,Punta Arenas,3.6,Despejado,1000,73,20.5,W,0.0,11
+2025-06-01,2025-06-01 20:00,Punta Arenas,3.2,Despejado,1000,74,17.6,W,0.0,16
+2025-06-01,2025-06-01 21:00,Punta Arenas,3.0,Despejado,1000,74,15.5,W,0.0,13
+2025-06-01,2025-06-01 22:00,Punta Arenas,2.9,Despejado,1000,76,15.5,WNW,0.0,23
+2025-06-01,2025-06-01 23:00,Punta Arenas,2.9,Parcialmente nublado,1003,77,18.0,WNW,0.0,37
+2025-06-02,2025-06-02 00:00,Punta Arenas,2.8,Parcialmente nublado,1003,72,18.0,WNW,0.0,32
+2025-06-02,2025-06-02 01:00,Punta Arenas,2.7,Nublado,1006,76,19.1,WNW,0.0,65
+2025-06-02,2025-06-02 02:00,Punta Arenas,3.0,Despejado,1000,78,24.5,WNW,0.0,23
+2025-06-02,2025-06-02 03:00,Punta Arenas,3.3,Despejado,1000,77,28.4,WNW,0.0,17
+2025-06-02,2025-06-02 04:00,Punta Arenas,3.3,Nublado,1006,78,26.3,WNW,0.0,73
+2025-06-02,2025-06-02 05:00,Punta Arenas,3.3,Cielo cubierto,1009,79,24.8,WNW,0.0,100
+2025-06-02,2025-06-02 06:00,Punta Arenas,3.4,Lluvia  moderada a intervalos,1063,82,23.4,NW,0.09,51
+2025-06-02,2025-06-02 07:00,Punta Arenas,2.5,Fuertes nevadas,1225,88,29.5,NNW,0.53,99
+2025-06-02,2025-06-02 08:00,Punta Arenas,2.7,Ligeras precipitaciones de aguanieve,1204,95,35.6,NW,0.36,100
+2025-06-02,2025-06-02 10:00,Punta Arenas,5.1,Nublado,1006,76,39.6,W,0.0,82
+2025-06-02,2025-06-02 11:00,Punta Arenas,4.9,Parcialmente nublado,1003,76,33.8,W,0.0,49
+2025-06-02,2025-06-02 12:00,Punta Arenas,4.9,Parcialmente nublado,1003,78,25.9,WNW,0.0,57
+2025-06-02,2025-06-02 13:00,Punta Arenas,4.7,Parcialmente nublado,1003,80,27.4,WNW,0.0,44
+2025-06-02,2025-06-02 14:00,Punta Arenas,4.5,Nublado,1006,83,30.6,NW,0.0,73
+2025-06-02,2025-06-02 15:00,Punta Arenas,4.1,Nublado,1006,86,28.1,NW,0.0,87
+2025-06-02,2025-06-02 16:00,Punta Arenas,4.0,Cielo cubierto,1009,88,23.0,NW,0.0,93
+2025-06-02,2025-06-02 17:00,Punta Arenas,3.5,Nublado,1006,89,18.4,NW,0.0,76
+2025-06-02,2025-06-02 18:00,Punta Arenas,3.1,Nublado,1006,91,19.8,NW,0.0,80
+2025-06-02,2025-06-02 19:00,Punta Arenas,3.1,Cielo cubierto,1009,92,21.2,NW,0.0,100
+2025-06-02,2025-06-02 20:00,Punta Arenas,3.6,Cielo cubierto,1009,92,22.0,NW,0.0,100
+2025-06-02,2025-06-02 21:00,Punta Arenas,4.1,Cielo cubierto,1009,90,22.3,NW,0.0,100
+2025-06-02,2025-06-02 22:00,Punta Arenas,4.9,Cielo cubierto,1009,87,20.9,NW,0.0,100
+2025-06-02,2025-06-02 23:00,Punta Arenas,4.5,Cielo cubierto,1009,89,19.8,NW,0.0,100
+2025-06-03,2025-06-03 00:00,Punta Arenas,5.9,Parcialmente nublado,1003,81,36.7,WNW,0.0,47
+2025-06-03,2025-06-03 01:00,Punta Arenas,5.4,Cielo cubierto,1009,85,27.7,WNW,0.0,92
+2025-06-03,2025-06-03 02:00,Punta Arenas,5.6,Cielo cubierto,1009,85,28.8,NW,0.0,100
+2025-06-03,2025-06-03 03:00,Punta Arenas,6.3,Cielo cubierto,1009,81,33.5,WNW,0.0,100
+2025-06-03,2025-06-03 04:00,Punta Arenas,5.9,Lluvia  moderada a intervalos,1063,85,31.0,NW,0.02,100
+2025-06-03,2025-06-03 05:00,Punta Arenas,5.6,Nublado,1006,84,31.0,NW,0.0,84
+2025-06-03,2025-06-03 06:00,Punta Arenas,5.2,Nublado,1006,83,33.8,NW,0.0,72
+2025-06-03,2025-06-03 07:00,Punta Arenas,5.1,Cielo cubierto,1009,83,33.1,NW,0.0,100
+2025-06-03,2025-06-03 08:00,Punta Arenas,5.0,Lluvia  moderada a intervalos,1063,86,34.2,NW,0.02,100
+2025-06-03,2025-06-03 09:00,Punta Arenas,5.5,Cielo cubierto,1009,81,36.4,NW,0.0,100
+2025-06-03,2025-06-03 10:00,Punta Arenas,5.4,Lluvia  moderada a intervalos,1063,82,31.0,NW,0.01,100
+2025-06-03,2025-06-03 11:00,Punta Arenas,5.7,Cielo cubierto,1009,80,30.2,NW,0.0,100
+2025-06-03,2025-06-03 12:00,Punta Arenas,5.9,Lluvia  moderada a intervalos,1063,79,36.7,NW,0.04,100
+2025-06-03,2025-06-03 13:00,Punta Arenas,5.9,Lluvia  moderada a intervalos,1063,79,37.1,NW,0.05,100
+2025-06-03,2025-06-03 14:00,Punta Arenas,6.0,Lluvia  moderada a intervalos,1063,77,33.5,WNW,0.02,56
+2025-06-03,2025-06-03 15:00,Punta Arenas,5.5,Lluvia  moderada a intervalos,1063,80,33.8,WNW,0.01,93
+2025-06-03,2025-06-03 16:00,Punta Arenas,5.1,Lluvia  moderada a intervalos,1063,83,35.6,WNW,0.05,100
+2025-06-03,2025-06-03 17:00,Punta Arenas,4.1,Ligeras precipitaciones de aguanieve,1204,90,24.8,W,0.84,100
+2025-06-03,2025-06-03 18:00,Punta Arenas,4.0,Ligeras precipitaciones de aguanieve,1204,82,28.4,WSW,0.48,55
+2025-06-03,2025-06-03 19:00,Punta Arenas,3.8,Aguanieve moderada a intervalos en las aproximaciones,1069,84,29.9,W,0.21,80
+2025-06-03,2025-06-03 20:00,Punta Arenas,4.1,Lluvia  moderada a intervalos,1063,70,31.0,W,0.13,79
+2025-06-03,2025-06-03 21:00,Punta Arenas,3.9,Despejado,1000,68,31.7,W,0.0,11
+2025-06-03,2025-06-03 22:00,Punta Arenas,3.7,Despejado,1000,67,31.7,WNW,0.0,10
+2025-06-03,2025-06-03 23:00,Punta Arenas,3.4,Chubascos de nieve,1114,69,34.2,W,0.05,78
+2025-06-04,2025-06-04 00:00,Punta Arenas,3.6,Despejado,1000,69,31.0,W,0.0,20
+2025-06-04,2025-06-04 01:00,Punta Arenas,3.8,Parcialmente nublado,1003,68,35.6,W,0.0,46
+2025-06-04,2025-06-04 02:00,Punta Arenas,3.7,Despejado,1000,67,34.6,W,0.0,16
+2025-06-04,2025-06-04 06:00,Punta Arenas,3.9,Despejado,1000,73,37.4,WSW,0.0,16
+2025-06-04,2025-06-04 07:00,Punta Arenas,3.8,Parcialmente nublado,1003,78,38.9,WSW,0.0,26
+2025-06-04,2025-06-04 09:00,Punta Arenas,3.8,Despejado,1000,67,38.9,WSW,0.0,8
+2025-06-04,2025-06-04 10:00,Punta Arenas,3.8,Soleado,1000,72,34.6,WSW,0.0,15
+2025-06-04,2025-06-04 11:00,Punta Arenas,4.2,Cielo cubierto,1009,72,35.6,W,0.0,100
+2025-06-04,2025-06-04 12:00,Punta Arenas,4.4,Lluvia  moderada a intervalos,1063,70,32.8,W,0.1,100
+2025-06-04,2025-06-04 13:00,Punta Arenas,3.7,Ligeras precipitaciones de nieve,1255,81,34.2,W,0.02,100
+2025-06-04,2025-06-04 14:00,Punta Arenas,4.8,Cielo cubierto,1009,67,36.0,WSW,0.0,100
+2025-06-04,2025-06-04 15:00,Punta Arenas,4.5,Nublado,1006,72,29.9,W,0.0,75
+2025-06-04,2025-06-04 16:00,Punta Arenas,3.8,Nublado,1006,79,18.4,W,0.0,64
+2025-06-04,2025-06-04 17:00,Punta Arenas,3.5,Nublado,1006,82,15.1,NW,0.0,72
+2025-06-04,2025-06-04 18:00,Punta Arenas,3.5,Lluvia  moderada a intervalos,1063,87,23.8,NW,0.02,100
+2025-06-04,2025-06-04 19:00,Punta Arenas,3.8,Lluvia  moderada a intervalos,1063,91,27.0,WNW,0.05,100
+2025-06-04,2025-06-04 20:00,Punta Arenas,4.2,Llovizna,1153,90,23.4,WNW,0.36,100
+2025-06-04,2025-06-04 21:00,Punta Arenas,3.8,Llovizna,1153,92,18.7,W,0.25,92
+2025-06-04,2025-06-04 22:00,Punta Arenas,5.9,Lluvia  moderada a intervalos,1063,87,37.1,W,0.12,100
+2025-05-26,2025-05-26 00:00,Puerto Natales,0.2,Neblina,1030,95,1.4,ENE,0.0,55
+2025-05-26,2025-05-26 01:00,Puerto Natales,0.1,Neblina,1030,94,1.4,NE,0.0,77
+2025-05-26,2025-05-26 02:00,Puerto Natales,0.4,Cielo cubierto,1009,93,1.1,NE,0.0,95
+2025-05-26,2025-05-26 03:00,Puerto Natales,0.6,Cielo cubierto,1009,92,1.1,N,0.0,100
+2025-05-26,2025-05-26 04:00,Puerto Natales,1.0,Lluvia  moderada a intervalos,1063,91,1.1,WSW,0.01,100
+2025-05-26,2025-05-26 05:00,Puerto Natales,1.2,Nevadas ligeras,1213,92,0.4,W,0.05,100
+2025-05-26,2025-05-26 06:00,Puerto Natales,1.4,Nevadas ligeras,1213,93,0.4,NW,0.04,100
+2025-05-26,2025-05-26 07:00,Puerto Natales,1.4,Nieve moderada,1219,95,0.4,SSW,0.11,95
+2025-05-26,2025-05-26 08:00,Puerto Natales,1.4,Nieve moderada,1219,95,0.4,ESE,0.21,91
+2025-05-26,2025-05-26 09:00,Puerto Natales,1.5,Nieve moderada,1219,96,0.4,NE,0.14,100
+2025-05-26,2025-05-26 10:00,Puerto Natales,1.9,Nieve moderada,1219,97,0.7,NNE,0.1,97
+2025-05-26,2025-05-26 11:00,Puerto Natales,2.1,Nevadas ligeras,1213,99,1.4,NNE,0.03,97
+2025-05-26,2025-05-26 12:00,Puerto Natales,2.0,Neblina,1030,96,2.2,N,0.01,96
+2025-05-26,2025-05-26 13:00,Puerto Natales,2.1,Nublado,1006,93,2.2,N,0.0,85
+2025-05-26,2025-05-26 14:00,Puerto Natales,2.4,Nublado,1006,92,1.1,N,0.0,80
+2025-05-26,2025-05-26 15:00,Puerto Natales,2.5,Parcialmente nublado,1003,89,0.7,NE,0.0,55
+2025-05-26,2025-05-26 16:00,Puerto Natales,1.9,Parcialmente nublado,1003,89,0.4,ENE,0.0,45
+2025-05-26,2025-05-26 17:00,Puerto Natales,0.6,Parcialmente nublado,1003,92,0.7,ENE,0.0,41
+2025-05-26,2025-05-26 18:00,Puerto Natales,-0.5,Parcialmente nublado,1003,93,2.2,NNE,0.0,30
+2025-05-26,2025-05-26 19:00,Puerto Natales,-0.9,Parcialmente nublado,1003,93,3.2,NNW,0.0,30
+2025-05-26,2025-05-26 20:00,Puerto Natales,-0.9,Parcialmente nublado,1003,93,4.0,NNW,0.0,34
+2025-05-26,2025-05-26 21:00,Puerto Natales,-1.2,Parcialmente nublado,1003,94,5.4,NNW,0.0,37
+2025-05-26,2025-05-26 22:00,Puerto Natales,-1.2,Parcialmente nublado,1003,94,5.4,N,0.0,37
+2025-05-26,2025-05-26 23:00,Puerto Natales,-1.2,Parcialmente nublado,1003,94,5.8,N,0.0,34
+2025-05-27,2025-05-27 00:00,Puerto Natales,-1.6,Despejado,1000,91,5.4,N,0.0,5
+2025-05-27,2025-05-27 01:00,Puerto Natales,-1.8,Despejado,1000,90,5.4,N,0.0,3
+2025-05-27,2025-05-27 02:00,Puerto Natales,-1.9,Despejado,1000,90,5.0,N,0.0,1
+2025-05-27,2025-05-27 03:00,Puerto Natales,-1.9,Despejado,1000,89,5.4,N,0.0,0
+2025-05-27,2025-05-27 04:00,Puerto Natales,-2.1,Despejado,1000,88,5.8,N,0.0,0
+2025-05-27,2025-05-27 05:00,Puerto Natales,-2.1,Despejado,1000,87,5.8,N,0.0,0
+2025-05-27,2025-05-27 06:00,Puerto Natales,-1.9,Despejado,1000,86,5.0,NNW,0.0,0
+2025-05-27,2025-05-27 07:00,Puerto Natales,-1.5,Parcialmente nublado,1003,85,5.4,N,0.0,32
+2025-05-27,2025-05-27 08:00,Puerto Natales,-1.7,Despejado,1000,85,5.4,N,0.0,11
+2025-05-27,2025-05-27 09:00,Puerto Natales,-1.6,Parcialmente nublado,1003,83,5.4,NNE,0.0,32
+2025-05-27,2025-05-27 10:00,Puerto Natales,-0.8,Parcialmente nublado,1003,80,5.4,NNE,0.0,40
+2025-05-27,2025-05-27 11:00,Puerto Natales,0.3,Nublado,1006,74,3.6,N,0.0,77
+2025-05-27,2025-05-27 12:00,Puerto Natales,1.1,Parcialmente nublado,1003,71,2.9,N,0.0,32
+2025-05-27,2025-05-27 13:00,Puerto Natales,1.9,Parcialmente nublado,1003,68,4.0,NNE,0.0,43
+2025-05-27,2025-05-27 14:00,Puerto Natales,2.3,Soleado,1000,66,1.8,NNE,0.0,8
+2025-05-27,2025-05-27 15:00,Puerto Natales,2.0,Soleado,1000,72,0.4,W,0.0,16
+2025-05-27,2025-05-27 16:00,Puerto Natales,0.4,Parcialmente nublado,1003,77,1.4,NE,0.0,44
+2025-05-27,2025-05-27 17:00,Puerto Natales,-1.2,Parcialmente nublado,1003,81,3.2,N,0.0,49
+2025-05-27,2025-05-27 18:00,Puerto Natales,-1.5,Parcialmente nublado,1003,82,5.0,NE,0.0,49
+2025-05-27,2025-05-27 19:00,Puerto Natales,-1.2,Parcialmente nublado,1003,79,3.6,N,0.0,48
+2025-05-27,2025-05-27 20:00,Puerto Natales,-1.3,Parcialmente nublado,1003,78,4.7,NNE,0.0,54
+2025-05-27,2025-05-27 21:00,Puerto Natales,-0.8,Ligeras lluvias heladas,1198,75,3.6,N,0.01,69
+2025-05-27,2025-05-27 22:00,Puerto Natales,-0.8,Ligeras lluvias heladas,1198,75,4.0,NNE,0.01,91
+2025-05-27,2025-05-27 23:00,Puerto Natales,-0.6,Cielo cubierto,1009,75,4.7,NE,0.0,100
+2025-05-28,2025-05-28 00:00,Puerto Natales,-1.1,Ligeras lluvias heladas,1198,85,1.8,NNE,0.06,74
+2025-05-28,2025-05-28 01:00,Puerto Natales,-1.0,Ligeras lluvias heladas,1198,84,4.3,NNE,0.04,77
+2025-05-28,2025-05-28 02:00,Puerto Natales,-1.0,Ligeras lluvias heladas,1198,86,2.5,NNW,0.12,77
+2025-05-28,2025-05-28 03:00,Puerto Natales,-1.4,Ligeras precipitaciones de aguanieve,1204,93,2.2,NNW,1.0,100
+2025-05-28,2025-05-28 04:00,Puerto Natales,-1.2,Ligeras precipitaciones de aguanieve,1204,93,3.2,N,0.57,100
+2025-05-28,2025-05-28 05:00,Puerto Natales,-1.2,Ligeras lluvias heladas,1198,92,2.9,NE,0.07,100
+2025-05-28,2025-05-28 06:00,Puerto Natales,-0.4,Ligeras lluvias heladas,1198,89,4.0,ENE,0.01,89
+2025-05-28,2025-05-28 07:00,Puerto Natales,0.1,Parcialmente nublado,1003,88,5.8,ENE,0.0,48
+2025-05-28,2025-05-28 08:00,Puerto Natales,0.4,Ligeras lluvias heladas,1198,87,5.4,NE,0.01,88
+2025-05-28,2025-05-28 09:00,Puerto Natales,-0.3,Parcialmente nublado,1003,90,4.3,NE,0.0,30
+2025-05-28,2025-05-28 10:00,Puerto Natales,0.5,Ligeras lluvias heladas,1198,87,5.0,NNE,0.05,75
+2025-05-28,2025-05-28 11:00,Puerto Natales,2.0,Lluvia  moderada a intervalos,1063,84,1.4,ENE,0.05,97
+2025-05-28,2025-05-28 12:00,Puerto Natales,3.6,Parcialmente nublado,1003,85,6.1,NNW,0.0,52
+2025-05-28,2025-05-28 13:00,Puerto Natales,5.5,Parcialmente nublado,1003,86,8.6,NW,0.0,30
+2025-05-28,2025-05-28 14:00,Puerto Natales,6.5,Soleado,1000,83,14.0,WNW,0.0,10
+2025-05-28,2025-05-28 15:00,Puerto Natales,6.3,Parcialmente nublado,1003,83,13.3,WNW,0.0,31
+2025-05-28,2025-05-28 16:00,Puerto Natales,4.3,Soleado,1000,90,10.1,WNW,0.0,8
+2025-05-28,2025-05-28 17:00,Puerto Natales,2.3,Soleado,1000,92,7.9,NW,0.0,10
+2025-05-28,2025-05-28 18:00,Puerto Natales,2.0,Despejado,1000,89,7.9,NW,0.0,21
+2025-05-28,2025-05-28 19:00,Puerto Natales,2.1,Parcialmente nublado,1003,87,5.4,NW,0.0,30
+2025-05-28,2025-05-28 20:00,Puerto Natales,1.7,Parcialmente nublado,1003,89,6.5,NNW,0.0,30
+2025-05-28,2025-05-28 21:00,Puerto Natales,1.3,Despejado,1000,91,8.3,NNW,0.0,24
+2025-05-28,2025-05-28 22:00,Puerto Natales,1.0,Parcialmente nublado,1003,93,9.4,N,0.0,36
+2025-05-28,2025-05-28 23:00,Puerto Natales,1.1,Parcialmente nublado,1003,93,9.7,N,0.0,28
+2025-05-29,2025-05-29 00:00,Puerto Natales,2.7,Neblina,1030,96,7.9,N,0.0,98
+2025-05-29,2025-05-29 01:00,Puerto Natales,2.6,Neblina,1030,96,7.9,NNE,0.0,91
+2025-05-29,2025-05-29 02:00,Puerto Natales,2.4,Neblina,1030,95,8.3,NNE,0.0,96
+2025-05-29,2025-05-29 03:00,Puerto Natales,2.3,Neblina,1030,95,8.3,NNE,0.01,100
+2025-05-29,2025-05-29 04:00,Puerto Natales,1.8,Neblina,1030,96,7.9,NNE,0.0,63
+2025-05-29,2025-05-29 05:00,Puerto Natales,0.8,Neblina,1030,96,7.9,NNE,0.0,66
+2025-05-29,2025-05-29 06:00,Puerto Natales,0.9,Neblina,1030,96,7.2,NNE,0.0,36
+2025-05-29,2025-05-29 07:00,Puerto Natales,1.1,Neblina,1030,96,7.2,NNE,0.0,100
+2025-05-29,2025-05-29 08:00,Puerto Natales,1.3,Neblina,1030,96,6.1,NNE,0.0,100
+2025-05-29,2025-05-29 09:00,Puerto Natales,0.9,Neblina,1030,96,5.8,NNE,0.02,89
+2025-05-29,2025-05-29 10:00,Puerto Natales,2.1,Lluvia  moderada a intervalos,1063,94,4.7,N,0.12,51
+2025-05-29,2025-05-29 11:00,Puerto Natales,2.7,Lluvia  moderada a intervalos,1063,92,2.9,N,0.07,83
+2025-05-29,2025-05-29 12:00,Puerto Natales,2.9,Llovizna,1153,92,5.0,WNW,0.26,91
+2025-05-29,2025-05-29 13:00,Puerto Natales,3.2,Llovizna,1153,94,3.2,WNW,0.19,100
+2025-05-29,2025-05-29 14:00,Puerto Natales,3.4,Neblina,1030,94,2.9,NNW,0.0,100
+2025-05-29,2025-05-29 15:00,Puerto Natales,3.3,Neblina,1030,95,3.6,NNW,0.0,96
+2025-05-29,2025-05-29 16:00,Puerto Natales,2.5,Neblina,1030,96,4.3,N,0.0,82
+2025-05-29,2025-05-29 17:00,Puerto Natales,1.4,Neblina,1030,96,3.2,NNW,0.0,48
+2025-05-29,2025-05-29 18:00,Puerto Natales,0.8,Neblina,1030,96,5.4,N,0.0,67
+2025-05-29,2025-05-29 19:00,Puerto Natales,0.3,Neblina,1030,96,5.4,NNE,0.01,66
+2025-05-29,2025-05-29 20:00,Puerto Natales,0.2,Neblina,1030,95,4.3,N,0.0,46
+2025-05-29,2025-05-29 21:00,Puerto Natales,-0.4,Neblina,1030,95,5.4,NNE,0.0,34
+2025-05-29,2025-05-29 22:00,Puerto Natales,-0.7,Neblina,1030,94,6.8,NNE,0.0,34
+2025-05-29,2025-05-29 23:00,Puerto Natales,-1.1,Despejado,1000,93,7.6,NNE,0.0,16
+2025-05-30,2025-05-30 00:00,Puerto Natales,0.8,Nublado,1006,92,5.8,NE,0.0,66
+2025-05-30,2025-05-30 01:00,Puerto Natales,0.5,Parcialmente nublado,1003,92,6.1,NNE,0.0,52
+2025-05-30,2025-05-30 02:00,Puerto Natales,0.2,Nublado,1006,92,5.8,N,0.0,72
+2025-05-30,2025-05-30 03:00,Puerto Natales,0.3,Fuertes nevadas,1225,93,5.0,NNW,0.3,100
+2025-05-30,2025-05-30 04:00,Puerto Natales,0.6,Nieve moderada,1219,98,4.7,NNW,0.2,100
+2025-05-30,2025-05-30 05:00,Puerto Natales,0.6,Nevadas ligeras,1213,96,5.0,NNW,0.05,87
+2025-05-30,2025-05-30 06:00,Puerto Natales,0.5,Fuertes nevadas,1225,98,5.0,NW,1.29,100
+2025-05-30,2025-05-30 07:00,Puerto Natales,1.0,Ligeras precipitaciones de aguanieve,1204,99,5.8,NW,0.45,100
+2025-05-30,2025-05-30 08:00,Puerto Natales,1.2,Niebla moderada,1135,98,4.0,NNW,0.08,100
+2025-05-30,2025-05-30 09:00,Puerto Natales,1.6,Niebla moderada,1135,98,4.7,NNW,0.12,100
+2025-05-30,2025-05-30 10:00,Puerto Natales,2.1,Niebla moderada,1135,98,6.1,WNW,0.13,100
+2025-05-30,2025-05-30 11:00,Puerto Natales,2.6,Niebla moderada,1135,99,7.2,WNW,0.02,100
+2025-05-30,2025-05-30 12:00,Puerto Natales,3.6,Neblina,1030,96,8.3,WNW,0.01,64
+2025-05-30,2025-05-30 13:00,Puerto Natales,4.5,Llovizna,1153,91,11.2,WNW,0.41,100
+2025-05-30,2025-05-30 14:00,Puerto Natales,3.9,Lluvia  moderada a intervalos,1063,93,12.2,WNW,0.14,100
+2025-05-30,2025-05-30 15:00,Puerto Natales,3.7,Llovizna,1153,95,12.2,WNW,0.54,100
+2025-05-30,2025-05-30 16:00,Puerto Natales,3.2,Llovizna,1153,96,14.4,WNW,0.64,100
+2025-05-30,2025-05-30 17:00,Puerto Natales,3.2,Llovizna,1153,96,14.8,WNW,0.38,100
+2025-05-30,2025-05-30 18:00,Puerto Natales,3.2,Llovizna,1153,94,14.8,WNW,0.28,100
+2025-05-30,2025-05-30 19:00,Puerto Natales,2.9,Lluvia  moderada a intervalos,1063,93,11.2,WNW,0.04,100
+2025-05-30,2025-05-30 20:00,Puerto Natales,1.5,Neblina,1030,95,9.4,WNW,0.01,100
+2025-05-30,2025-05-30 21:00,Puerto Natales,2.3,Neblina,1030,96,7.2,WNW,0.01,100
+2025-05-30,2025-05-30 22:00,Puerto Natales,2.6,Niebla moderada,1135,97,7.2,WNW,0.01,100
+2025-05-30,2025-05-30 23:00,Puerto Natales,1.6,Niebla moderada,1135,98,9.0,WNW,0.02,100
+2025-05-31,2025-05-31 00:00,Puerto Natales,1.1,Niebla moderada,1135,97,7.9,WNW,0.0,100
+2025-05-31,2025-05-31 01:00,Puerto Natales,1.6,Niebla moderada,1135,98,7.6,WNW,0.01,100
+2025-05-31,2025-05-31 02:00,Puerto Natales,2.1,Niebla moderada,1135,97,9.0,WNW,0.06,100
+2025-05-31,2025-05-31 03:00,Puerto Natales,2.5,Niebla moderada,1135,98,9.7,WNW,0.08,100
+2025-05-31,2025-05-31 04:00,Puerto Natales,2.5,Niebla moderada,1135,98,10.1,WNW,0.07,100
+2025-05-31,2025-05-31 05:00,Puerto Natales,2.4,Llovizna,1153,97,9.7,NW,0.17,100
+2025-05-31,2025-05-31 06:00,Puerto Natales,2.8,Neblina,1030,97,9.0,WNW,0.08,97
+2025-05-31,2025-05-31 07:00,Puerto Natales,2.8,Niebla moderada,1135,98,7.9,WNW,0.02,100
+2025-05-31,2025-05-31 08:00,Puerto Natales,2.8,Niebla moderada,1135,97,8.3,WNW,0.01,100
+2025-05-31,2025-05-31 09:00,Puerto Natales,2.8,Neblina,1030,95,7.2,WNW,0.0,76
+2025-05-31,2025-05-31 10:00,Puerto Natales,3.3,Parcialmente nublado,1003,92,6.1,WNW,0.0,57
+2025-05-31,2025-05-31 11:00,Puerto Natales,3.6,Parcialmente nublado,1003,91,5.0,NW,0.0,46
+2025-05-31,2025-05-31 12:00,Puerto Natales,3.8,Parcialmente nublado,1003,88,7.2,NNW,0.0,49
+2025-05-31,2025-05-31 13:00,Puerto Natales,3.9,Parcialmente nublado,1003,85,7.9,N,0.0,47
+2025-05-31,2025-05-31 14:00,Puerto Natales,4.1,Parcialmente nublado,1003,83,7.6,N,0.0,37
+2025-05-31,2025-05-31 15:00,Puerto Natales,3.9,Parcialmente nublado,1003,84,5.0,NNW,0.0,50
+2025-05-31,2025-05-31 16:00,Puerto Natales,3.1,Parcialmente nublado,1003,88,4.3,N,0.0,44
+2025-05-31,2025-05-31 17:00,Puerto Natales,2.0,Cielo cubierto,1009,90,6.8,NNE,0.0,100
+2025-05-31,2025-05-31 18:00,Puerto Natales,1.7,Cielo cubierto,1009,91,7.2,NNE,0.0,100
+2025-05-31,2025-05-31 19:00,Puerto Natales,1.6,Cielo cubierto,1009,90,6.5,NNE,0.0,100
+2025-05-31,2025-05-31 20:00,Puerto Natales,1.4,Cielo cubierto,1009,90,5.8,NNE,0.0,100
+2025-05-31,2025-05-31 21:00,Puerto Natales,1.1,Lluvia  moderada a intervalos,1063,91,5.0,NE,0.08,100
+2025-05-31,2025-05-31 22:00,Puerto Natales,1.0,Ligeras lluvias heladas,1198,92,6.8,NNE,0.06,87
+2025-05-31,2025-05-31 23:00,Puerto Natales,0.7,Fuertes nevadas,1225,94,5.8,WSW,0.57,89
+2025-06-01,2025-06-01 00:00,Puerto Natales,0.2,Ligeras precipitaciones de aguanieve,1204,98,4.0,NW,0.71,100
+2025-06-01,2025-06-01 01:00,Puerto Natales,0.3,Ligeras precipitaciones de aguanieve,1204,98,4.0,NNW,0.3,100
+2025-06-01,2025-06-01 02:00,Puerto Natales,0.6,Niebla moderada,1135,98,4.7,NNW,0.03,100
+2025-06-01,2025-06-01 03:00,Puerto Natales,0.3,Niebla moderada,1135,98,2.9,W,0.04,100
+2025-06-01,2025-06-01 04:00,Puerto Natales,0.7,Nevadas ligeras,1213,99,2.9,W,0.03,100
+2025-06-01,2025-06-01 05:00,Puerto Natales,0.8,Nevadas ligeras,1213,98,2.5,WSW,0.02,100
+2025-06-01,2025-06-01 06:00,Puerto Natales,1.4,Niebla moderada,1135,98,2.2,WSW,0.01,100
+2025-06-01,2025-06-01 07:00,Puerto Natales,2.1,Neblina,1030,95,3.2,NW,0.0,81
+2025-06-01,2025-06-01 08:00,Puerto Natales,1.7,Neblina,1030,94,4.7,NNW,0.0,71
+2025-06-01,2025-06-01 09:00,Puerto Natales,1.4,Parcialmente nublado,1003,92,5.8,NW,0.0,52
+2025-06-01,2025-06-01 10:00,Puerto Natales,1.7,Parcialmente nublado,1003,90,6.1,NNW,0.0,26
+2025-06-01,2025-06-01 11:00,Puerto Natales,2.8,Soleado,1000,85,9.0,NNW,0.0,7
+2025-06-01,2025-06-01 12:00,Puerto Natales,3.6,Ligeras precipitaciones de aguanieve,1204,81,9.4,W,0.49,52
+2025-06-01,2025-06-01 13:00,Puerto Natales,1.9,Fuertes nevadas,1225,95,7.6,W,0.65,88
+2025-06-01,2025-06-01 14:00,Puerto Natales,2.7,Nieve moderada a intervalos,1216,91,7.9,WNW,0.09,68
+2025-06-01,2025-06-01 15:00,Puerto Natales,3.2,Lluvia  moderada a intervalos,1063,86,9.0,W,0.15,50
+2025-06-01,2025-06-01 16:00,Puerto Natales,2.1,Lluvia  moderada a intervalos,1063,90,9.4,WNW,0.1,59
+2025-06-01,2025-06-01 17:00,Puerto Natales,1.3,Lluvia  moderada a intervalos,1063,92,10.4,NW,0.12,52
+2025-06-01,2025-06-01 18:00,Puerto Natales,1.4,Lluvia  moderada a intervalos,1063,87,11.2,WNW,0.02,75
+2025-06-01,2025-06-01 19:00,Puerto Natales,1.5,Parcialmente nublado,1003,84,12.2,WNW,0.0,27
+2025-06-01,2025-06-01 20:00,Puerto Natales,1.5,Despejado,1000,82,12.6,WNW,0.0,19
+2025-06-01,2025-06-01 21:00,Puerto Natales,1.3,Despejado,1000,84,12.6,NW,0.0,19
+2025-06-01,2025-06-01 22:00,Puerto Natales,0.7,Ligeras lluvias heladas,1198,86,11.5,NW,0.01,74
+2025-06-01,2025-06-01 23:00,Puerto Natales,-0.1,Ligeras lluvias heladas,1198,90,11.2,NNW,0.01,82
+2025-06-02,2025-06-02 00:00,Puerto Natales,-0.1,Nieve moderada a intervalos,1216,91,9.7,NW,0.12,79
+2025-06-02,2025-06-02 01:00,Puerto Natales,-0.4,Chubascos de nieve fuertes o moderados,1258,93,9.7,NW,0.16,63
+2025-06-02,2025-06-02 02:00,Puerto Natales,-0.2,Nieve moderada,1219,91,10.1,NNW,0.11,86
+2025-06-02,2025-06-02 03:00,Puerto Natales,0.8,Nevadas ligeras a intervalos,1210,87,13.0,NNW,0.04,74
+2025-06-02,2025-06-02 04:00,Puerto Natales,0.8,Aguanieve moderada a intervalos en las aproximaciones,1069,86,12.2,NNW,0.22,71
+2025-06-02,2025-06-02 05:00,Puerto Natales,0.3,Ligeras precipitaciones de aguanieve,1204,90,11.2,NNW,0.18,75
+2025-06-02,2025-06-02 06:00,Puerto Natales,0.6,Aguanieve moderada a intervalos en las aproximaciones,1069,90,13.0,NNW,0.37,73
+2025-06-02,2025-06-02 07:00,Puerto Natales,1.6,Aguanieve moderada a intervalos en las aproximaciones,1069,91,14.0,NW,0.59,73
+2025-06-02,2025-06-02 08:00,Puerto Natales,3.2,Lluvia  moderada a intervalos,1063,86,17.6,NW,0.57,84
+2025-06-02,2025-06-02 09:00,Puerto Natales,3.5,Lluvia  moderada a intervalos,1063,85,17.3,WNW,0.37,71
+2025-06-02,2025-06-02 10:00,Puerto Natales,3.6,Lluvia  moderada a intervalos,1063,87,13.3,WNW,0.2,76
+2025-06-02,2025-06-02 11:00,Puerto Natales,4.5,Lluvia  moderada a intervalos,1063,84,13.7,WNW,0.13,87
+2025-06-02,2025-06-02 12:00,Puerto Natales,5.1,Lluvia  moderada a intervalos,1063,82,15.5,WNW,0.09,88
+2025-06-02,2025-06-02 13:00,Puerto Natales,5.6,Lluvia  moderada a intervalos,1063,80,16.9,WNW,0.08,77
+2025-06-02,2025-06-02 14:00,Puerto Natales,5.7,Lluvia  moderada a intervalos,1063,79,18.4,WNW,0.09,78
+2025-06-02,2025-06-02 15:00,Puerto Natales,5.4,Lluvia  moderada a intervalos,1063,81,16.9,WNW,0.1,87
+2025-06-02,2025-06-02 16:00,Puerto Natales,4.3,Lluvia  moderada a intervalos,1063,83,15.1,WNW,0.11,81
+2025-06-02,2025-06-02 17:00,Puerto Natales,3.1,Lluvia  moderada a intervalos,1063,87,14.4,NW,0.09,87
+2025-06-02,2025-06-02 18:00,Puerto Natales,2.7,Lluvia  moderada a intervalos,1063,89,13.3,NW,0.03,87
+2025-06-02,2025-06-02 19:00,Puerto Natales,2.3,Lluvia  moderada a intervalos,1063,90,12.6,NW,0.02,71
+2025-06-02,2025-06-02 20:00,Puerto Natales,2.0,Lluvia  moderada a intervalos,1063,91,12.6,NW,0.01,72
+2025-06-02,2025-06-02 21:00,Puerto Natales,2.0,Parcialmente nublado,1003,91,11.2,NW,0.0,33
+2025-06-02,2025-06-02 22:00,Puerto Natales,1.8,Parcialmente nublado,1003,92,10.4,NNW,0.0,39
+2025-06-02,2025-06-02 23:00,Puerto Natales,1.4,Parcialmente nublado,1003,92,10.1,NNW,0.0,48
+2025-06-03,2025-06-03 00:00,Puerto Natales,2.8,Despejado,1000,86,14.0,NNW,0.0,25
+2025-06-03,2025-06-03 01:00,Puerto Natales,2.9,Parcialmente nublado,1003,85,13.3,NW,0.0,29
+2025-06-03,2025-06-03 02:00,Puerto Natales,3.0,Parcialmente nublado,1003,84,13.0,NNW,0.0,44
+2025-06-03,2025-06-03 03:00,Puerto Natales,3.1,Parcialmente nublado,1003,84,13.0,NNW,0.0,46
+2025-06-03,2025-06-03 04:00,Puerto Natales,3.4,Lluvia  moderada a intervalos,1063,83,12.2,NW,0.01,78
+2025-06-03,2025-06-03 05:00,Puerto Natales,2.9,Lluvia  moderada a intervalos,1063,87,7.9,NW,0.15,54
+2025-06-03,2025-06-03 06:00,Puerto Natales,2.4,Lluvias ligeras a intervalos,1180,93,6.8,W,0.82,70
+2025-06-03,2025-06-03 07:00,Puerto Natales,2.2,Neblina,1030,95,9.0,NW,0.14,85
+2025-06-03,2025-06-03 08:00,Puerto Natales,1.7,Neblina,1030,95,10.1,NW,0.12,83
+2025-06-03,2025-06-03 09:00,Puerto Natales,2.1,Neblina,1030,94,11.9,NNW,0.02,54
+2025-06-03,2025-06-03 10:00,Puerto Natales,2.8,Nublado,1006,92,11.9,NNW,0.0,64
+2025-06-03,2025-06-03 11:00,Puerto Natales,3.5,Lluvia  moderada a intervalos,1063,91,12.6,NNW,0.05,64
+2025-06-03,2025-06-03 12:00,Puerto Natales,3.7,Llovizna,1153,91,11.9,NW,0.27,78
+2025-06-03,2025-06-03 13:00,Puerto Natales,3.5,Llovizna,1153,94,9.0,NW,0.66,100
+2025-06-03,2025-06-03 14:00,Puerto Natales,3.8,Lluvia  moderada a intervalos,1063,93,11.5,NW,0.07,100
+2025-06-03,2025-06-03 15:00,Puerto Natales,4.4,Llovizna,1153,84,16.2,NW,0.18,76
+2025-06-03,2025-06-03 16:00,Puerto Natales,3.2,Ligeras precipitaciones de aguanieve,1204,92,14.8,WNW,0.83,97
+2025-06-03,2025-06-03 17:00,Puerto Natales,2.3,Ligeras precipitaciones de aguanieve,1204,96,10.8,WNW,0.61,100
+2025-06-03,2025-06-03 18:00,Puerto Natales,2.6,Ligeras precipitaciones de aguanieve,1204,93,12.6,WNW,0.55,100
+2025-06-03,2025-06-03 19:00,Puerto Natales,2.2,Ligeras precipitaciones de aguanieve,1204,97,12.6,W,1.13,100
+2025-06-03,2025-06-03 20:00,Puerto Natales,2.0,Fuertes nevadas,1225,93,11.9,W,0.55,81
+2025-06-03,2025-06-03 21:00,Puerto Natales,2.4,Chubascos de nieve fuertes o moderados,1258,81,17.3,W,0.27,67
+2025-06-03,2025-06-03 22:00,Puerto Natales,2.0,Chubascos de nieve fuertes o moderados,1258,77,20.9,W,0.09,88
+2025-06-04,2025-06-04 00:00,Puerto Natales,1.9,Chubascos de nieve fuertes o moderados,1258,76,18.0,W,0.29,100
+2025-06-04,2025-06-04 01:00,Puerto Natales,1.8,Chubascos de nieve fuertes o moderados,1258,73,18.7,W,0.22,100
+2025-06-04,2025-06-04 02:00,Puerto Natales,1.8,Chubascos de nieve fuertes o moderados,1258,74,20.5,W,0.39,72
+2025-06-04,2025-06-04 03:00,Puerto Natales,1.9,Chubascos de nieve fuertes o moderados,1258,74,22.0,W,0.21,51
+2025-06-04,2025-06-04 04:00,Puerto Natales,1.7,Chubascos de nieve fuertes o moderados,1258,76,21.6,W,0.1,90
+2025-06-04,2025-06-04 05:00,Puerto Natales,1.8,Chubascos de nieve fuertes o moderados,1258,82,22.3,W,0.12,100
+2025-06-04,2025-06-04 06:00,Puerto Natales,2.1,Chubascos de nieve fuertes o moderados,1258,86,20.2,W,0.25,100
+2025-06-04,2025-06-04 07:00,Puerto Natales,2.6,Chubascos de nieve fuertes o moderados,1258,88,19.1,W,0.23,100
+2025-06-04,2025-06-04 08:00,Puerto Natales,2.7,Chubascos de nieve fuertes o moderados,1258,85,19.1,W,0.2,100
+2025-06-04,2025-06-04 09:00,Puerto Natales,2.9,Chubascos de nieve fuertes o moderados,1258,81,18.0,W,0.11,81
+2025-06-04,2025-06-04 10:00,Puerto Natales,3.1,Ligeras precipitaciones de nieve,1255,78,19.1,W,0.05,64
+2025-06-04,2025-06-04 11:00,Puerto Natales,3.8,Lluvia  moderada a intervalos,1063,72,22.0,W,0.03,65
+2025-06-04,2025-06-04 12:00,Puerto Natales,3.9,Lluvia  moderada a intervalos,1063,76,21.2,W,0.05,100
+2025-06-04,2025-06-04 13:00,Puerto Natales,3.8,Lluvia  moderada a intervalos,1063,80,18.7,W,0.12,83
+2025-06-04,2025-06-04 14:00,Puerto Natales,4.3,Lluvia  moderada a intervalos,1063,77,18.7,WNW,0.08,59
+2025-06-04,2025-06-04 15:00,Puerto Natales,4.2,Lluvia  moderada a intervalos,1063,79,13.7,WNW,0.05,77
+2025-06-04,2025-06-04 16:00,Puerto Natales,3.2,Lluvia  moderada a intervalos,1063,82,15.5,NW,0.09,69
+2025-06-04,2025-06-04 17:00,Puerto Natales,3.2,Lluvia  moderada a intervalos,1063,82,18.7,WNW,0.11,100
+2025-06-04,2025-06-04 18:00,Puerto Natales,3.6,Lluvia  moderada a intervalos,1063,80,19.1,WNW,0.09,88
+2025-06-04,2025-06-04 19:00,Puerto Natales,3.7,Lluvia  moderada a intervalos,1063,80,19.4,WNW,0.02,72
+2025-06-04,2025-06-04 20:00,Puerto Natales,3.4,Lluvia  moderada a intervalos,1063,82,19.4,WNW,0.01,65
+2025-06-04,2025-06-04 21:00,Puerto Natales,3.8,Lluvia  moderada a intervalos,1063,82,19.1,WNW,0.01,84
+2025-06-04,2025-06-04 22:00,Puerto Natales,4.2,Cielo cubierto,1009,82,17.3,WNW,0.0,100
+2025-06-04,2025-06-04 23:00,Puerto Natales,4.3,Cielo cubierto,1009,84,14.8,WNW,0.0,100
+2025-05-26,2025-05-26 00:00,Antofagasta,13.4,Despejado,1000,86,9.0,S,0.0,3
+2025-05-26,2025-05-26 01:00,Antofagasta,13.3,Despejado,1000,86,6.8,S,0.0,3
+2025-05-26,2025-05-26 02:00,Antofagasta,13.6,Despejado,1000,84,6.1,S,0.0,2
+2025-05-26,2025-05-26 03:00,Antofagasta,13.4,Despejado,1000,84,4.7,S,0.0,3
+2025-05-26,2025-05-26 04:00,Antofagasta,13.1,Despejado,1000,85,7.9,S,0.0,2
+2025-05-26,2025-05-26 05:00,Antofagasta,12.8,Despejado,1000,86,7.9,S,0.0,3
+2025-05-26,2025-05-26 06:00,Antofagasta,12.8,Despejado,1000,85,8.3,S,0.0,1
+2025-05-26,2025-05-26 07:00,Antofagasta,12.6,Despejado,1000,84,8.6,S,0.0,0
+2025-05-26,2025-05-26 08:00,Antofagasta,13.8,Soleado,1000,80,9.0,S,0.0,0
+2025-05-26,2025-05-26 09:00,Antofagasta,15.6,Soleado,1000,71,7.9,S,0.0,0
+2025-05-26,2025-05-26 10:00,Antofagasta,16.7,Soleado,1000,66,8.3,SW,0.0,0
+2025-05-26,2025-05-26 11:00,Antofagasta,17.6,Soleado,1000,63,8.3,SW,0.0,0
+2025-05-26,2025-05-26 12:00,Antofagasta,17.8,Soleado,1000,63,10.1,SW,0.0,0
+2025-05-26,2025-05-26 13:00,Antofagasta,17.6,Soleado,1000,63,9.4,SW,0.0,0
+2025-05-26,2025-05-26 14:00,Antofagasta,17.6,Soleado,1000,64,10.4,SW,0.0,0
+2025-05-26,2025-05-26 15:00,Antofagasta,17.0,Soleado,1000,68,11.2,SW,0.0,0
+2025-05-26,2025-05-26 16:00,Antofagasta,16.2,Soleado,1000,72,12.6,SW,0.0,0
+2025-05-26,2025-05-26 17:00,Antofagasta,15.0,Soleado,1000,79,7.2,S,0.0,3
+2025-05-26,2025-05-26 18:00,Antofagasta,14.6,Soleado,1000,79,2.9,SW,0.0,0
+2025-05-26,2025-05-26 19:00,Antofagasta,13.3,Despejado,1000,87,6.5,SSW,0.0,0
+2025-05-26,2025-05-26 20:00,Antofagasta,12.8,Despejado,1000,90,7.9,S,0.0,9
+2025-05-26,2025-05-26 21:00,Antofagasta,12.6,Despejado,1000,90,6.5,ESE,0.0,2
+2025-05-26,2025-05-26 22:00,Antofagasta,13.3,Despejado,1000,83,2.2,SE,0.0,0
+2025-05-26,2025-05-26 23:00,Antofagasta,12.8,Despejado,1000,86,8.3,SSW,0.0,0
+2025-05-27,2025-05-27 00:00,Antofagasta,13.2,Despejado,1000,84,11.9,S,0.0,0
+2025-05-27,2025-05-27 01:00,Antofagasta,13.8,Lluvia  moderada a intervalos,1063,80,11.2,SSE,0.01,84
+2025-05-27,2025-05-27 02:00,Antofagasta,14.0,Despejado,1000,79,7.2,S,0.0,0
+2025-05-27,2025-05-27 03:00,Antofagasta,13.5,Despejado,1000,85,11.5,SSW,0.0,0
+2025-05-27,2025-05-27 04:00,Antofagasta,13.5,Despejado,1000,85,12.6,S,0.0,0
+2025-05-27,2025-05-27 05:00,Antofagasta,14.0,Despejado,1000,83,13.3,S,0.0,0
+2025-05-27,2025-05-27 06:00,Antofagasta,13.8,Lluvia  moderada a intervalos,1063,84,15.1,SSW,0.01,85
+2025-05-27,2025-05-27 07:00,Antofagasta,13.6,Lluvia  moderada a intervalos,1063,85,11.2,S,0.03,84
+2025-05-27,2025-05-27 08:00,Antofagasta,14.9,Lluvia  moderada a intervalos,1063,76,10.8,S,0.03,87
+2025-05-27,2025-05-27 09:00,Antofagasta,16.4,Lluvia  moderada a intervalos,1063,69,13.0,S,0.01,82
+2025-05-27,2025-05-27 10:00,Antofagasta,17.7,Soleado,1000,64,15.1,SSW,0.0,0
+2025-05-27,2025-05-27 16:00,Antofagasta,17.1,Soleado,1000,74,17.6,SSW,0.0,0
+2025-05-27,2025-05-27 17:00,Antofagasta,16.3,Soleado,1000,77,16.2,SSW,0.0,0
+2025-05-27,2025-05-27 18:00,Antofagasta,15.1,Soleado,1000,82,14.0,SSW,0.0,2
+2025-05-27,2025-05-27 19:00,Antofagasta,14.5,Despejado,1000,85,12.2,S,0.0,4
+2025-05-27,2025-05-27 20:00,Antofagasta,14.6,Lluvia  moderada a intervalos,1063,83,12.2,SSW,0.01,72
+2025-05-27,2025-05-27 21:00,Antofagasta,14.4,Lluvia  moderada a intervalos,1063,84,13.0,SSW,0.01,76
+2025-05-27,2025-05-27 22:00,Antofagasta,14.4,Lluvia  moderada a intervalos,1063,83,12.6,S,0.01,83
+2025-05-27,2025-05-27 23:00,Antofagasta,14.8,Lluvia  moderada a intervalos,1063,80,11.2,S,0.01,81
+2025-05-28,2025-05-28 00:00,Antofagasta,14.4,Despejado,1000,79,11.9,S,0.0,0
+2025-05-28,2025-05-28 01:00,Antofagasta,14.0,Despejado,1000,80,12.2,S,0.0,0
+2025-05-28,2025-05-28 02:00,Antofagasta,14.0,Lluvia  moderada a intervalos,1063,82,11.5,S,0.01,72
+2025-05-28,2025-05-28 03:00,Antofagasta,13.7,Lluvia  moderada a intervalos,1063,84,10.4,S,0.01,74
+2025-05-28,2025-05-28 04:00,Antofagasta,13.9,Lluvia  moderada a intervalos,1063,82,9.4,S,0.01,79
+2025-05-28,2025-05-28 05:00,Antofagasta,13.8,Despejado,1000,81,8.3,S,0.0,0
+2025-05-28,2025-05-28 06:00,Antofagasta,13.6,Despejado,1000,82,7.9,SSW,0.0,0
+2025-05-28,2025-05-28 07:00,Antofagasta,13.2,Despejado,1000,83,7.6,S,0.0,0
+2025-05-28,2025-05-28 08:00,Antofagasta,14.3,Soleado,1000,78,6.5,S,0.0,0
+2025-05-28,2025-05-28 09:00,Antofagasta,15.9,Soleado,1000,71,4.7,SSW,0.0,0
+2025-05-28,2025-05-28 10:00,Antofagasta,17.1,Soleado,1000,66,6.5,SW,0.0,0
+2025-05-28,2025-05-28 11:00,Antofagasta,18.1,Soleado,1000,63,8.6,SW,0.0,0
+2025-05-28,2025-05-28 12:00,Antofagasta,18.7,Soleado,1000,61,10.1,SW,0.0,0
+2025-05-28,2025-05-28 13:00,Antofagasta,18.2,Soleado,1000,63,11.2,SW,0.0,0
+2025-05-28,2025-05-28 14:00,Antofagasta,17.8,Soleado,1000,66,11.2,SW,0.0,0
+2025-05-28,2025-05-28 15:00,Antofagasta,17.2,Soleado,1000,68,9.7,SW,0.0,0
+2025-05-28,2025-05-28 16:00,Antofagasta,16.8,Soleado,1000,70,9.0,SW,0.0,0
+2025-05-28,2025-05-28 17:00,Antofagasta,15.9,Soleado,1000,73,9.0,SW,0.0,2
+2025-05-28,2025-05-28 18:00,Antofagasta,14.5,Soleado,1000,81,7.6,SSW,0.0,9
+2025-05-28,2025-05-28 19:00,Antofagasta,13.6,Despejado,1000,86,6.1,SSW,0.0,17
+2025-05-28,2025-05-28 20:00,Antofagasta,13.4,Despejado,1000,87,4.7,S,0.0,9
+2025-05-28,2025-05-28 21:00,Antofagasta,13.2,Despejado,1000,87,3.2,S,0.0,1
+2025-05-28,2025-05-28 22:00,Antofagasta,13.2,Despejado,1000,87,4.3,SSW,0.0,0
+2025-05-28,2025-05-28 23:00,Antofagasta,13.0,Despejado,1000,86,5.4,S,0.0,0
+2025-05-30,2025-05-30 00:00,Antofagasta,14.4,Despejado,1000,76,7.9,S,0.0,12
+2025-05-30,2025-05-30 01:00,Antofagasta,14.0,Despejado,1000,78,8.6,SSW,0.0,15
+2025-05-30,2025-05-30 02:00,Antofagasta,13.7,Despejado,1000,80,7.6,S,0.0,9
+2025-05-30,2025-05-30 03:00,Antofagasta,13.7,Despejado,1000,80,9.0,S,0.0,0
+2025-05-30,2025-05-30 04:00,Antofagasta,13.5,Despejado,1000,82,9.4,S,0.0,0
+2025-05-30,2025-05-30 05:00,Antofagasta,13.3,Despejado,1000,82,8.6,S,0.0,0
+2025-05-30,2025-05-30 06:00,Antofagasta,13.3,Despejado,1000,82,7.9,S,0.0,0
+2025-05-30,2025-05-30 07:00,Antofagasta,13.2,Despejado,1000,81,7.9,S,0.0,0
+2025-05-30,2025-05-30 08:00,Antofagasta,14.3,Soleado,1000,76,6.8,S,0.0,0
+2025-05-30,2025-05-30 09:00,Antofagasta,16.3,Soleado,1000,68,6.1,SSW,0.0,0
+2025-05-30,2025-05-30 10:00,Antofagasta,17.5,Soleado,1000,64,6.8,SW,0.0,0
+2025-05-30,2025-05-30 11:00,Antofagasta,18.2,Soleado,1000,63,9.4,SW,0.0,0
+2025-05-30,2025-05-30 12:00,Antofagasta,18.4,Soleado,1000,62,10.1,SW,0.0,0
+2025-05-30,2025-05-30 13:00,Antofagasta,18.7,Soleado,1000,61,9.4,SW,0.0,0
+2025-05-30,2025-05-30 14:00,Antofagasta,18.8,Soleado,1000,61,10.8,SW,0.0,0
+2025-05-30,2025-05-30 15:00,Antofagasta,18.2,Soleado,1000,64,11.9,SW,0.0,0
+2025-05-30,2025-05-30 16:00,Antofagasta,17.3,Soleado,1000,68,10.4,SSW,0.0,0
+2025-05-30,2025-05-30 17:00,Antofagasta,16.7,Soleado,1000,70,6.5,SSW,0.0,0
+2025-05-30,2025-05-30 18:00,Antofagasta,15.1,Soleado,1000,78,7.9,SSW,0.0,0
+2025-05-30,2025-05-30 19:00,Antofagasta,14.3,Despejado,1000,82,8.6,S,0.0,0
+2025-05-30,2025-05-30 20:00,Antofagasta,13.9,Despejado,1000,82,7.9,S,0.0,0
+2025-05-30,2025-05-30 21:00,Antofagasta,13.8,Despejado,1000,82,8.3,S,0.0,0
+2025-05-30,2025-05-30 22:00,Antofagasta,13.5,Despejado,1000,82,6.1,S,0.0,0
+2025-05-30,2025-05-30 23:00,Antofagasta,13.6,Despejado,1000,82,6.8,SSW,0.0,0
+2025-05-31,2025-05-31 00:00,Antofagasta,14.3,Despejado,1000,76,5.4,S,0.0,5
+2025-05-31,2025-05-31 01:00,Antofagasta,14.1,Despejado,1000,78,4.3,SSW,0.0,11
+2025-05-31,2025-05-31 02:00,Antofagasta,13.6,Parcialmente nublado,1003,81,3.2,S,0.0,29
+2025-05-31,2025-05-31 03:00,Antofagasta,13.7,Despejado,1000,78,4.0,ENE,0.0,0
+2025-05-31,2025-05-31 04:00,Antofagasta,13.3,Despejado,1000,79,1.4,W,0.0,6
+2025-05-31,2025-05-31 05:00,Antofagasta,12.7,Despejado,1000,82,2.2,ESE,0.0,3
+2025-05-31,2025-05-31 06:00,Antofagasta,12.7,Despejado,1000,80,2.2,ESE,0.0,7
+2025-05-31,2025-05-31 07:00,Antofagasta,12.7,Despejado,1000,80,1.8,ESE,0.0,3
+2025-05-31,2025-05-31 08:00,Antofagasta,13.8,Soleado,1000,75,2.2,ENE,0.0,0
+2025-05-31,2025-05-31 09:00,Antofagasta,15.8,Soleado,1000,67,2.5,NW,0.0,0
+2025-05-31,2025-05-31 10:00,Antofagasta,16.8,Soleado,1000,63,3.2,NW,0.0,0
+2025-05-31,2025-05-31 11:00,Antofagasta,17.9,Soleado,1000,60,5.4,W,0.0,0
+2025-05-31,2025-05-31 12:00,Antofagasta,18.7,Soleado,1000,59,8.6,W,0.0,0
+2025-05-31,2025-05-31 13:00,Antofagasta,18.5,Soleado,1000,60,10.1,W,0.0,0
+2025-05-31,2025-05-31 14:00,Antofagasta,18.3,Soleado,1000,63,9.7,W,0.0,0
+2025-05-31,2025-05-31 15:00,Antofagasta,18.0,Soleado,1000,65,9.4,WSW,0.0,0
+2025-05-31,2025-05-31 16:00,Antofagasta,17.4,Soleado,1000,68,8.3,WSW,0.0,0
+2025-05-31,2025-05-31 17:00,Antofagasta,16.7,Soleado,1000,72,6.8,SW,0.0,0
+2025-05-31,2025-05-31 18:00,Antofagasta,15.1,Soleado,1000,81,5.8,SSW,0.0,0
+2025-05-31,2025-05-31 19:00,Antofagasta,14.2,Despejado,1000,86,2.9,S,0.0,0
+2025-05-31,2025-05-31 20:00,Antofagasta,13.9,Despejado,1000,86,1.4,SE,0.0,0
+2025-05-31,2025-05-31 21:00,Antofagasta,13.9,Despejado,1000,85,2.9,NNE,0.0,0
+2025-05-31,2025-05-31 22:00,Antofagasta,14.0,Despejado,1000,83,2.9,NNE,0.0,0
+2025-05-31,2025-05-31 23:00,Antofagasta,13.6,Despejado,1000,84,2.2,N,0.0,0
+2025-06-01,2025-06-01 00:00,Antofagasta,13.2,Despejado,1000,82,4.3,N,0.0,0
+2025-06-01,2025-06-01 01:00,Antofagasta,12.9,Despejado,1000,84,5.8,N,0.0,0
+2025-06-01,2025-06-01 02:00,Antofagasta,12.6,Despejado,1000,86,5.8,N,0.0,0
+2025-06-01,2025-06-01 03:00,Antofagasta,12.4,Despejado,1000,87,5.0,NNE,0.0,4
+2025-06-01,2025-06-01 04:00,Antofagasta,12.2,Despejado,1000,87,5.4,NNE,0.0,2
+2025-06-01,2025-06-01 05:00,Antofagasta,12.1,Despejado,1000,85,4.7,NNE,0.0,0
+2025-06-01,2025-06-01 06:00,Antofagasta,11.8,Despejado,1000,85,3.2,NNE,0.0,0
+2025-06-01,2025-06-01 07:00,Antofagasta,11.6,Despejado,1000,84,3.6,NE,0.0,8
+2025-06-01,2025-06-01 08:00,Antofagasta,13.4,Soleado,1000,78,3.2,N,0.0,0
+2025-06-01,2025-06-01 09:00,Antofagasta,15.1,Soleado,1000,71,3.2,NW,0.0,0
+2025-06-01,2025-06-01 10:00,Antofagasta,16.3,Soleado,1000,68,5.0,W,0.0,0
+2025-06-01,2025-06-01 11:00,Antofagasta,17.0,Soleado,1000,66,6.1,WSW,0.0,0
+2025-06-01,2025-06-01 12:00,Antofagasta,17.9,Soleado,1000,63,8.6,WSW,0.0,0
+2025-06-01,2025-06-01 13:00,Antofagasta,18.1,Soleado,1000,62,10.4,WSW,0.0,0
+2025-06-01,2025-06-01 14:00,Antofagasta,18.0,Soleado,1000,63,9.7,WSW,0.0,0
+2025-06-01,2025-06-01 15:00,Antofagasta,17.6,Soleado,1000,65,9.4,WSW,0.0,0
+2025-06-01,2025-06-01 16:00,Antofagasta,17.2,Soleado,1000,67,9.0,SW,0.0,0
+2025-06-01,2025-06-01 17:00,Antofagasta,16.3,Soleado,1000,71,7.9,SW,0.0,0
+2025-06-01,2025-06-01 18:00,Antofagasta,14.6,Soleado,1000,81,7.6,SSW,0.0,0
+2025-06-01,2025-06-01 19:00,Antofagasta,13.6,Despejado,1000,85,7.6,S,0.0,0
+2025-06-01,2025-06-01 20:00,Antofagasta,13.6,Despejado,1000,84,6.8,SSE,0.0,0
+2025-06-01,2025-06-01 21:00,Antofagasta,13.7,Despejado,1000,82,6.5,S,0.0,0
+2025-06-01,2025-06-01 22:00,Antofagasta,13.3,Despejado,1000,81,4.7,S,0.0,0
+2025-06-01,2025-06-01 23:00,Antofagasta,13.2,Despejado,1000,80,2.5,SSE,0.0,1
+2025-06-02,2025-06-02 00:00,Antofagasta,12.9,Despejado,1000,79,1.8,SSE,0.0,6
+2025-06-02,2025-06-02 01:00,Antofagasta,12.4,Despejado,1000,81,1.1,E,0.0,12
+2025-06-02,2025-06-02 02:00,Antofagasta,12.7,Despejado,1000,78,2.9,N,0.0,2
+2025-06-02,2025-06-02 03:00,Antofagasta,12.2,Despejado,1000,80,0.4,N,0.0,0
+2025-06-02,2025-06-02 04:00,Antofagasta,12.0,Despejado,1000,80,2.5,ESE,0.0,0
+2025-06-02,2025-06-02 05:00,Antofagasta,12.1,Despejado,1000,78,2.9,SE,0.0,0
+2025-06-02,2025-06-02 06:00,Antofagasta,12.3,Despejado,1000,76,4.0,SSE,0.0,10
+2025-06-02,2025-06-02 07:00,Antofagasta,12.7,Despejado,1000,71,5.0,SE,0.0,0
+2025-06-02,2025-06-02 08:00,Antofagasta,14.2,Soleado,1000,64,3.6,SE,0.0,0
+2025-06-02,2025-06-02 09:00,Antofagasta,16.6,Soleado,1000,56,2.2,SSW,0.0,0
+2025-06-02,2025-06-02 10:00,Antofagasta,18.1,Soleado,1000,53,5.8,SSW,0.0,0
+2025-06-02,2025-06-02 11:00,Antofagasta,18.9,Soleado,1000,52,7.6,SW,0.0,0
+2025-06-02,2025-06-02 12:00,Antofagasta,19.4,Soleado,1000,52,8.6,SW,0.0,0
+2025-06-02,2025-06-02 13:00,Antofagasta,19.0,Soleado,1000,53,10.1,SW,0.0,0
+2025-06-02,2025-06-02 14:00,Antofagasta,18.8,Soleado,1000,55,10.4,SW,0.0,0
+2025-06-02,2025-06-02 15:00,Antofagasta,18.4,Soleado,1000,56,10.8,SSW,0.0,0
+2025-06-02,2025-06-02 16:00,Antofagasta,17.8,Soleado,1000,59,12.2,SSW,0.0,0
+2025-06-02,2025-06-02 17:00,Antofagasta,16.9,Soleado,1000,62,10.1,SSW,0.0,0
+2025-06-02,2025-06-02 18:00,Antofagasta,14.8,Soleado,1000,73,10.8,SSW,0.0,0
+2025-06-02,2025-06-02 19:00,Antofagasta,14.1,Despejado,1000,75,8.6,SSE,0.0,0
+2025-06-02,2025-06-02 20:00,Antofagasta,14.4,Despejado,1000,71,6.5,S,0.0,0
+2025-06-02,2025-06-02 21:00,Antofagasta,14.2,Despejado,1000,72,4.7,S,0.0,0
+2025-06-02,2025-06-02 22:00,Antofagasta,14.3,Despejado,1000,70,2.9,S,0.0,0
+2025-06-02,2025-06-02 23:00,Antofagasta,13.9,Despejado,1000,71,3.2,S,0.0,0
+2025-06-03,2025-06-03 00:00,Antofagasta,14.3,Despejado,1000,70,5.4,S,0.0,0
+2025-06-03,2025-06-03 01:00,Antofagasta,14.3,Despejado,1000,70,4.7,SSW,0.0,0
+2025-06-03,2025-06-03 02:00,Antofagasta,13.9,Despejado,1000,73,4.7,SSE,0.0,0
+2025-06-03,2025-06-03 03:00,Antofagasta,13.8,Despejado,1000,74,5.0,SSW,0.0,0
+2025-06-03,2025-06-03 04:00,Antofagasta,13.4,Despejado,1000,75,3.2,S,0.0,0
+2025-06-03,2025-06-03 05:00,Antofagasta,12.7,Despejado,1000,78,3.2,SSE,0.0,0
+2025-06-03,2025-06-03 06:00,Antofagasta,12.6,Despejado,1000,77,2.5,SE,0.0,0
+2025-06-03,2025-06-03 07:00,Antofagasta,12.9,Despejado,1000,74,3.6,ENE,0.0,0
+2025-06-03,2025-06-03 08:00,Antofagasta,14.1,Soleado,1000,71,1.1,SSW,0.0,0
+2025-06-03,2025-06-03 09:00,Antofagasta,16.1,Soleado,1000,65,1.4,S,0.0,0
+2025-06-03,2025-06-03 10:00,Antofagasta,17.4,Soleado,1000,59,1.8,W,0.0,0
+2025-06-03,2025-06-03 11:00,Antofagasta,18.8,Soleado,1000,55,5.0,W,0.0,0
+2025-06-03,2025-06-03 12:00,Antofagasta,19.3,Soleado,1000,53,6.8,W,0.0,0
+2025-06-03,2025-06-03 13:00,Antofagasta,19.0,Soleado,1000,56,10.4,WSW,0.0,0
+2025-06-03,2025-06-03 14:00,Antofagasta,18.5,Soleado,1000,59,9.7,WSW,0.0,0
+2025-06-03,2025-06-03 15:00,Antofagasta,18.0,Soleado,1000,62,9.7,WSW,0.0,0
+2025-06-03,2025-06-03 16:00,Antofagasta,17.3,Soleado,1000,66,9.4,SW,0.0,0
+2025-06-03,2025-06-03 17:00,Antofagasta,16.5,Soleado,1000,69,7.9,SSW,0.0,0
+2025-06-03,2025-06-03 18:00,Antofagasta,15.0,Soleado,1000,76,9.4,SSW,0.0,0
+2025-06-03,2025-06-03 19:00,Antofagasta,14.4,Despejado,1000,78,5.8,SSE,0.0,0
+2025-06-03,2025-06-03 20:00,Antofagasta,14.5,Despejado,1000,76,4.7,S,0.0,0
+2025-06-03,2025-06-03 21:00,Antofagasta,14.3,Despejado,1000,78,2.9,S,0.0,0
+2025-06-03,2025-06-03 22:00,Antofagasta,13.7,Despejado,1000,80,2.5,SSE,0.0,0
+2025-06-03,2025-06-03 23:00,Antofagasta,13.6,Despejado,1000,79,2.5,S,0.0,0
+2025-06-04,2025-06-04 00:00,Antofagasta,13.4,Despejado,1000,80,0.7,ESE,0.0,0
+2025-06-04,2025-06-04 01:00,Antofagasta,13.1,Despejado,1000,81,2.2,SSW,0.0,0
+2025-06-04,2025-06-04 02:00,Antofagasta,12.8,Despejado,1000,84,3.6,SE,0.0,0
+2025-06-04,2025-06-04 03:00,Antofagasta,13.0,Despejado,1000,80,2.5,ESE,0.0,0
+2025-06-04,2025-06-04 04:00,Antofagasta,13.3,Despejado,1000,80,5.8,SSW,0.0,0
+2025-06-04,2025-06-04 05:00,Antofagasta,12.9,Despejado,1000,82,6.8,S,0.0,0
+2025-06-04,2025-06-04 06:00,Antofagasta,13.1,Despejado,1000,81,6.5,SSE,0.0,0
+2025-06-04,2025-06-04 07:00,Antofagasta,13.4,Despejado,1000,78,6.8,S,0.0,0
+2025-06-04,2025-06-04 08:00,Antofagasta,14.2,Soleado,1000,75,6.5,SSE,0.0,0
+2025-06-04,2025-06-04 09:00,Antofagasta,16.2,Soleado,1000,67,6.1,S,0.0,0
+2025-06-04,2025-06-04 10:00,Antofagasta,17.2,Soleado,1000,63,9.7,SSW,0.0,0
+2025-06-04,2025-06-04 11:00,Antofagasta,17.9,Soleado,1000,62,12.2,SSW,0.0,0
+2025-06-04,2025-06-04 12:00,Antofagasta,18.9,Soleado,1000,58,10.4,SSW,0.0,0
+2025-06-04,2025-06-04 13:00,Antofagasta,18.9,Soleado,1000,58,12.6,SW,0.0,0
+2025-06-04,2025-06-04 14:00,Antofagasta,18.6,Soleado,1000,60,13.3,SSW,0.0,0
+2025-06-04,2025-06-04 15:00,Antofagasta,18.4,Soleado,1000,60,10.8,SSW,0.0,0
+2025-06-04,2025-06-04 16:00,Antofagasta,17.9,Soleado,1000,63,11.2,SSW,0.0,0
+2025-06-04,2025-06-04 17:00,Antofagasta,16.4,Soleado,1000,69,10.8,SSW,0.0,0
+2025-06-04,2025-06-04 18:00,Antofagasta,14.7,Soleado,1000,76,11.2,S,0.0,0
+2025-06-04,2025-06-04 19:00,Antofagasta,14.2,Despejado,1000,78,10.4,S,0.0,0
+2025-06-04,2025-06-04 20:00,Antofagasta,14.4,Despejado,1000,75,9.7,S,0.0,0
+2025-06-04,2025-06-04 21:00,Antofagasta,15.1,Despejado,1000,71,9.0,S,0.0,0
+2025-06-04,2025-06-04 22:00,Antofagasta,14.7,Despejado,1000,74,10.4,S,0.0,0
+2025-06-04,2025-06-04 23:00,Antofagasta,15.0,Despejado,1000,72,10.4,S,0.0,0
+2025-05-26,2025-05-26 00:00,Iquique,11.2,Cielo cubierto,1009,81,4.7,SSW,0.0,89
+2025-05-26,2025-05-26 01:00,Iquique,11.1,Despejado,1000,82,7.6,SSW,0.0,7
+2025-05-26,2025-05-26 02:00,Iquique,10.9,Cielo cubierto,1009,83,9.7,S,0.0,93
+2025-05-26,2025-05-26 03:00,Iquique,10.8,Cielo cubierto,1009,82,9.4,S,0.0,100
+2025-05-26,2025-05-26 04:00,Iquique,10.8,Despejado,1000,82,9.4,S,0.0,9
+2025-05-26,2025-05-26 05:00,Iquique,10.6,Despejado,1000,82,5.8,SSE,0.0,14
+2025-05-26,2025-05-26 06:00,Iquique,10.6,Despejado,1000,80,3.2,SSW,0.0,14
+2025-05-26,2025-05-26 07:00,Iquique,12.9,Cielo cubierto,1009,80,1.8,S,0.0,100
+2025-05-26,2025-05-26 08:00,Iquique,16.0,Soleado,1000,76,4.0,SSW,0.0,14
+2025-05-26,2025-05-26 09:00,Iquique,17.0,Soleado,1000,70,5.8,SSW,0.0,19
+2025-05-26,2025-05-26 10:00,Iquique,17.7,Soleado,1000,67,7.6,SW,0.0,5
+2025-05-26,2025-05-26 11:00,Iquique,18.6,Soleado,1000,64,9.0,SW,0.0,7
+2025-05-26,2025-05-26 12:00,Iquique,19.1,Soleado,1000,63,10.1,SW,0.0,7
+2025-05-26,2025-05-26 13:00,Iquique,19.4,Soleado,1000,62,9.4,WSW,0.0,7
+2025-05-26,2025-05-26 14:00,Iquique,19.4,Soleado,1000,63,9.7,WSW,0.0,7
+2025-05-26,2025-05-26 15:00,Iquique,18.3,Soleado,1000,65,8.6,WSW,0.0,6
+2025-05-26,2025-05-26 16:00,Iquique,16.0,Soleado,1000,68,8.6,WSW,0.0,4
+2025-05-26,2025-05-26 17:00,Iquique,17.3,Soleado,1000,71,8.3,SW,0.0,0
+2025-05-26,2025-05-26 18:00,Iquique,16.4,Soleado,1000,76,7.2,SW,0.0,8
+2025-05-26,2025-05-26 19:00,Iquique,13.5,Despejado,1000,79,6.5,SSW,0.0,15
+2025-05-26,2025-05-26 20:00,Iquique,11.8,Despejado,1000,81,7.6,S,0.0,20
+2025-05-26,2025-05-26 21:00,Iquique,11.7,Despejado,1000,79,5.0,SE,0.0,5
+2025-05-26,2025-05-26 22:00,Iquique,11.8,Despejado,1000,76,1.1,ESE,0.0,0
+2025-05-26,2025-05-26 23:00,Iquique,11.7,Despejado,1000,75,2.5,SSW,0.0,0
+2025-05-27,2025-05-27 00:00,Iquique,11.3,Despejado,1000,78,3.6,SSE,0.0,15
+2025-05-27,2025-05-27 01:00,Iquique,11.1,Despejado,1000,78,2.2,SSE,0.0,0
+2025-05-27,2025-05-27 02:00,Iquique,10.9,Despejado,1000,78,5.4,SSW,0.0,0
+2025-05-27,2025-05-27 03:00,Iquique,10.7,Despejado,1000,80,11.2,S,0.0,0
+2025-05-27,2025-05-27 04:00,Iquique,10.6,Despejado,1000,80,10.4,S,0.0,0
+2025-05-27,2025-05-27 05:00,Iquique,11.0,Despejado,1000,76,7.9,SSE,0.0,0
+2025-05-27,2025-05-27 06:00,Iquique,11.5,Despejado,1000,71,2.5,SSW,0.0,0
+2025-05-27,2025-05-27 07:00,Iquique,12.9,Despejado,1000,77,12.6,S,0.0,0
+2025-05-27,2025-05-27 08:00,Iquique,16.6,Soleado,1000,71,10.1,S,0.0,0
+2025-05-27,2025-05-27 09:00,Iquique,18.0,Soleado,1000,68,12.6,SSW,0.0,0
+2025-05-27,2025-05-27 10:00,Iquique,18.5,Soleado,1000,68,12.6,SSW,0.0,0
+2025-05-27,2025-05-27 11:00,Iquique,18.8,Soleado,1000,68,9.0,SSW,0.0,0
+2025-05-27,2025-05-27 12:00,Iquique,19.7,Soleado,1000,64,8.6,SW,0.0,0
+2025-05-27,2025-05-27 13:00,Iquique,20.1,Soleado,1000,64,11.5,SW,0.0,0
+2025-05-27,2025-05-27 14:00,Iquique,20.0,Soleado,1000,66,10.8,WSW,0.0,0
+2025-05-27,2025-05-27 15:00,Iquique,19.4,Soleado,1000,69,9.4,SW,0.0,0
+2025-05-27,2025-05-27 16:00,Iquique,18.8,Soleado,1000,72,7.9,SW,0.0,0
+2025-05-27,2025-05-27 17:00,Iquique,18.4,Soleado,1000,75,7.9,SW,0.0,1
+2025-05-27,2025-05-27 18:00,Iquique,17.3,Soleado,1000,80,6.5,SW,0.0,8
+2025-05-27,2025-05-27 19:00,Iquique,14.9,Parcialmente nublado,1003,86,6.5,SSW,0.0,26
+2025-05-27,2025-05-27 20:00,Iquique,12.0,Parcialmente nublado,1003,85,6.1,S,0.0,30
+2025-05-27,2025-05-27 21:00,Iquique,12.2,Despejado,1000,81,6.5,SSE,0.0,16
+2025-05-27,2025-05-27 22:00,Iquique,12.2,Despejado,1000,79,5.0,S,0.0,0
+2025-05-27,2025-05-27 23:00,Iquique,11.7,Despejado,1000,81,6.1,SW,0.0,0
+2025-05-28,2025-05-28 00:00,Iquique,11.1,Lluvia  moderada a intervalos,1063,82,2.2,S,0.02,71
+2025-05-28,2025-05-28 01:00,Iquique,11.3,Lluvia  moderada a intervalos,1063,79,0.7,NW,0.02,83
+2025-05-28,2025-05-28 02:00,Iquique,11.0,Lluvia  moderada a intervalos,1063,79,1.1,S,0.01,86
+2025-05-28,2025-05-28 03:00,Iquique,10.9,Despejado,1000,78,4.3,SSE,0.0,0
+2025-05-28,2025-05-28 04:00,Iquique,10.7,Despejado,1000,78,4.3,SSW,0.0,0
+2025-05-28,2025-05-28 05:00,Iquique,10.4,Despejado,1000,79,3.2,SSW,0.0,0
+2025-05-28,2025-05-28 06:00,Iquique,10.2,Despejado,1000,80,2.5,SW,0.0,0
+2025-05-28,2025-05-28 07:00,Iquique,12.2,Despejado,1000,80,1.4,S,0.0,0
+2025-05-28,2025-05-28 08:00,Iquique,15.8,Soleado,1000,76,3.2,S,0.0,2
+2025-05-28,2025-05-28 09:00,Iquique,17.1,Soleado,1000,69,1.8,SSW,0.0,0
+2025-05-28,2025-05-28 10:00,Iquique,18.2,Soleado,1000,65,4.0,WSW,0.0,0
+2025-05-28,2025-05-28 11:00,Iquique,19.1,Soleado,1000,62,7.6,W,0.0,0
+2025-05-28,2025-05-28 12:00,Iquique,19.4,Soleado,1000,62,7.9,W,0.0,0
+2025-05-28,2025-05-28 13:00,Iquique,19.6,Soleado,1000,62,9.0,W,0.0,0
+2025-05-28,2025-05-28 14:00,Iquique,19.4,Soleado,1000,64,9.0,W,0.0,0
+2025-05-28,2025-05-28 15:00,Iquique,19.2,Soleado,1000,65,8.6,WSW,0.0,0
+2025-05-28,2025-05-28 16:00,Iquique,18.8,Soleado,1000,67,8.6,WSW,0.0,0
+2025-05-28,2025-05-28 17:00,Iquique,18.0,Soleado,1000,70,6.1,SW,0.0,0
+2025-05-28,2025-05-28 18:00,Iquique,17.1,Soleado,1000,75,5.4,SW,0.0,5
+2025-05-28,2025-05-28 19:00,Iquique,14.3,Despejado,1000,80,3.2,SSW,0.0,12
+2025-05-28,2025-05-28 20:00,Iquique,11.5,Despejado,1000,81,2.5,S,0.0,15
+2025-05-28,2025-05-28 21:00,Iquique,11.2,Despejado,1000,81,2.2,E,0.0,12
+2025-05-28,2025-05-28 22:00,Iquique,11.3,Despejado,1000,79,1.1,NE,0.0,3
+2025-05-28,2025-05-28 23:00,Iquique,11.0,Despejado,1000,79,0.4,NNW,0.0,2
+2025-05-29,2025-05-29 00:00,Iquique,12.3,Despejado,1000,80,0.7,SW,0.0,7
+2025-05-29,2025-05-29 01:00,Iquique,13.1,Despejado,1000,78,0.7,SE,0.0,0
+2025-05-29,2025-05-29 02:00,Iquique,13.7,Despejado,1000,78,1.4,SSW,0.0,0
+2025-05-29,2025-05-29 03:00,Iquique,12.8,Despejado,1000,78,1.8,SSW,0.0,0
+2025-05-29,2025-05-29 04:00,Iquique,12.1,Despejado,1000,77,2.2,SSW,0.0,0
+2025-05-29,2025-05-29 05:00,Iquique,12.2,Despejado,1000,78,1.8,SSW,0.0,0
+2025-05-29,2025-05-29 06:00,Iquique,12.9,Despejado,1000,76,3.2,SSE,0.0,0
+2025-05-29,2025-05-29 07:00,Iquique,14.0,Despejado,1000,76,5.4,S,0.0,0
+2025-05-29,2025-05-29 08:00,Iquique,16.2,Soleado,1000,69,6.1,S,0.0,0
+2025-05-29,2025-05-29 09:00,Iquique,17.8,Soleado,1000,63,7.9,SSW,0.0,0
+2025-05-29,2025-05-29 10:00,Iquique,18.9,Soleado,1000,60,8.6,SW,0.0,0
+2025-05-29,2025-05-29 11:00,Iquique,19.5,Soleado,1000,60,11.2,SW,0.0,0
+2025-05-29,2025-05-29 12:00,Iquique,20.1,Soleado,1000,60,12.6,SW,0.0,0
+2025-05-29,2025-05-29 13:00,Iquique,20.3,Soleado,1000,61,13.3,SW,0.0,0
+2025-05-29,2025-05-29 14:00,Iquique,20.3,Soleado,1000,62,14.8,SW,0.0,0
+2025-05-29,2025-05-29 15:00,Iquique,19.9,Soleado,1000,64,14.4,SSW,0.0,0
+2025-05-29,2025-05-29 16:00,Iquique,19.5,Soleado,1000,67,15.1,SSW,0.0,0
+2025-05-29,2025-05-29 17:00,Iquique,19.0,Soleado,1000,69,12.2,SSW,0.0,0
+2025-05-29,2025-05-29 18:00,Iquique,17.5,Soleado,1000,77,12.2,SSW,0.0,0
+2025-05-29,2025-05-29 19:00,Iquique,16.4,Despejado,1000,83,10.4,S,0.0,0
+2025-05-29,2025-05-29 20:00,Iquique,15.2,Despejado,1000,83,10.8,SSW,0.0,0
+2025-05-29,2025-05-29 21:00,Iquique,13.1,Despejado,1000,85,10.4,S,0.0,2
+2025-05-29,2025-05-29 22:00,Iquique,12.1,Despejado,1000,83,7.2,SSE,0.0,0
+2025-05-29,2025-05-29 23:00,Iquique,12.6,Despejado,1000,78,4.3,S,0.0,0
+2025-05-30,2025-05-30 00:00,Iquique,13.7,Despejado,1000,78,7.2,SSW,0.0,0
+2025-05-30,2025-05-30 01:00,Iquique,13.0,Despejado,1000,79,7.6,S,0.0,0
+2025-05-30,2025-05-30 02:00,Iquique,13.6,Despejado,1000,78,5.0,S,0.0,0
+2025-05-30,2025-05-30 03:00,Iquique,14.1,Despejado,1000,78,6.8,S,0.0,0
+2025-05-30,2025-05-30 04:00,Iquique,14.2,Despejado,1000,77,7.2,S,0.0,0
+2025-05-30,2025-05-30 05:00,Iquique,13.9,Despejado,1000,76,5.8,SSE,0.0,0
+2025-05-30,2025-05-30 06:00,Iquique,14.0,Despejado,1000,74,6.1,SSW,0.0,0
+2025-05-30,2025-05-30 07:00,Iquique,14.6,Despejado,1000,76,8.3,SSW,0.0,0
+2025-05-30,2025-05-30 08:00,Iquique,16.1,Soleado,1000,72,9.4,S,0.0,0
+2025-05-30,2025-05-30 09:00,Iquique,17.8,Soleado,1000,66,8.6,S,0.0,0
+2025-05-30,2025-05-30 10:00,Iquique,18.9,Soleado,1000,63,10.8,SSW,0.0,0
+2025-05-30,2025-05-30 11:00,Iquique,19.8,Soleado,1000,60,11.2,SSW,0.0,0
+2025-05-30,2025-05-30 12:00,Iquique,20.5,Soleado,1000,60,13.0,SW,0.0,0
+2025-05-30,2025-05-30 13:00,Iquique,20.5,Soleado,1000,63,14.4,SW,0.0,0
+2025-05-30,2025-05-30 14:00,Iquique,20.2,Soleado,1000,66,14.0,SW,0.0,0
+2025-05-30,2025-05-30 15:00,Iquique,20.0,Soleado,1000,67,13.7,SW,0.0,0
+2025-05-30,2025-05-30 16:00,Iquique,19.7,Soleado,1000,68,13.0,SW,0.0,0
+2025-05-30,2025-05-30 17:00,Iquique,19.2,Soleado,1000,71,11.9,SSW,0.0,0
+2025-05-30,2025-05-30 18:00,Iquique,15.3,Soleado,1000,78,10.8,SSW,0.0,0
+2025-05-30,2025-05-30 19:00,Iquique,14.4,Despejado,1000,81,6.8,S,0.0,0
+2025-05-30,2025-05-30 20:00,Iquique,12.5,Despejado,1000,79,7.9,SSW,0.0,0
+2025-05-30,2025-05-30 21:00,Iquique,11.9,Despejado,1000,81,10.4,SSW,0.0,0
+2025-05-30,2025-05-30 22:00,Iquique,13.3,Despejado,1000,84,9.0,S,0.0,0
+2025-05-30,2025-05-30 23:00,Iquique,13.6,Despejado,1000,83,7.2,S,0.0,0
+2025-05-31,2025-05-31 00:00,Iquique,12.7,Despejado,1000,79,1.8,S,0.0,0
+2025-05-31,2025-05-31 01:00,Iquique,13.6,Despejado,1000,78,1.8,SSW,0.0,0
+2025-05-31,2025-05-31 02:00,Iquique,13.8,Despejado,1000,79,3.2,S,0.0,0
+2025-05-31,2025-05-31 03:00,Iquique,14.7,Despejado,1000,79,2.9,S,0.0,0
+2025-05-31,2025-05-31 04:00,Iquique,14.6,Despejado,1000,79,2.2,SSW,0.0,0
+2025-05-31,2025-05-31 05:00,Iquique,14.3,Despejado,1000,80,2.5,SSW,0.0,0
+2025-05-31,2025-05-31 06:00,Iquique,14.5,Despejado,1000,77,3.2,ENE,0.0,0
+2025-05-31,2025-05-31 07:00,Iquique,14.4,Despejado,1000,76,1.1,NNE,0.0,0
+2025-05-31,2025-05-31 08:00,Iquique,16.0,Soleado,1000,71,3.2,SW,0.0,0
+2025-05-31,2025-05-31 09:00,Iquique,17.4,Soleado,1000,67,2.9,SSW,0.0,0
+2025-05-31,2025-05-31 10:00,Iquique,18.6,Soleado,1000,64,7.9,SW,0.0,0
+2025-05-31,2025-05-31 11:00,Iquique,19.0,Soleado,1000,64,9.0,SW,0.0,0
+2025-05-31,2025-05-31 12:00,Iquique,19.4,Soleado,1000,64,9.7,SW,0.0,0
+2025-05-31,2025-05-31 13:00,Iquique,19.6,Soleado,1000,64,10.1,SW,0.0,0
+2025-05-31,2025-05-31 14:00,Iquique,19.9,Soleado,1000,64,10.4,SW,0.0,0
+2025-05-31,2025-05-31 15:00,Iquique,19.6,Soleado,1000,66,9.7,WSW,0.0,0
+2025-05-31,2025-05-31 16:00,Iquique,19.2,Soleado,1000,68,7.6,WSW,0.0,0
+2025-05-31,2025-05-31 17:00,Iquique,18.6,Soleado,1000,71,6.8,WSW,0.0,0
+2025-05-31,2025-05-31 18:00,Iquique,17.1,Soleado,1000,77,4.3,SW,0.0,0
+2025-05-31,2025-05-31 19:00,Iquique,14.8,Despejado,1000,82,2.5,WSW,0.0,2
+2025-05-31,2025-05-31 20:00,Iquique,11.5,Despejado,1000,83,1.8,WSW,0.0,8
+2025-05-31,2025-05-31 21:00,Iquique,13.4,Despejado,1000,82,0.4,NW,0.0,14
+2025-05-31,2025-05-31 22:00,Iquique,14.9,Despejado,1000,81,2.5,NE,0.0,7
+2025-05-31,2025-05-31 23:00,Iquique,15.5,Despejado,1000,75,2.2,NNW,0.0,0
+2025-06-01,2025-06-01 00:00,Iquique,15.2,Despejado,1000,78,4.3,N,0.0,0
+2025-06-01,2025-06-01 01:00,Iquique,15.0,Despejado,1000,78,6.1,N,0.0,0
+2025-06-01,2025-06-01 02:00,Iquique,15.0,Despejado,1000,76,7.2,NNE,0.0,0
+2025-06-01,2025-06-01 03:00,Iquique,14.8,Despejado,1000,74,4.3,N,0.0,0
+2025-06-01,2025-06-01 04:00,Iquique,14.7,Despejado,1000,74,2.5,WNW,0.0,0
+2025-06-01,2025-06-01 05:00,Iquique,14.2,Despejado,1000,78,1.8,S,0.0,0
+2025-06-01,2025-06-01 06:00,Iquique,14.2,Despejado,1000,78,2.9,S,0.0,0
+2025-06-01,2025-06-01 07:00,Iquique,14.1,Despejado,1000,79,2.9,SSE,0.0,0
+2025-06-01,2025-06-01 08:00,Iquique,15.9,Soleado,1000,69,4.3,SE,0.0,0
+2025-06-01,2025-06-01 09:00,Iquique,17.9,Soleado,1000,61,4.0,SW,0.0,0
+2025-06-01,2025-06-01 10:00,Iquique,18.8,Soleado,1000,61,7.2,SW,0.0,0
+2025-06-01,2025-06-01 11:00,Iquique,19.5,Soleado,1000,61,9.7,SW,0.0,0
+2025-06-01,2025-06-01 12:00,Iquique,20.0,Soleado,1000,62,12.6,SW,0.0,0
+2025-06-01,2025-06-01 13:00,Iquique,19.9,Soleado,1000,64,11.5,SW,0.0,0
+2025-06-01,2025-06-01 14:00,Iquique,20.0,Soleado,1000,65,11.5,SW,0.0,0
+2025-06-01,2025-06-01 15:00,Iquique,19.8,Soleado,1000,66,11.2,SW,0.0,0
+2025-06-01,2025-06-01 16:00,Iquique,19.5,Soleado,1000,67,10.8,SW,0.0,0
+2025-06-01,2025-06-01 17:00,Iquique,18.9,Soleado,1000,70,9.7,SW,0.0,0
+2025-06-01,2025-06-01 18:00,Iquique,16.9,Soleado,1000,76,9.7,SSW,0.0,0
+2025-06-01,2025-06-01 19:00,Iquique,15.7,Despejado,1000,80,6.8,SSW,0.0,0
+2025-06-01,2025-06-01 20:00,Iquique,15.3,Despejado,1000,78,5.0,SSW,0.0,0
+2025-06-01,2025-06-01 21:00,Iquique,13.7,Despejado,1000,77,1.8,S,0.0,0
+2025-06-01,2025-06-01 22:00,Iquique,13.5,Despejado,1000,74,1.1,S,0.0,0
+2025-06-01,2025-06-01 23:00,Iquique,11.4,Despejado,1000,74,4.7,SW,0.0,0
+2025-06-02,2025-06-02 00:00,Iquique,10.8,Despejado,1000,76,1.8,SSW,0.0,0
+2025-06-02,2025-06-02 01:00,Iquique,12.2,Despejado,1000,74,1.1,ESE,0.0,0
+2025-06-02,2025-06-02 02:00,Iquique,11.2,Despejado,1000,72,0.4,NNE,0.0,0
+2025-06-02,2025-06-02 03:00,Iquique,10.6,Despejado,1000,71,4.0,SSW,0.0,0
+2025-06-02,2025-06-02 04:00,Iquique,10.3,Despejado,1000,73,5.4,S,0.0,0
+2025-06-02,2025-06-02 05:00,Iquique,10.4,Despejado,1000,72,5.0,S,0.0,0
+2025-06-02,2025-06-02 06:00,Iquique,10.3,Despejado,1000,72,7.6,S,0.0,0
+2025-06-02,2025-06-02 07:00,Iquique,12.7,Despejado,1000,72,8.6,S,0.0,0
+2025-06-02,2025-06-02 08:00,Iquique,16.6,Soleado,1000,64,11.2,S,0.0,0
+2025-06-02,2025-06-02 09:00,Iquique,18.7,Soleado,1000,57,9.0,S,0.0,0
+2025-06-02,2025-06-02 10:00,Iquique,19.9,Soleado,1000,54,8.6,SSW,0.0,0
+2025-06-02,2025-06-02 11:00,Iquique,20.7,Soleado,1000,54,11.9,SW,0.0,0
+2025-06-02,2025-06-02 12:00,Iquique,21.2,Soleado,1000,54,14.0,SW,0.0,0
+2025-06-02,2025-06-02 13:00,Iquique,21.2,Soleado,1000,56,13.0,SW,0.0,0
+2025-06-02,2025-06-02 14:00,Iquique,21.2,Soleado,1000,57,14.0,SW,0.0,0
+2025-06-02,2025-06-02 15:00,Iquique,20.9,Soleado,1000,59,13.3,SW,0.0,0
+2025-06-02,2025-06-02 16:00,Iquique,20.3,Soleado,1000,62,14.0,SW,0.0,0
+2025-06-02,2025-06-02 17:00,Iquique,19.5,Soleado,1000,66,13.0,SSW,0.0,0
+2025-06-02,2025-06-02 18:00,Iquique,17.3,Soleado,1000,72,7.9,SSW,0.0,0
+2025-06-02,2025-06-02 19:00,Iquique,14.1,Despejado,1000,77,7.6,SSW,0.0,0
+2025-06-02,2025-06-02 20:00,Iquique,12.4,Despejado,1000,78,4.3,SSW,0.0,0
+2025-06-02,2025-06-02 21:00,Iquique,12.2,Despejado,1000,77,2.9,SW,0.0,0
+2025-06-02,2025-06-02 22:00,Iquique,12.0,Despejado,1000,77,2.5,SSW,0.0,0
+2025-06-02,2025-06-02 23:00,Iquique,11.7,Despejado,1000,78,3.2,SW,0.0,0
+2025-06-03,2025-06-03 00:00,Iquique,11.5,Despejado,1000,80,6.5,S,0.0,0
+2025-06-03,2025-06-03 01:00,Iquique,11.3,Despejado,1000,79,2.2,SSE,0.0,0
+2025-06-03,2025-06-03 02:00,Iquique,11.4,Despejado,1000,78,1.8,WSW,0.0,0
+2025-06-03,2025-06-03 03:00,Iquique,10.9,Despejado,1000,80,1.4,WSW,0.0,0
+2025-06-03,2025-06-03 04:00,Iquique,10.7,Despejado,1000,81,1.1,NW,0.0,0
+2025-06-03,2025-06-03 05:00,Iquique,11.1,Despejado,1000,79,3.6,NNE,0.0,0
+2025-06-03,2025-06-03 06:00,Iquique,11.0,Despejado,1000,78,2.2,NNW,0.0,0
+2025-06-03,2025-06-03 07:00,Iquique,11.3,Despejado,1000,77,1.1,NW,0.0,0
+2025-06-03,2025-06-03 08:00,Iquique,13.1,Soleado,1000,74,1.4,SW,0.0,0
+2025-06-03,2025-06-03 09:00,Iquique,15.3,Soleado,1000,67,2.2,WSW,0.0,0
+2025-06-03,2025-06-03 10:00,Iquique,18.0,Soleado,1000,64,5.0,WSW,0.0,0
+2025-06-03,2025-06-03 11:00,Iquique,19.4,Soleado,1000,65,8.6,SW,0.0,0
+2025-06-03,2025-06-03 12:00,Iquique,19.7,Soleado,1000,65,10.8,SW,0.0,0
+2025-06-03,2025-06-03 13:00,Iquique,19.8,Soleado,1000,65,10.4,SW,0.0,0
+2025-06-03,2025-06-03 14:00,Iquique,20.1,Soleado,1000,65,11.2,SW,0.0,0
+2025-06-03,2025-06-03 15:00,Iquique,19.9,Soleado,1000,66,10.1,SW,0.0,0
+2025-06-03,2025-06-03 16:00,Iquique,19.6,Soleado,1000,67,11.5,SW,0.0,0
+2025-06-03,2025-06-03 17:00,Iquique,18.8,Soleado,1000,70,9.7,SSW,0.0,0
+2025-06-03,2025-06-03 18:00,Iquique,16.5,Soleado,1000,76,6.8,SW,0.0,0
+2025-06-03,2025-06-03 19:00,Iquique,14.4,Despejado,1000,80,7.9,SSW,0.0,0
+2025-06-03,2025-06-03 20:00,Iquique,11.9,Despejado,1000,80,6.5,SSW,0.0,0
+2025-06-03,2025-06-03 21:00,Iquique,11.6,Despejado,1000,80,4.7,SSW,0.0,0
+2025-06-03,2025-06-03 22:00,Iquique,11.4,Despejado,1000,78,1.4,ESE,0.0,0
+2025-06-03,2025-06-03 23:00,Iquique,11.4,Despejado,1000,76,0.7,E,0.0,0
+2025-06-04,2025-06-04 00:00,Iquique,11.0,Despejado,1000,78,4.3,SE,0.0,0
+2025-06-04,2025-06-04 01:00,Iquique,11.2,Despejado,1000,74,2.5,SSW,0.0,0
+2025-06-04,2025-06-04 02:00,Iquique,10.8,Despejado,1000,76,5.4,S,0.0,0
+2025-06-04,2025-06-04 03:00,Iquique,10.9,Despejado,1000,72,4.0,S,0.0,0
+2025-06-04,2025-06-04 04:00,Iquique,11.0,Despejado,1000,72,8.3,SSW,0.0,0
+2025-06-04,2025-06-04 05:00,Iquique,11.1,Despejado,1000,70,10.1,S,0.0,0
+2025-06-04,2025-06-04 06:00,Iquique,11.5,Despejado,1000,68,9.0,S,0.0,0
+2025-06-04,2025-06-04 07:00,Iquique,14.7,Despejado,1000,68,8.3,SSW,0.0,0
+2025-06-04,2025-06-04 08:00,Iquique,16.9,Soleado,1000,63,10.1,SSW,0.0,0
+2025-06-04,2025-06-04 09:00,Iquique,18.5,Soleado,1000,60,12.6,SSW,0.0,0
+2025-06-04,2025-06-04 10:00,Iquique,19.9,Soleado,1000,54,7.6,SSW,0.0,0
+2025-06-04,2025-06-04 11:00,Iquique,20.8,Soleado,1000,54,10.8,SW,0.0,0
+2025-06-04,2025-06-04 12:00,Iquique,20.7,Soleado,1000,58,12.6,SW,0.0,0
+2025-06-04,2025-06-04 13:00,Iquique,20.7,Soleado,1000,61,14.0,SW,0.0,0
+2025-06-04,2025-06-04 14:00,Iquique,20.5,Soleado,1000,63,14.8,SSW,0.0,0
+2025-06-04,2025-06-04 15:00,Iquique,20.5,Soleado,1000,63,13.3,SSW,0.0,0
+2025-06-04,2025-06-04 16:00,Iquique,20.2,Soleado,1000,64,11.9,SSW,0.0,0
+2025-06-04,2025-06-04 17:00,Iquique,19.5,Soleado,1000,68,14.4,SSW,0.0,0
+2025-06-04,2025-06-04 18:00,Iquique,17.0,Soleado,1000,75,13.0,S,0.0,0
+2025-06-04,2025-06-04 19:00,Iquique,15.3,Despejado,1000,77,11.5,S,0.0,0
+2025-06-04,2025-06-04 20:00,Iquique,14.4,Despejado,1000,75,11.9,SSW,0.0,0
+2025-06-04,2025-06-04 21:00,Iquique,12.7,Despejado,1000,72,7.9,S,0.0,0
+2025-06-04,2025-06-04 22:00,Iquique,12.6,Despejado,1000,68,3.2,SSW,0.0,0
+2025-06-04,2025-06-04 23:00,Iquique,12.2,Despejado,1000,72,8.3,SW,0.0,0
+2025-05-26,2025-05-26 00:00,Valparaíso,13.8,Cielo cubierto,1009,74,4.3,NNE,0.0,96
+2025-05-26,2025-05-26 01:00,Valparaíso,13.9,Cielo cubierto,1009,73,4.3,NNE,0.0,100
+2025-05-26,2025-05-26 02:00,Valparaíso,13.9,Cielo cubierto,1009,73,5.8,NE,0.0,94
+2025-05-26,2025-05-26 03:00,Valparaíso,13.9,Parcialmente nublado,1003,72,6.5,NE,0.0,48
+2025-05-26,2025-05-26 04:00,Valparaíso,14.0,Parcialmente nublado,1003,72,5.8,NE,0.0,56
+2025-05-26,2025-05-26 05:00,Valparaíso,13.9,Nublado,1006,72,4.7,NE,0.0,85
+2025-05-26,2025-05-26 06:00,Valparaíso,14.0,Cielo cubierto,1009,73,4.7,NE,0.0,100
+2025-05-26,2025-05-26 07:00,Valparaíso,14.0,Lluvia  moderada a intervalos,1063,72,6.1,NE,0.01,93
+2025-05-26,2025-05-26 08:00,Valparaíso,13.9,Lluvia  moderada a intervalos,1063,74,3.2,NNE,0.1,100
+2025-05-26,2025-05-26 09:00,Valparaíso,14.3,Lluvia  moderada a intervalos,1063,74,4.0,NNE,0.02,100
+2025-05-26,2025-05-26 10:00,Valparaíso,14.6,Llovizna,1153,75,4.0,NNW,0.24,100
+2025-05-26,2025-05-26 11:00,Valparaíso,14.4,Ligeras precipitaciones,1240,79,5.8,WNW,0.29,86
+2025-05-26,2025-05-26 12:00,Valparaíso,14.4,Ligeras precipitaciones,1240,83,7.6,W,0.24,98
+2025-05-26,2025-05-26 13:00,Valparaíso,14.2,Ligeras precipitaciones,1240,89,8.3,WSW,0.42,100
+2025-05-26,2025-05-26 14:00,Valparaíso,14.1,Lluvia  moderada a intervalos,1063,91,7.9,SSW,0.12,97
+2025-05-26,2025-05-26 15:00,Valparaíso,14.2,Lluvia  moderada a intervalos,1063,90,10.1,SSW,0.06,90
+2025-05-26,2025-05-26 16:00,Valparaíso,14.3,Lluvia  moderada a intervalos,1063,88,10.8,SSW,0.05,100
+2025-05-26,2025-05-26 17:00,Valparaíso,14.1,Lluvia  moderada a intervalos,1063,88,13.3,SSW,0.06,92
+2025-05-26,2025-05-26 18:00,Valparaíso,13.8,Parcialmente nublado,1003,86,8.6,S,0.0,50
+2025-05-26,2025-05-26 19:00,Valparaíso,13.7,Parcialmente nublado,1003,85,12.2,SSW,0.0,44
+2025-05-26,2025-05-26 20:00,Valparaíso,13.4,Nublado,1006,86,15.8,SSW,0.0,73
+2025-05-26,2025-05-26 21:00,Valparaíso,13.0,Lluvia  moderada a intervalos,1063,88,18.0,SSW,0.01,77
+2025-05-26,2025-05-26 22:00,Valparaíso,12.4,Parcialmente nublado,1003,88,24.1,S,0.0,47
+2025-05-26,2025-05-26 23:00,Valparaíso,11.9,Despejado,1000,86,24.8,S,0.0,24
+2025-05-27,2025-05-27 00:00,Valparaíso,11.1,Parcialmente nublado,1003,82,30.2,S,0.0,30
+2025-05-27,2025-05-27 01:00,Valparaíso,10.9,Parcialmente nublado,1003,78,24.1,S,0.0,30
+2025-05-27,2025-05-27 02:00,Valparaíso,10.4,Despejado,1000,79,20.9,S,0.0,3
+2025-05-27,2025-05-27 03:00,Valparaíso,10.1,Despejado,1000,80,22.7,S,0.0,0
+2025-05-27,2025-05-27 04:00,Valparaíso,9.7,Despejado,1000,79,22.7,S,0.0,0
+2025-05-27,2025-05-27 05:00,Valparaíso,9.4,Despejado,1000,80,18.7,S,0.0,0
+2025-05-27,2025-05-27 06:00,Valparaíso,9.2,Despejado,1000,80,17.6,SSE,0.0,0
+2025-05-27,2025-05-27 07:00,Valparaíso,9.0,Despejado,1000,80,16.2,SSE,0.0,0
+2025-05-27,2025-05-27 08:00,Valparaíso,9.0,Soleado,1000,80,16.2,S,0.0,0
+2025-05-27,2025-05-27 09:00,Valparaíso,10.1,Soleado,1000,76,17.3,S,0.0,0
+2025-05-27,2025-05-27 10:00,Valparaíso,11.5,Soleado,1000,70,18.7,S,0.0,0
+2025-05-27,2025-05-27 11:00,Valparaíso,12.6,Soleado,1000,67,24.8,S,0.0,0
+2025-05-27,2025-05-27 12:00,Valparaíso,13.3,Soleado,1000,64,28.8,S,0.0,0
+2025-05-27,2025-05-27 13:00,Valparaíso,13.9,Soleado,1000,59,29.9,S,0.0,0
+2025-05-27,2025-05-27 14:00,Valparaíso,14.4,Soleado,1000,56,31.3,S,0.0,0
+2025-05-27,2025-05-27 15:00,Valparaíso,14.7,Soleado,1000,54,30.6,S,0.0,0
+2025-05-27,2025-05-27 16:00,Valparaíso,14.6,Soleado,1000,55,28.8,S,0.0,0
+2025-05-27,2025-05-27 17:00,Valparaíso,13.6,Soleado,1000,60,29.5,SSW,0.0,0
+2025-05-27,2025-05-27 18:00,Valparaíso,12.1,Despejado,1000,67,31.3,SSW,0.0,0
+2025-05-27,2025-05-27 19:00,Valparaíso,11.5,Despejado,1000,70,28.4,S,0.0,0
+2025-05-27,2025-05-27 20:00,Valparaíso,11.1,Despejado,1000,69,24.1,S,0.0,0
+2025-05-27,2025-05-27 21:00,Valparaíso,10.4,Despejado,1000,71,19.8,S,0.0,0
+2025-05-27,2025-05-27 22:00,Valparaíso,10.3,Despejado,1000,72,19.8,S,0.0,0
+2025-05-27,2025-05-27 23:00,Valparaíso,10.2,Despejado,1000,72,19.4,S,0.0,0
+2025-05-28,2025-05-28 00:00,Valparaíso,10.7,Despejado,1000,73,21.2,S,0.0,0
+2025-05-28,2025-05-28 01:00,Valparaíso,10.7,Despejado,1000,73,19.4,SSE,0.0,0
+2025-05-28,2025-05-28 02:00,Valparaíso,10.8,Despejado,1000,71,18.4,SSE,0.0,0
+2025-05-28,2025-05-28 03:00,Valparaíso,10.7,Despejado,1000,69,18.4,S,0.0,0
+2025-05-28,2025-05-28 04:00,Valparaíso,10.5,Despejado,1000,69,19.1,S,0.0,0
+2025-05-28,2025-05-28 05:00,Valparaíso,10.4,Despejado,1000,67,18.0,S,0.0,0
+2025-05-28,2025-05-28 06:00,Valparaíso,10.2,Despejado,1000,65,17.6,S,0.0,0
+2025-05-28,2025-05-28 07:00,Valparaíso,10.3,Despejado,1000,62,16.9,S,0.0,0
+2025-05-28,2025-05-28 08:00,Valparaíso,10.3,Soleado,1000,60,17.3,S,0.0,0
+2025-05-28,2025-05-28 09:00,Valparaíso,11.8,Soleado,1000,56,16.6,S,0.0,0
+2025-05-28,2025-05-28 10:00,Valparaíso,13.1,Soleado,1000,50,16.2,S,0.0,0
+2025-05-28,2025-05-28 11:00,Valparaíso,14.3,Soleado,1000,47,15.8,SSW,0.0,0
+2025-05-28,2025-05-28 12:00,Valparaíso,15.2,Soleado,1000,46,15.5,SSW,0.0,0
+2025-05-28,2025-05-28 13:00,Valparaíso,16.2,Soleado,1000,44,13.7,SSW,0.0,0
+2025-05-28,2025-05-28 14:00,Valparaíso,16.2,Soleado,1000,47,19.1,SW,0.0,1
+2025-05-28,2025-05-28 15:00,Valparaíso,16.2,Soleado,1000,50,18.0,SSW,0.0,3
+2025-05-28,2025-05-28 16:00,Valparaíso,16.0,Soleado,1000,53,16.6,SSW,0.0,4
+2025-05-28,2025-05-28 17:00,Valparaíso,14.9,Soleado,1000,61,15.1,SSW,0.0,5
+2025-05-28,2025-05-28 18:00,Valparaíso,13.5,Despejado,1000,65,15.1,SSW,0.0,5
+2025-05-28,2025-05-28 19:00,Valparaíso,13.1,Despejado,1000,68,16.2,SSW,0.0,4
+2025-05-28,2025-05-28 20:00,Valparaíso,12.9,Despejado,1000,68,15.8,SSW,0.0,4
+2025-05-28,2025-05-28 21:00,Valparaíso,12.9,Despejado,1000,67,13.0,S,0.0,3
+2025-05-28,2025-05-28 22:00,Valparaíso,12.8,Despejado,1000,65,12.2,S,0.0,12
+2025-05-28,2025-05-28 23:00,Valparaíso,12.6,Despejado,1000,64,13.0,SSW,0.0,17
+2025-05-29,2025-05-29 00:00,Valparaíso,12.1,Despejado,1000,66,7.6,S,0.0,5
+2025-05-29,2025-05-29 01:00,Valparaíso,12.0,Despejado,1000,65,12.2,S,0.0,5
+2025-05-29,2025-05-29 02:00,Valparaíso,12.1,Despejado,1000,61,7.2,SSE,0.0,0
+2025-05-29,2025-05-29 03:00,Valparaíso,12.1,Despejado,1000,59,9.7,S,0.0,0
+2025-05-29,2025-05-29 04:00,Valparaíso,11.9,Despejado,1000,57,9.7,S,0.0,0
+2025-05-29,2025-05-29 05:00,Valparaíso,11.8,Despejado,1000,57,10.8,SSW,0.0,0
+2025-05-29,2025-05-29 06:00,Valparaíso,11.7,Despejado,1000,57,13.3,S,0.0,0
+2025-05-29,2025-05-29 07:00,Valparaíso,11.8,Despejado,1000,55,13.3,S,0.0,0
+2025-05-29,2025-05-29 08:00,Valparaíso,12.2,Soleado,1000,54,11.9,S,0.0,0
+2025-05-29,2025-05-29 09:00,Valparaíso,13.6,Soleado,1000,53,13.3,S,0.0,0
+2025-05-29,2025-05-29 10:00,Valparaíso,15.1,Soleado,1000,48,12.6,S,0.0,4
+2025-05-29,2025-05-29 11:00,Valparaíso,16.5,Parcialmente nublado,1003,46,14.4,SSW,0.0,32
+2025-05-29,2025-05-29 12:00,Valparaíso,17.5,Parcialmente nublado,1003,46,16.6,SSW,0.0,45
+2025-05-29,2025-05-29 13:00,Valparaíso,18.3,Soleado,1000,47,20.5,SSW,0.0,14
+2025-05-29,2025-05-29 14:00,Valparaíso,18.9,Soleado,1000,48,22.7,SSW,0.0,0
+2025-05-29,2025-05-29 15:00,Valparaíso,18.4,Soleado,1000,51,25.9,SSW,0.0,0
+2025-05-29,2025-05-29 16:00,Valparaíso,17.3,Soleado,1000,55,25.2,SSW,0.0,0
+2025-05-29,2025-05-29 17:00,Valparaíso,15.8,Soleado,1000,63,23.8,SSW,0.0,13
+2025-05-29,2025-05-29 18:00,Valparaíso,14.6,Cielo cubierto,1009,70,23.4,SSW,0.0,100
+2025-05-29,2025-05-29 19:00,Valparaíso,14.2,Cielo cubierto,1009,73,21.2,S,0.0,100
+2025-05-29,2025-05-29 20:00,Valparaíso,14.1,Despejado,1000,73,19.4,S,0.0,22
+2025-05-29,2025-05-29 21:00,Valparaíso,13.8,Parcialmente nublado,1003,73,19.1,S,0.0,32
+2025-05-29,2025-05-29 22:00,Valparaíso,13.8,Despejado,1000,70,18.4,S,0.0,15
+2025-05-29,2025-05-29 23:00,Valparaíso,13.6,Cielo cubierto,1009,70,19.4,S,0.0,100
+2025-05-30,2025-05-30 00:00,Valparaíso,13.6,Despejado,1000,64,20.2,S,0.0,17
+2025-05-30,2025-05-30 01:00,Valparaíso,13.4,Despejado,1000,66,20.9,S,0.0,19
+2025-05-30,2025-05-30 02:00,Valparaíso,13.1,Despejado,1000,67,21.2,S,0.0,21
+2025-05-30,2025-05-30 03:00,Valparaíso,12.8,Parcialmente nublado,1003,68,20.2,S,0.0,35
+2025-05-30,2025-05-30 04:00,Valparaíso,12.6,Despejado,1000,69,19.8,S,0.0,15
+2025-05-30,2025-05-30 05:00,Valparaíso,12.3,Despejado,1000,70,18.7,S,0.0,7
+2025-05-30,2025-05-30 06:00,Valparaíso,12.2,Despejado,1000,69,18.7,S,0.0,3
+2025-05-30,2025-05-30 07:00,Valparaíso,12.1,Despejado,1000,69,18.4,S,0.0,5
+2025-05-30,2025-05-30 08:00,Valparaíso,12.1,Soleado,1000,67,18.4,S,0.0,3
+2025-05-30,2025-05-30 09:00,Valparaíso,13.4,Soleado,1000,62,17.6,S,0.0,2
+2025-05-30,2025-05-30 10:00,Valparaíso,14.8,Soleado,1000,57,18.0,S,0.0,3
+2025-05-30,2025-05-30 11:00,Valparaíso,16.1,Soleado,1000,54,19.1,S,0.0,0
+2025-05-30,2025-05-30 12:00,Valparaíso,17.1,Soleado,1000,53,22.7,SSW,0.0,0
+2025-05-30,2025-05-30 13:00,Valparaíso,17.7,Soleado,1000,53,26.6,SSW,0.0,1
+2025-05-30,2025-05-30 14:00,Valparaíso,17.6,Soleado,1000,55,29.2,SSW,0.0,0
+2025-05-30,2025-05-30 15:00,Valparaíso,17.2,Soleado,1000,57,29.9,SSW,0.0,8
+2025-05-30,2025-05-30 16:00,Valparaíso,16.7,Soleado,1000,59,32.4,SSW,0.0,7
+2025-05-30,2025-05-30 17:00,Valparaíso,15.7,Parcialmente nublado,1003,64,28.4,SSW,0.0,40
+2025-05-30,2025-05-30 18:00,Valparaíso,14.3,Despejado,1000,70,25.6,SSW,0.0,15
+2025-05-30,2025-05-30 19:00,Valparaíso,13.8,Despejado,1000,72,20.9,S,0.0,2
+2025-05-30,2025-05-30 20:00,Valparaíso,13.6,Despejado,1000,72,21.2,S,0.0,0
+2025-05-30,2025-05-30 21:00,Valparaíso,13.5,Despejado,1000,70,20.2,S,0.0,0
+2025-05-30,2025-05-30 22:00,Valparaíso,13.4,Despejado,1000,69,20.5,S,0.0,0
+2025-05-30,2025-05-30 23:00,Valparaíso,13.3,Despejado,1000,68,20.2,S,0.0,0
+2025-05-31,2025-05-31 00:00,Valparaíso,13.1,Parcialmente nublado,1003,69,20.9,S,0.0,32
+2025-05-31,2025-05-31 01:00,Valparaíso,13.0,Despejado,1000,69,18.7,S,0.0,20
+2025-05-31,2025-05-31 02:00,Valparaíso,12.9,Despejado,1000,69,19.1,S,0.0,17
+2025-05-31,2025-05-31 03:00,Valparaíso,12.7,Parcialmente nublado,1003,68,19.1,S,0.0,31
+2025-05-31,2025-05-31 04:00,Valparaíso,12.5,Parcialmente nublado,1003,68,20.9,S,0.0,32
+2025-05-31,2025-05-31 05:00,Valparaíso,12.3,Nublado,1006,67,18.7,S,0.0,69
+2025-05-31,2025-05-31 06:00,Valparaíso,12.3,Parcialmente nublado,1003,65,19.1,S,0.0,31
+2025-05-31,2025-05-31 07:00,Valparaíso,12.5,Despejado,1000,63,18.4,S,0.0,10
+2025-05-31,2025-05-31 08:00,Valparaíso,12.5,Soleado,1000,61,18.4,S,0.0,2
+2025-05-31,2025-05-31 09:00,Valparaíso,13.4,Soleado,1000,59,20.5,S,0.0,7
+2025-05-31,2025-05-31 10:00,Valparaíso,14.9,Nublado,1006,53,18.7,S,0.0,67
+2025-05-31,2025-05-31 11:00,Valparaíso,16.6,Cielo cubierto,1009,48,18.0,S,0.0,100
+2025-05-31,2025-05-31 12:00,Valparaíso,17.9,Cielo cubierto,1009,45,18.7,SSW,0.0,100
+2025-05-31,2025-05-31 13:00,Valparaíso,18.5,Parcialmente nublado,1003,45,22.0,SSW,0.0,54
+2025-05-31,2025-05-31 14:00,Valparaíso,19.1,Nublado,1006,43,24.5,SSW,0.0,69
+2025-05-31,2025-05-31 15:00,Valparaíso,18.5,Cielo cubierto,1009,46,26.3,SSW,0.0,100
+2025-05-31,2025-05-31 16:00,Valparaíso,17.5,Soleado,1000,51,23.4,SSW,0.0,5
+2025-05-31,2025-05-31 17:00,Valparaíso,16.2,Soleado,1000,57,20.9,SSW,0.0,6
+2025-05-31,2025-05-31 18:00,Valparaíso,15.0,Despejado,1000,60,19.4,SSW,0.0,8
+2025-05-31,2025-05-31 19:00,Valparaíso,14.7,Despejado,1000,61,16.9,S,0.0,8
+2025-05-31,2025-05-31 20:00,Valparaíso,14.5,Despejado,1000,60,15.1,S,0.0,7
+2025-05-31,2025-05-31 21:00,Valparaíso,14.2,Despejado,1000,60,14.4,S,0.0,5
+2025-05-31,2025-05-31 22:00,Valparaíso,14.0,Despejado,1000,59,13.0,S,0.0,5
+2025-05-31,2025-05-31 23:00,Valparaíso,13.8,Despejado,1000,58,11.5,S,0.0,7
+2025-06-01,2025-06-01 00:00,Valparaíso,13.1,Despejado,1000,62,10.4,S,0.0,18
+2025-06-01,2025-06-01 01:00,Valparaíso,12.9,Parcialmente nublado,1003,62,9.7,S,0.0,51
+2025-06-01,2025-06-01 02:00,Valparaíso,12.7,Parcialmente nublado,1003,62,9.0,S,0.0,45
+2025-06-01,2025-06-01 03:00,Valparaíso,12.4,Despejado,1000,62,8.3,S,0.0,22
+2025-06-01,2025-06-01 04:00,Valparaíso,12.0,Parcialmente nublado,1003,65,8.6,SSW,0.0,32
+2025-06-01,2025-06-01 05:00,Valparaíso,11.9,Parcialmente nublado,1003,65,7.9,S,0.0,54
+2025-06-01,2025-06-01 06:00,Valparaíso,11.9,Despejado,1000,63,8.3,S,0.0,4
+2025-06-01,2025-06-01 07:00,Valparaíso,11.8,Despejado,1000,62,8.3,S,0.0,5
+2025-06-01,2025-06-01 08:00,Valparaíso,12.1,Soleado,1000,61,7.9,S,0.0,7
+2025-06-01,2025-06-01 09:00,Valparaíso,13.3,Soleado,1000,58,7.6,S,0.0,8
+2025-06-01,2025-06-01 10:00,Valparaíso,14.2,Soleado,1000,54,6.1,S,0.0,8
+2025-06-01,2025-06-01 11:00,Valparaíso,15.0,Soleado,1000,51,5.0,SSW,0.0,5
+2025-06-01,2025-06-01 12:00,Valparaíso,15.8,Soleado,1000,48,7.6,SW,0.0,4
+2025-06-01,2025-06-01 13:00,Valparaíso,16.1,Parcialmente nublado,1003,50,10.4,SW,0.0,32
+2025-06-01,2025-06-01 14:00,Valparaíso,15.9,Soleado,1000,52,9.4,SW,0.0,11
+2025-06-01,2025-06-01 15:00,Valparaíso,15.4,Soleado,1000,55,9.7,WSW,0.0,5
+2025-06-01,2025-06-01 16:00,Valparaíso,14.7,Soleado,1000,58,9.0,WSW,0.0,0
+2025-06-01,2025-06-01 17:00,Valparaíso,13.8,Soleado,1000,63,7.6,SW,0.0,0
+2025-06-01,2025-06-01 18:00,Valparaíso,12.7,Despejado,1000,69,6.1,SSW,0.0,0
+2025-06-01,2025-06-01 19:00,Valparaíso,12.4,Despejado,1000,70,5.0,S,0.0,1
+2025-06-01,2025-06-01 20:00,Valparaíso,12.4,Despejado,1000,71,4.3,S,0.0,0
+2025-06-01,2025-06-01 21:00,Valparaíso,12.3,Despejado,1000,71,3.2,SSW,0.0,0
+2025-06-01,2025-06-01 22:00,Valparaíso,12.2,Despejado,1000,71,2.5,SSE,0.0,0
+2025-06-01,2025-06-01 23:00,Valparaíso,12.2,Despejado,1000,71,1.8,ESE,0.0,0
+2025-06-02,2025-06-02 00:00,Valparaíso,12.3,Parcialmente nublado,1003,69,2.5,ESE,0.0,32
+2025-06-02,2025-06-02 01:00,Valparaíso,12.3,Cielo cubierto,1009,67,2.2,E,0.0,100
+2025-06-02,2025-06-02 02:00,Valparaíso,12.4,Cielo cubierto,1009,66,1.1,SSW,0.0,100
+2025-06-02,2025-06-02 03:00,Valparaíso,12.5,Cielo cubierto,1009,65,4.7,WSW,0.0,99
+2025-06-02,2025-06-02 04:00,Valparaíso,12.5,Despejado,1000,64,5.0,ESE,0.0,13
+2025-06-02,2025-06-02 05:00,Valparaíso,12.7,Parcialmente nublado,1003,63,1.4,E,0.0,48
+2025-06-02,2025-06-02 06:00,Valparaíso,12.9,Parcialmente nublado,1003,62,2.9,SSW,0.0,37
+2025-06-02,2025-06-02 07:00,Valparaíso,13.4,Despejado,1000,58,6.5,E,0.0,15
+2025-06-02,2025-06-02 08:00,Valparaíso,12.9,Soleado,1000,60,3.2,WSW,0.0,17
+2025-06-02,2025-06-02 09:00,Valparaíso,13.9,Parcialmente nublado,1003,57,8.6,SW,0.0,31
+2025-06-02,2025-06-02 10:00,Valparaíso,14.0,Soleado,1000,57,5.4,SSE,0.0,11
+2025-06-02,2025-06-02 11:00,Valparaíso,15.2,Soleado,1000,53,0.4,ENE,0.0,7
+2025-06-02,2025-06-02 12:00,Valparaíso,15.8,Soleado,1000,50,2.9,NW,0.0,7
+2025-06-02,2025-06-02 13:00,Valparaíso,16.1,Cielo cubierto,1009,49,5.4,WNW,0.0,100
+2025-06-02,2025-06-02 14:00,Valparaíso,15.8,Cielo cubierto,1009,52,5.0,W,0.0,100
+2025-06-02,2025-06-02 15:00,Valparaíso,15.4,Soleado,1000,54,3.2,W,0.0,8
+2025-06-02,2025-06-02 16:00,Valparaíso,15.3,Soleado,1000,55,2.5,WNW,0.0,10
+2025-06-02,2025-06-02 17:00,Valparaíso,14.8,Parcialmente nublado,1003,58,5.4,WSW,0.0,28
+2025-06-02,2025-06-02 18:00,Valparaíso,14.1,Parcialmente nublado,1003,59,5.8,SW,0.0,47
+2025-06-02,2025-06-02 19:00,Valparaíso,14.0,Parcialmente nublado,1003,60,4.0,S,0.0,60
+2025-06-02,2025-06-02 20:00,Valparaíso,14.0,Parcialmente nublado,1003,60,2.5,SSE,0.0,54
+2025-06-02,2025-06-02 21:00,Valparaíso,14.0,Parcialmente nublado,1003,59,5.0,SSW,0.0,58
+2025-06-02,2025-06-02 22:00,Valparaíso,14.1,Parcialmente nublado,1003,59,3.6,SSW,0.0,53
+2025-06-02,2025-06-02 23:00,Valparaíso,14.0,Parcialmente nublado,1003,58,5.4,SSW,0.0,56
+2025-06-03,2025-06-03 00:00,Valparaíso,13.7,Parcialmente nublado,1003,59,5.4,SSW,0.0,33
+2025-06-03,2025-06-03 01:00,Valparaíso,13.8,Despejado,1000,58,4.3,S,0.0,24
+2025-06-03,2025-06-03 02:00,Valparaíso,13.5,Despejado,1000,59,5.4,SSW,0.0,13
+2025-06-03,2025-06-03 03:00,Valparaíso,13.6,Despejado,1000,59,4.0,S,0.0,16
+2025-06-03,2025-06-03 04:00,Valparaíso,13.5,Despejado,1000,59,2.5,SSW,0.0,13
+2025-06-03,2025-06-03 05:00,Valparaíso,13.3,Despejado,1000,60,2.9,SSW,0.0,12
+2025-06-03,2025-06-03 06:00,Valparaíso,13.2,Despejado,1000,60,3.2,SSW,0.0,15
+2025-06-03,2025-06-03 07:00,Valparaíso,13.2,Parcialmente nublado,1003,60,1.8,ESE,0.0,27
+2025-06-03,2025-06-03 08:00,Valparaíso,13.4,Parcialmente nublado,1003,59,4.0,SW,0.0,34
+2025-06-03,2025-06-03 09:00,Valparaíso,14.2,Parcialmente nublado,1003,59,4.0,SSW,0.0,30
+2025-06-03,2025-06-03 10:00,Valparaíso,14.9,Parcialmente nublado,1003,55,1.1,SE,0.0,36
+2025-06-03,2025-06-03 11:00,Valparaíso,15.4,Parcialmente nublado,1003,52,1.8,SW,0.0,31
+2025-06-03,2025-06-03 12:00,Valparaíso,15.9,Parcialmente nublado,1003,50,4.0,W,0.0,47
+2025-06-03,2025-06-03 13:00,Valparaíso,15.8,Parcialmente nublado,1003,51,3.2,WSW,0.0,42
+2025-06-03,2025-06-03 14:00,Valparaíso,16.3,Nublado,1006,48,6.5,WSW,0.0,71
+2025-06-03,2025-06-03 15:00,Valparaíso,16.1,Parcialmente nublado,1003,50,3.2,WNW,0.0,43
+2025-06-03,2025-06-03 16:00,Valparaíso,15.7,Nublado,1006,51,5.8,WSW,0.0,68
+2025-06-03,2025-06-03 17:00,Valparaíso,14.6,Nublado,1006,57,4.3,SW,0.0,70
+2025-06-03,2025-06-03 18:00,Valparaíso,14.3,Nublado,1006,57,2.2,SW,0.0,72
+2025-06-03,2025-06-03 19:00,Valparaíso,14.1,Nublado,1006,58,1.4,WNW,0.0,76
+2025-06-03,2025-06-03 20:00,Valparaíso,14.1,Nublado,1006,58,0.0,N,0.0,87
+2025-06-03,2025-06-03 21:00,Valparaíso,13.8,Parcialmente nublado,1003,58,2.9,SSW,0.0,55
+2025-06-03,2025-06-03 22:00,Valparaíso,13.5,Nublado,1006,57,2.5,S,0.0,72
+2025-06-03,2025-06-03 23:00,Valparaíso,13.3,Nublado,1006,58,3.6,SW,0.0,71
+2025-06-04,2025-06-04 00:00,Valparaíso,13.5,Nublado,1006,59,4.3,SSW,0.0,80
+2025-06-04,2025-06-04 01:00,Valparaíso,13.3,Cielo cubierto,1009,60,5.4,SSW,0.0,91
+2025-06-04,2025-06-04 02:00,Valparaíso,12.9,Cielo cubierto,1009,61,5.4,S,0.0,89
+2025-06-04,2025-06-04 03:00,Valparaíso,13.2,Nublado,1006,58,5.0,SSE,0.0,68
+2025-06-04,2025-06-04 04:00,Valparaíso,13.2,Nublado,1006,57,4.3,ESE,0.0,71
+2025-06-04,2025-06-04 05:00,Valparaíso,13.3,Parcialmente nublado,1003,56,4.7,E,0.0,49
+2025-06-04,2025-06-04 06:00,Valparaíso,13.1,Despejado,1000,57,4.3,ENE,0.0,23
+2025-06-04,2025-06-04 07:00,Valparaíso,12.7,Despejado,1000,58,3.6,ENE,0.0,20
+2025-06-04,2025-06-04 08:00,Valparaíso,12.7,Soleado,1000,58,6.1,SW,0.0,21
+2025-06-04,2025-06-04 09:00,Valparaíso,13.5,Parcialmente nublado,1003,58,9.7,SSW,0.0,47
+2025-06-04,2025-06-04 10:00,Valparaíso,14.4,Parcialmente nublado,1003,54,8.3,SSW,0.0,44
+2025-06-04,2025-06-04 11:00,Valparaíso,15.2,Parcialmente nublado,1003,49,6.8,SSE,0.0,60
+2025-06-04,2025-06-04 12:00,Valparaíso,16.3,Nublado,1006,46,3.6,SSE,0.0,73
+2025-06-04,2025-06-04 13:00,Valparaíso,16.7,Parcialmente nublado,1003,45,5.0,SW,0.0,27
+2025-06-04,2025-06-04 14:00,Valparaíso,16.7,Soleado,1000,46,6.5,SW,0.0,6
+2025-06-04,2025-06-04 15:00,Valparaíso,16.7,Soleado,1000,46,5.8,SW,0.0,14
+2025-06-04,2025-06-04 16:00,Valparaíso,16.6,Soleado,1000,48,5.8,SW,0.0,5
+2025-06-04,2025-06-04 17:00,Valparaíso,15.5,Soleado,1000,53,6.1,SW,0.0,2
+2025-06-04,2025-06-04 18:00,Valparaíso,14.1,Despejado,1000,59,9.0,SW,0.0,2
+2025-06-04,2025-06-04 19:00,Valparaíso,13.6,Despejado,1000,62,10.8,SSW,0.0,0
+2025-06-04,2025-06-04 20:00,Valparaíso,13.4,Despejado,1000,63,10.1,S,0.0,0
+2025-06-04,2025-06-04 21:00,Valparaíso,13.5,Despejado,1000,60,9.0,S,0.0,0
+2025-06-04,2025-06-04 22:00,Valparaíso,13.6,Despejado,1000,58,8.3,SSE,0.0,0
+2025-06-04,2025-06-04 23:00,Valparaíso,13.5,Despejado,1000,57,9.4,SSE,0.0,0
+2025-05-26,2025-05-26 00:00,Los Angeles,15.5,Parcialmente nublado,1003,84,7.9,SSE,0.0,68
+2025-05-26,2025-05-26 01:00,Los Angeles,15.2,Parcialmente nublado,1003,84,8.3,SSE,0.0,74
+2025-05-26,2025-05-26 02:00,Los Angeles,15.0,Nublado,1006,85,7.2,SSE,0.0,80
+2025-05-26,2025-05-26 03:00,Los Angeles,14.9,Nublado,1006,85,7.6,SSE,0.0,84
+2025-05-26,2025-05-26 04:00,Los Angeles,14.8,Nublado,1006,85,7.9,SSE,0.0,87
+2025-05-26,2025-05-26 05:00,Los Angeles,14.9,Cielo cubierto,1009,85,6.8,SSE,0.0,89
+2025-05-26,2025-05-26 06:00,Los Angeles,15.0,Cielo cubierto,1009,84,5.8,SSE,0.0,85
+2025-05-26,2025-05-26 07:00,Los Angeles,15.0,Cielo cubierto,1009,83,5.4,S,0.0,83
+2025-05-26,2025-05-26 08:00,Los Angeles,15.7,Nublado,1006,82,5.8,S,0.0,81
+2025-05-26,2025-05-26 09:00,Los Angeles,16.4,Nublado,1006,76,6.5,SSW,0.0,80
+2025-05-26,2025-05-26 10:00,Los Angeles,17.1,Nublado,1006,72,9.4,SW,0.0,80
+2025-05-26,2025-05-26 11:00,Los Angeles,18.2,Nublado,1006,69,11.9,SW,0.0,80
+2025-05-26,2025-05-26 12:00,Los Angeles,19.1,Nublado,1006,64,14.4,SW,0.0,49
+2025-05-26,2025-05-26 13:00,Los Angeles,20.0,Nublado,1006,61,16.9,SW,0.0,34
+2025-05-26,2025-05-26 14:00,Los Angeles,20.2,Soleado,1000,59,17.6,SW,0.0,18
+2025-05-26,2025-05-26 15:00,Los Angeles,20.2,Soleado,1000,60,16.9,SW,0.0,27
+2025-05-26,2025-05-26 16:00,Los Angeles,20.1,Parcialmente nublado,1003,61,17.6,WSW,0.0,32
+2025-05-26,2025-05-26 17:00,Los Angeles,19.3,Parcialmente nublado,1003,62,15.8,WSW,0.0,37
+2025-05-26,2025-05-26 18:00,Los Angeles,18.6,Parcialmente nublado,1003,68,14.0,SW,0.0,34
+2025-05-26,2025-05-26 19:00,Los Angeles,17.9,Parcialmente nublado,1003,71,10.4,SW,0.0,33
+2025-05-26,2025-05-26 20:00,Los Angeles,17.2,Parcialmente nublado,1003,74,7.9,SW,0.0,32
+2025-05-26,2025-05-26 21:00,Los Angeles,16.7,Parcialmente nublado,1003,78,5.8,S,0.0,37
+2025-05-26,2025-05-26 22:00,Los Angeles,16.0,Parcialmente nublado,1003,80,7.9,SSE,0.0,39
+2025-05-26,2025-05-26 23:00,Los Angeles,15.6,Parcialmente nublado,1003,83,10.4,SE,0.0,57
+2025-05-27,2025-05-27 00:00,Los Angeles,15.7,Parcialmente nublado,1003,86,11.5,SE,0.0,64
+2025-05-27,2025-05-27 01:00,Los Angeles,15.2,Parcialmente nublado,1003,87,11.9,SE,0.0,73
+2025-05-27,2025-05-27 02:00,Los Angeles,14.9,Nublado,1006,88,12.2,SE,0.0,82
+2025-05-27,2025-05-27 03:00,Los Angeles,14.6,Nublado,1006,88,11.5,SE,0.0,87
+2025-05-27,2025-05-27 04:00,Los Angeles,14.5,Nublado,1006,88,10.8,SE,0.0,89
+2025-05-27,2025-05-27 05:00,Los Angeles,14.6,Cielo cubierto,1009,89,10.8,SE,0.0,91
+2025-05-27,2025-05-27 06:00,Los Angeles,14.7,Cielo cubierto,1009,86,10.1,SE,0.0,87
+2025-05-27,2025-05-27 07:00,Los Angeles,14.9,Cielo cubierto,1009,85,10.4,SE,0.0,84
+2025-05-27,2025-05-27 08:00,Los Angeles,16.2,Nublado,1006,84,9.7,SE,0.0,82
+2025-05-27,2025-05-27 09:00,Los Angeles,17.4,Nublado,1006,73,10.1,SSE,0.0,48
+2025-05-27,2025-05-27 10:00,Los Angeles,18.6,Nublado,1006,68,11.5,SSE,0.0,31
+2025-05-27,2025-05-27 11:00,Los Angeles,20.0,Soleado,1000,62,12.2,S,0.0,14
+2025-05-27,2025-05-27 12:00,Los Angeles,21.1,Soleado,1000,57,13.3,S,0.0,11
+2025-05-27,2025-05-27 13:00,Los Angeles,22.1,Soleado,1000,54,15.1,S,0.0,10
+2025-05-27,2025-05-27 14:00,Los Angeles,22.1,Soleado,1000,51,14.8,S,0.0,9
+2025-05-27,2025-05-27 15:00,Los Angeles,21.9,Soleado,1000,55,15.1,S,0.0,12
+2025-05-27,2025-05-27 16:00,Los Angeles,21.5,Soleado,1000,57,16.2,SSW,0.0,14
+2025-05-27,2025-05-27 17:00,Los Angeles,20.4,Soleado,1000,59,16.6,SW,0.0,15
+2025-05-27,2025-05-27 18:00,Los Angeles,19.4,Soleado,1000,67,13.3,SW,0.0,24
+2025-05-27,2025-05-27 19:00,Los Angeles,18.5,Soleado,1000,71,13.0,SSW,0.0,28
+2025-05-27,2025-05-27 20:00,Los Angeles,17.7,Parcialmente nublado,1003,75,11.5,SSW,0.0,32
+2025-05-27,2025-05-27 21:00,Los Angeles,17.1,Parcialmente nublado,1003,79,9.7,SSW,0.0,54
+2025-05-27,2025-05-27 22:00,Los Angeles,16.4,Parcialmente nublado,1003,81,8.3,S,0.0,64
+2025-05-27,2025-05-27 23:00,Los Angeles,16.0,Parcialmente nublado,1003,83,7.6,SSE,0.0,47
+2025-05-28,2025-05-28 00:00,Los Angeles,16.2,Nublado,1006,84,7.9,SSE,0.0,80
+2025-05-28,2025-05-28 01:00,Los Angeles,15.9,Nublado,1006,84,8.6,SSE,0.0,81
+2025-05-28,2025-05-28 02:00,Los Angeles,15.6,Nublado,1006,84,8.3,S,0.0,82
+2025-05-28,2025-05-28 03:00,Los Angeles,15.4,Nublado,1006,84,7.6,S,0.0,80
+2025-05-28,2025-05-28 04:00,Los Angeles,15.2,Nublado,1006,84,3.6,S,0.0,80
+2025-05-28,2025-05-28 05:00,Los Angeles,15.3,Nublado,1006,84,3.6,SSE,0.0,79
+2025-05-28,2025-05-28 06:00,Los Angeles,15.4,Nublado,1006,82,5.8,S,0.0,78
+2025-05-28,2025-05-28 07:00,Los Angeles,15.5,Nublado,1006,81,4.0,SSW,0.0,77
+2025-05-28,2025-05-28 08:00,Los Angeles,16.6,Nublado,1006,81,1.8,SE,0.0,77
+2025-05-28,2025-05-28 09:00,Los Angeles,17.6,Nublado,1006,72,7.6,SSW,0.0,47
+2025-05-28,2025-05-28 10:00,Los Angeles,18.7,Nublado,1006,67,10.1,SW,0.0,32
+2025-05-28,2025-05-28 11:00,Los Angeles,19.6,Soleado,1000,63,12.6,SW,0.0,17
+2025-05-28,2025-05-28 12:00,Los Angeles,20.3,Soleado,1000,60,15.1,SW,0.0,21
+2025-05-28,2025-05-28 13:00,Los Angeles,20.9,Soleado,1000,58,15.5,SW,0.0,23
+2025-05-28,2025-05-28 14:00,Los Angeles,20.9,Parcialmente nublado,1003,57,15.1,SW,0.0,25
+2025-05-28,2025-05-28 15:00,Los Angeles,20.7,Parcialmente nublado,1003,58,17.3,WSW,0.0,21
+2025-05-28,2025-05-28 16:00,Los Angeles,20.5,Parcialmente nublado,1003,59,18.7,WSW,0.0,18
+2025-05-28,2025-05-28 17:00,Los Angeles,19.5,Soleado,1000,60,19.8,SW,0.0,16
+2025-05-28,2025-05-28 18:00,Los Angeles,18.6,Soleado,1000,68,15.8,WSW,0.0,20
+2025-05-28,2025-05-28 19:00,Los Angeles,17.7,Soleado,1000,71,12.6,SW,0.0,22
+2025-05-28,2025-05-28 20:00,Los Angeles,17.1,Despejado,1000,75,9.4,SSW,0.0,24
+2025-05-28,2025-05-28 21:00,Los Angeles,16.7,Despejado,1000,77,6.5,S,0.0,24
+2025-05-28,2025-05-28 22:00,Los Angeles,16.4,Despejado,1000,79,8.6,SSE,0.0,24
+2025-05-28,2025-05-28 23:00,Los Angeles,15.9,Nublado,1006,84,10.8,SSE,0.0,78
+2025-05-29,2025-05-29 00:00,Los Angeles,16.0,Parcialmente nublado,1003,83,6.1,SE,0.0,49
+2025-05-29,2025-05-29 01:00,Los Angeles,15.7,Parcialmente nublado,1003,84,8.6,SSE,0.0,55
+2025-05-29,2025-05-29 02:00,Los Angeles,15.3,Parcialmente nublado,1003,85,8.3,SSE,0.0,60
+2025-05-29,2025-05-29 03:00,Los Angeles,15.1,Parcialmente nublado,1003,87,6.8,SSE,0.0,66
+2025-05-29,2025-05-29 04:00,Los Angeles,14.9,Parcialmente nublado,1003,88,7.2,SSE,0.0,69
+2025-05-29,2025-05-29 05:00,Los Angeles,14.9,Nublado,1006,90,8.3,SSE,0.0,73
+2025-05-29,2025-05-29 06:00,Los Angeles,14.9,Nublado,1006,88,8.6,SE,0.0,73
+2025-05-29,2025-05-29 07:00,Los Angeles,15.0,Nublado,1006,87,10.1,SE,0.0,73
+2025-05-29,2025-05-29 08:00,Los Angeles,16.3,Nublado,1006,86,5.4,ESE,0.0,73
+2025-05-29,2025-05-29 09:00,Los Angeles,17.5,Nublado,1006,75,2.2,SSW,0.0,47
+2025-05-29,2025-05-29 10:00,Los Angeles,18.8,Nublado,1006,69,5.8,SSW,0.0,35
+2025-05-29,2025-05-29 11:00,Los Angeles,20.2,Soleado,1000,63,9.7,SW,0.0,22
+2025-05-29,2025-05-29 12:00,Los Angeles,21.3,Soleado,1000,58,11.9,WSW,0.0,19
+2025-05-29,2025-05-29 13:00,Los Angeles,22.3,Soleado,1000,55,15.1,WSW,0.0,17
+2025-05-29,2025-05-29 14:00,Los Angeles,22.8,Soleado,1000,53,17.3,WSW,0.0,16
+2025-05-29,2025-05-29 15:00,Los Angeles,23.0,Soleado,1000,54,17.3,WSW,0.0,16
+2025-05-29,2025-05-29 16:00,Los Angeles,23.0,Soleado,1000,55,16.6,WSW,0.0,16
+2025-05-29,2025-05-29 17:00,Los Angeles,22.2,Soleado,1000,56,16.6,SW,0.0,16
+2025-05-29,2025-05-29 18:00,Los Angeles,21.4,Soleado,1000,62,15.1,SW,0.0,16
+2025-05-29,2025-05-29 19:00,Los Angeles,20.5,Soleado,1000,65,13.0,SW,0.0,15
+2025-05-29,2025-05-29 20:00,Los Angeles,19.7,Despejado,1000,68,7.9,SSW,0.0,15
+2025-05-29,2025-05-29 21:00,Los Angeles,19.0,Despejado,1000,74,7.2,S,0.0,20
+2025-05-29,2025-05-29 22:00,Los Angeles,17.6,Despejado,1000,76,10.4,SSE,0.0,22
+2025-05-29,2025-05-29 23:00,Los Angeles,17.4,Parcialmente nublado,1003,81,6.1,SSE,0.0,39
+2025-05-30,2025-05-30 00:00,Los Angeles,18.1,Despejado,1000,80,9.4,S,0.0,22
+2025-05-30,2025-05-30 01:00,Los Angeles,17.6,Despejado,1000,81,6.1,S,0.0,22
+2025-05-30,2025-05-30 02:00,Los Angeles,17.3,Despejado,1000,82,3.2,SSW,0.0,22
+2025-05-30,2025-05-30 03:00,Los Angeles,17.1,Despejado,1000,82,1.8,SSW,0.0,18
+2025-05-30,2025-05-30 04:00,Los Angeles,17.0,Despejado,1000,82,2.5,WNW,0.0,15
+2025-05-30,2025-05-30 05:00,Los Angeles,17.5,Despejado,1000,81,2.5,W,0.0,13
+2025-05-30,2025-05-30 06:00,Los Angeles,17.9,Soleado,1000,76,4.0,WNW,0.0,15
+2025-05-30,2025-05-30 07:00,Los Angeles,18.4,Soleado,1000,74,3.2,WSW,0.0,15
+2025-05-30,2025-05-30 08:00,Los Angeles,19.9,Soleado,1000,71,4.7,W,0.0,16
+2025-05-30,2025-05-30 09:00,Los Angeles,21.2,Soleado,1000,63,6.8,WSW,0.0,16
+2025-05-30,2025-05-30 10:00,Los Angeles,22.5,Soleado,1000,59,10.1,WSW,0.0,16
+2025-05-30,2025-05-30 11:00,Los Angeles,24.1,Soleado,1000,55,13.0,SW,0.0,16
+2025-05-30,2025-05-30 12:00,Los Angeles,25.4,Soleado,1000,50,14.8,SW,0.0,17
+2025-05-30,2025-05-30 13:00,Los Angeles,26.6,Soleado,1000,47,16.2,WSW,0.0,17
+2025-05-30,2025-05-30 14:00,Los Angeles,27.0,Soleado,1000,45,15.8,WSW,0.0,18
+2025-05-30,2025-05-30 15:00,Los Angeles,27.1,Soleado,1000,45,16.2,WSW,0.0,17
+2025-05-30,2025-05-30 16:00,Los Angeles,27.0,Soleado,1000,45,16.9,WSW,0.0,16
+2025-05-30,2025-05-30 17:00,Los Angeles,25.7,Soleado,1000,45,16.2,SW,0.0,16
+2025-05-30,2025-05-30 18:00,Los Angeles,24.4,Soleado,1000,54,14.4,SW,0.0,15
+2025-05-30,2025-05-30 19:00,Los Angeles,23.1,Soleado,1000,59,11.9,SSW,0.0,15
+2025-05-30,2025-05-30 20:00,Los Angeles,21.7,Despejado,1000,63,9.4,SSW,0.0,15
+2025-05-30,2025-05-30 21:00,Los Angeles,20.6,Despejado,1000,71,9.7,S,0.0,23
+2025-05-30,2025-05-30 22:00,Los Angeles,19.4,Despejado,1000,75,9.7,S,0.0,27
+2025-05-30,2025-05-30 23:00,Los Angeles,18.6,Despejado,1000,77,7.2,SSW,0.0,22
+2025-05-31,2025-05-31 00:00,Los Angeles,18.5,Cielo cubierto,1009,81,8.3,S,0.0,68
+2025-05-31,2025-05-31 01:00,Los Angeles,17.8,Cielo cubierto,1009,83,8.6,S,0.0,53
+2025-05-31,2025-05-31 02:00,Los Angeles,17.5,Parcialmente nublado,1003,84,5.4,SSE,0.0,37
+2025-05-31,2025-05-31 03:00,Los Angeles,17.4,Parcialmente nublado,1003,84,0.4,NNE,0.0,69
+2025-05-31,2025-05-31 04:00,Los Angeles,17.3,Parcialmente nublado,1003,84,2.5,W,0.0,84
+2025-05-31,2025-05-31 05:00,Los Angeles,17.3,Cielo cubierto,1009,84,4.7,SW,0.0,100
+2025-05-31,2025-05-31 06:00,Los Angeles,17.4,Cielo cubierto,1009,83,7.6,S,0.0,96
+2025-05-31,2025-05-31 07:00,Los Angeles,17.5,Cielo cubierto,1009,82,7.6,S,0.0,94
+2025-05-31,2025-05-31 08:00,Los Angeles,19.3,Cielo cubierto,1009,82,8.3,SSE,0.0,91
+2025-05-31,2025-05-31 09:00,Los Angeles,21.1,Cielo cubierto,1009,65,6.1,S,0.0,96
+2025-05-31,2025-05-31 10:00,Los Angeles,22.8,Cielo cubierto,1009,56,5.8,S,0.0,98
+2025-05-31,2025-05-31 11:00,Los Angeles,25.4,Cielo cubierto,1009,48,9.4,SSW,0.0,100
+2025-05-31,2025-05-31 12:00,Los Angeles,27.5,Cielo cubierto,1009,35,11.5,SW,0.0,100
+2025-05-31,2025-05-31 13:00,Los Angeles,29.4,Cielo cubierto,1009,29,15.1,SW,0.0,99
+2025-05-31,2025-05-31 14:00,Los Angeles,30.9,Cielo cubierto,1009,23,15.5,SW,0.0,99
+2025-05-31,2025-05-31 15:00,Los Angeles,31.8,Cielo cubierto,1009,23,17.6,SW,0.0,70
+2025-05-31,2025-05-31 16:00,Los Angeles,32.6,Cielo cubierto,1009,24,15.8,SW,0.0,55
+2025-05-31,2025-05-31 17:00,Los Angeles,30.8,Parcialmente nublado,1003,24,14.4,SW,0.0,40
+2025-05-31,2025-05-31 18:00,Los Angeles,28.8,Parcialmente nublado,1003,40,13.0,SW,0.0,70
+2025-05-31,2025-05-31 19:00,Los Angeles,26.7,Parcialmente nublado,1003,48,7.6,WSW,0.0,85
+2025-05-31,2025-05-31 20:00,Los Angeles,25.5,Cielo cubierto,1009,56,12.6,S,0.0,100
+2025-05-31,2025-05-31 21:00,Los Angeles,24.9,Cielo cubierto,1009,56,10.1,S,0.0,100
+2025-05-31,2025-05-31 22:00,Los Angeles,21.8,Cielo cubierto,1009,56,6.1,W,0.0,100
+2025-05-31,2025-05-31 23:00,Los Angeles,23.1,Cielo cubierto,1009,79,5.4,SSW,0.0,99
+2025-06-01,2025-06-01 00:00,Los Angeles,20.9,Parcialmente nublado,1003,78,6.8,WSW,0.0,79
+2025-06-01,2025-06-01 01:00,Los Angeles,20.7,Parcialmente nublado,1003,75,16.6,SW,0.0,89
+2025-06-01,2025-06-01 02:00,Los Angeles,20.7,Cielo cubierto,1009,71,14.8,SW,0.0,99
+2025-06-01,2025-06-01 03:00,Los Angeles,20.8,Cielo cubierto,1009,68,4.3,WSW,0.0,94
+2025-06-01,2025-06-01 04:00,Los Angeles,21.0,Cielo cubierto,1009,66,1.8,NNW,0.0,91
+2025-06-01,2025-06-01 05:00,Los Angeles,21.2,Cielo cubierto,1009,65,5.0,WNW,0.0,89
+2025-06-01,2025-06-01 06:00,Los Angeles,21.4,Cielo cubierto,1009,63,1.4,WNW,0.0,94
+2025-06-01,2025-06-01 07:00,Los Angeles,21.5,Cielo cubierto,1009,62,4.0,S,0.0,97
+2025-06-01,2025-06-01 08:00,Los Angeles,22.9,Cielo cubierto,1009,62,5.8,WSW,0.0,100
+2025-06-01,2025-06-01 09:00,Los Angeles,24.3,Cielo cubierto,1009,55,9.4,SSW,0.0,62
+2025-06-01,2025-06-01 10:00,Los Angeles,25.6,Cielo cubierto,1009,52,10.8,SSW,0.0,43
+2025-06-01,2025-06-01 11:00,Los Angeles,26.2,Soleado,1000,49,15.5,SW,0.0,25
+2025-06-01,2025-06-01 12:00,Los Angeles,26.4,Soleado,1000,45,17.6,WSW,0.0,21
+2025-06-01,2025-06-01 13:00,Los Angeles,26.5,Soleado,1000,43,15.8,WSW,0.0,19
+2025-06-01,2025-06-01 14:00,Los Angeles,26.5,Soleado,1000,41,16.6,SW,0.0,18
+2025-06-01,2025-06-01 15:00,Los Angeles,26.5,Soleado,1000,39,17.6,SW,0.0,19
+2025-06-01,2025-06-01 16:00,Los Angeles,26.5,Soleado,1000,38,18.0,WSW,0.0,19
+2025-06-01,2025-06-01 17:00,Los Angeles,25.4,Soleado,1000,37,18.0,WSW,0.0,20
+2025-06-01,2025-06-01 18:00,Los Angeles,24.4,Soleado,1000,45,18.0,SW,0.0,19
+2025-06-01,2025-06-01 19:00,Los Angeles,23.3,Soleado,1000,49,15.8,SW,0.0,18
+2025-06-01,2025-06-01 20:00,Los Angeles,21.9,Despejado,1000,53,14.8,SW,0.0,17
+2025-06-01,2025-06-01 21:00,Los Angeles,20.9,Despejado,1000,63,10.8,SW,0.0,19
+2025-06-01,2025-06-01 22:00,Los Angeles,19.7,Despejado,1000,67,8.6,SW,0.0,19
+2025-06-01,2025-06-01 23:00,Los Angeles,19.0,Parcialmente nublado,1003,86,8.3,SW,0.0,59
+2025-06-02,2025-06-02 00:00,Los Angeles,18.9,Despejado,1000,73,7.2,S,0.0,18
+2025-06-02,2025-06-02 01:00,Los Angeles,18.3,Despejado,1000,75,7.6,S,0.0,19
+2025-06-02,2025-06-02 02:00,Los Angeles,17.8,Despejado,1000,76,6.8,SSE,0.0,20
+2025-06-02,2025-06-02 03:00,Los Angeles,17.4,Parcialmente nublado,1003,80,7.2,SSE,0.0,32
+2025-06-02,2025-06-02 04:00,Los Angeles,17.1,Parcialmente nublado,1003,82,8.3,SSE,0.0,38
+2025-06-02,2025-06-02 05:00,Los Angeles,17.2,Parcialmente nublado,1003,84,7.6,SSE,0.0,44
+2025-06-02,2025-06-02 06:00,Los Angeles,17.4,Parcialmente nublado,1003,82,8.3,SSE,0.0,44
+2025-06-02,2025-06-02 07:00,Los Angeles,17.7,Parcialmente nublado,1003,80,10.1,SE,0.0,44
+2025-06-02,2025-06-02 08:00,Los Angeles,19.0,Parcialmente nublado,1003,79,11.5,SE,0.0,44
+2025-06-02,2025-06-02 09:00,Los Angeles,20.2,Parcialmente nublado,1003,69,12.6,SSE,0.0,29
+2025-06-02,2025-06-02 10:00,Los Angeles,21.4,Parcialmente nublado,1003,64,13.7,SSE,0.0,22
+2025-06-02,2025-06-02 11:00,Los Angeles,22.6,Soleado,1000,59,15.8,S,0.0,14
+2025-06-02,2025-06-02 12:00,Los Angeles,23.4,Soleado,1000,53,16.2,S,0.0,16
+2025-06-02,2025-06-02 13:00,Los Angeles,24.2,Soleado,1000,51,15.5,S,0.0,16
+2025-06-02,2025-06-02 14:00,Los Angeles,24.2,Soleado,1000,48,15.8,SSW,0.0,17
+2025-06-02,2025-06-02 15:00,Los Angeles,24.0,Soleado,1000,48,17.3,SW,0.0,16
+2025-06-02,2025-06-02 16:00,Los Angeles,23.8,Soleado,1000,48,14.4,SW,0.0,16
+2025-06-02,2025-06-02 17:00,Los Angeles,22.6,Soleado,1000,48,14.4,SSW,0.0,16
+2025-06-02,2025-06-02 18:00,Los Angeles,21.5,Soleado,1000,55,16.6,SW,0.0,16
+2025-06-02,2025-06-02 19:00,Los Angeles,20.5,Soleado,1000,58,11.9,SW,0.0,15
+2025-06-02,2025-06-02 20:00,Los Angeles,19.2,Despejado,1000,61,9.4,SSW,0.0,15
+2025-06-02,2025-06-02 21:00,Los Angeles,18.3,Despejado,1000,70,10.8,SSW,0.0,20
+2025-06-02,2025-06-02 22:00,Los Angeles,18.9,Despejado,1000,74,11.2,WSW,0.0,23
+2025-06-02,2025-06-02 23:00,Los Angeles,17.4,Despejado,1000,69,5.4,SW,0.0,15
+2025-06-03,2025-06-03 00:00,Los Angeles,16.2,Parcialmente nublado,1003,83,6.8,SSW,0.0,59
+2025-06-03,2025-06-03 01:00,Los Angeles,15.8,Parcialmente nublado,1003,85,6.5,SW,0.0,74
+2025-06-03,2025-06-03 02:00,Los Angeles,15.6,Cielo cubierto,1009,86,6.1,SW,0.0,89
+2025-06-03,2025-06-03 03:00,Los Angeles,15.5,Cielo cubierto,1009,86,5.4,SSW,0.0,93
+2025-06-03,2025-06-03 04:00,Los Angeles,15.4,Cielo cubierto,1009,87,4.0,SSW,0.0,95
+2025-06-03,2025-06-03 05:00,Los Angeles,15.6,Cielo cubierto,1009,87,4.0,SSW,0.0,97
+2025-06-03,2025-06-03 06:00,Los Angeles,15.7,Cielo cubierto,1009,85,6.1,SW,0.0,97
+2025-06-03,2025-06-03 07:00,Los Angeles,15.9,Cielo cubierto,1009,84,6.1,SW,0.0,97
+2025-06-03,2025-06-03 08:00,Los Angeles,16.9,Cielo cubierto,1009,84,7.6,SW,0.0,96
+2025-06-03,2025-06-03 09:00,Los Angeles,18.0,Cielo cubierto,1009,74,6.5,SSW,0.0,66
+2025-06-03,2025-06-03 10:00,Los Angeles,19.0,Cielo cubierto,1009,70,6.5,SSW,0.0,51
+2025-06-03,2025-06-03 11:00,Los Angeles,20.1,Parcialmente nublado,1003,65,9.7,SSW,0.0,35
+2025-06-03,2025-06-03 12:00,Los Angeles,20.9,Parcialmente nublado,1003,60,13.7,SW,0.0,25
+2025-06-03,2025-06-03 13:00,Los Angeles,21.7,Parcialmente nublado,1003,58,16.9,SW,0.0,20
+2025-06-03,2025-06-03 14:00,Los Angeles,21.7,Soleado,1000,56,17.6,WSW,0.0,14
+2025-06-03,2025-06-03 15:00,Los Angeles,21.5,Soleado,1000,58,18.7,WSW,0.0,15
+2025-06-03,2025-06-03 16:00,Los Angeles,21.2,Soleado,1000,59,19.4,WSW,0.0,15
+2025-06-03,2025-06-03 17:00,Los Angeles,20.1,Soleado,1000,60,18.7,WSW,0.0,15
+2025-06-03,2025-06-03 18:00,Los Angeles,19.1,Soleado,1000,67,17.3,SW,0.0,14
+2025-06-03,2025-06-03 19:00,Los Angeles,18.2,Soleado,1000,70,14.8,SW,0.0,13
+2025-06-03,2025-06-03 20:00,Los Angeles,17.3,Soleado,1000,73,12.6,SW,0.0,13
+2025-06-03,2025-06-03 21:00,Los Angeles,16.6,Despejado,1000,77,13.0,SW,0.0,22
+2025-06-03,2025-06-03 22:00,Los Angeles,16.5,Despejado,1000,80,11.5,SW,0.0,27
+2025-06-03,2025-06-03 23:00,Los Angeles,15.8,Parcialmente nublado,1003,80,9.4,SW,0.0,30
+2025-06-04,2025-06-04 00:00,Los Angeles,15.8,Cielo cubierto,1009,83,7.9,SSW,0.0,99
+2025-06-04,2025-06-04 01:00,Los Angeles,15.5,Cielo cubierto,1009,84,7.2,SSW,0.0,98
+2025-06-04,2025-06-04 02:00,Los Angeles,15.3,Cielo cubierto,1009,84,6.1,SW,0.0,98
+2025-06-04,2025-06-04 03:00,Los Angeles,15.2,Cielo cubierto,1009,85,5.4,WSW,0.0,95
+2025-06-04,2025-06-04 04:00,Los Angeles,15.1,Cielo cubierto,1009,86,4.7,SSW,0.0,94
+2025-06-04,2025-06-04 05:00,Los Angeles,15.4,Cielo cubierto,1009,86,4.7,SSW,0.0,92
+2025-06-04,2025-06-04 06:00,Los Angeles,15.8,Cielo cubierto,1009,83,5.8,SW,0.0,79
+2025-06-04,2025-06-04 07:00,Los Angeles,16.2,Cielo cubierto,1009,82,6.5,SW,0.0,72
+2025-06-04,2025-06-04 08:00,Los Angeles,16.8,Nublado,1006,80,6.1,SW,0.0,65
+2025-06-04,2025-06-04 09:00,Los Angeles,17.3,Nublado,1006,77,7.9,SW,0.0,65
+2025-06-04,2025-06-04 10:00,Los Angeles,17.8,Nublado,1006,75,10.1,SW,0.0,66
+2025-06-04,2025-06-04 11:00,Los Angeles,18.6,Nublado,1006,73,11.9,SW,0.0,66
+2025-06-04,2025-06-04 12:00,Los Angeles,19.3,Nublado,1006,67,13.3,SW,0.0,42
+2025-06-04,2025-06-04 13:00,Los Angeles,20.0,Nublado,1006,64,16.2,SW,0.0,30
+2025-06-04,2025-06-04 14:00,Los Angeles,20.1,Soleado,1000,61,18.4,SW,0.0,18
+2025-06-04,2025-06-04 15:00,Los Angeles,20.1,Soleado,1000,62,18.4,SW,0.0,18
+2025-06-04,2025-06-04 16:00,Los Angeles,19.9,Soleado,1000,62,19.1,WSW,0.0,18
+2025-06-04,2025-06-04 17:00,Los Angeles,19.0,Soleado,1000,63,17.6,WSW,0.0,18
+2025-06-04,2025-06-04 18:00,Los Angeles,18.2,Soleado,1000,70,15.5,WSW,0.0,22
+2025-06-04,2025-06-04 19:00,Los Angeles,17.3,Soleado,1000,73,13.7,WSW,0.0,24
+2025-06-04,2025-06-04 20:00,Los Angeles,16.7,Parcialmente nublado,1003,77,12.6,SW,0.0,26
+2025-06-04,2025-06-04 21:00,Los Angeles,16.3,Parcialmente nublado,1003,80,10.4,WSW,0.0,42
+2025-06-04,2025-06-04 22:00,Los Angeles,16.0,Parcialmente nublado,1003,81,9.0,WSW,0.0,49
+2025-06-04,2025-06-04 23:00,Los Angeles,15.6,Cielo cubierto,1009,82,7.6,SW,0.0,100
+2025-05-26,2025-05-26 00:00,Puerto Montt,9.2,Lluvia  moderada a intervalos,1063,89,12.2,NW,0.06,73
+2025-05-26,2025-05-26 01:00,Puerto Montt,8.3,Lluvia  moderada a intervalos,1063,89,10.8,NW,0.07,57
+2025-05-26,2025-05-26 02:00,Puerto Montt,8.1,Lluvia  moderada a intervalos,1063,88,9.7,NW,0.02,73
+2025-05-26,2025-05-26 03:00,Puerto Montt,7.2,Lluvia  moderada a intervalos,1063,90,8.3,NNW,0.02,77
+2025-05-26,2025-05-26 04:00,Puerto Montt,6.4,Lluvia  moderada a intervalos,1063,91,8.6,N,0.13,82
+2025-05-26,2025-05-26 05:00,Puerto Montt,6.2,Ligeras precipitaciones,1240,93,9.7,NNW,0.45,100
+2025-05-26,2025-05-26 06:00,Puerto Montt,6.9,Ligeras precipitaciones,1240,91,10.1,NNW,0.39,58
+2025-05-26,2025-05-26 07:00,Puerto Montt,6.7,Ligeras precipitaciones,1240,93,9.7,NNW,0.35,66
+2025-05-26,2025-05-26 08:00,Puerto Montt,6.7,Ligeras precipitaciones,1240,94,9.0,NNW,0.41,58
+2025-05-26,2025-05-26 09:00,Puerto Montt,6.8,Ligeras precipitaciones,1240,94,8.6,NNW,0.38,56
+2025-05-26,2025-05-26 10:00,Puerto Montt,7.7,Ligeras precipitaciones,1240,92,9.4,NNW,0.21,55
+2025-05-26,2025-05-26 11:00,Puerto Montt,9.1,Lluvia  moderada a intervalos,1063,85,8.6,NW,0.5,89
+2025-05-26,2025-05-26 12:00,Puerto Montt,9.6,Lluvia  moderada a intervalos,1063,82,9.7,W,0.5,88
+2025-05-26,2025-05-26 13:00,Puerto Montt,9.7,Lluvia  moderada a intervalos,1063,82,10.1,W,0.58,88
+2025-05-26,2025-05-26 14:00,Puerto Montt,9.6,Lluvia  moderada a intervalos,1063,81,10.1,WSW,0.56,86
+2025-05-26,2025-05-26 15:00,Puerto Montt,9.4,Lluvia  moderada a intervalos,1063,81,10.1,WSW,0.48,72
+2025-05-26,2025-05-26 16:00,Puerto Montt,8.9,Lluvia  moderada a intervalos,1063,81,9.4,WSW,0.29,81
+2025-05-26,2025-05-26 17:00,Puerto Montt,7.9,Lluvia  moderada a intervalos,1063,85,6.1,WSW,0.14,72
+2025-05-26,2025-05-26 18:00,Puerto Montt,6.4,Lluvia  moderada a intervalos,1063,89,4.7,W,0.08,76
+2025-05-26,2025-05-26 19:00,Puerto Montt,6.1,Lluvia  moderada a intervalos,1063,90,3.6,WNW,0.04,76
+2025-05-26,2025-05-26 20:00,Puerto Montt,5.6,Lluvia  moderada a intervalos,1063,91,4.3,WNW,0.06,89
+2025-05-26,2025-05-26 21:00,Puerto Montt,5.3,Lluvia  moderada a intervalos,1063,92,4.3,WNW,0.02,81
+2025-05-26,2025-05-26 22:00,Puerto Montt,5.1,Lluvia  moderada a intervalos,1063,92,3.6,NW,0.01,76
+2025-05-26,2025-05-26 23:00,Puerto Montt,5.0,Nublado,1006,92,3.6,NW,0.0,69
+2025-05-27,2025-05-27 00:00,Puerto Montt,4.4,Despejado,1000,92,2.5,NW,0.0,16
+2025-05-27,2025-05-27 01:00,Puerto Montt,4.2,Parcialmente nublado,1003,92,2.5,NW,0.0,47
+2025-05-27,2025-05-27 02:00,Puerto Montt,4.0,Parcialmente nublado,1003,92,3.2,NNW,0.0,33
+2025-05-27,2025-05-27 03:00,Puerto Montt,3.8,Parcialmente nublado,1003,93,3.6,NNW,0.0,35
+2025-05-27,2025-05-27 04:00,Puerto Montt,3.7,Parcialmente nublado,1003,93,2.9,NNW,0.0,45
+2025-05-27,2025-05-27 05:00,Puerto Montt,3.6,Parcialmente nublado,1003,93,3.2,N,0.0,49
+2025-05-27,2025-05-27 06:00,Puerto Montt,3.5,Parcialmente nublado,1003,93,4.0,N,0.0,45
+2025-05-27,2025-05-27 07:00,Puerto Montt,3.5,Parcialmente nublado,1003,93,5.0,N,0.0,51
+2025-05-27,2025-05-27 08:00,Puerto Montt,3.6,Nublado,1006,93,4.3,NNE,0.0,84
+2025-05-27,2025-05-27 09:00,Puerto Montt,4.2,Cielo cubierto,1009,92,4.3,N,0.0,100
+2025-05-27,2025-05-27 10:00,Puerto Montt,5.4,Nublado,1006,90,4.7,N,0.0,76
+2025-05-27,2025-05-27 11:00,Puerto Montt,6.6,Cielo cubierto,1009,88,4.3,NNW,0.0,94
+2025-05-27,2025-05-27 12:00,Puerto Montt,7.0,Lluvia  moderada a intervalos,1063,87,1.8,N,0.01,100
+2025-05-27,2025-05-27 13:00,Puerto Montt,7.1,Lluvia  moderada a intervalos,1063,89,2.2,N,0.01,69
+2025-05-27,2025-05-27 14:00,Puerto Montt,7.6,Parcialmente nublado,1003,86,1.4,NNW,0.0,47
+2025-05-27,2025-05-27 15:00,Puerto Montt,7.9,Parcialmente nublado,1003,85,0.7,NE,0.0,32
+2025-05-27,2025-05-27 16:00,Puerto Montt,8.2,Lluvia  moderada a intervalos,1063,84,1.4,SSW,0.02,82
+2025-05-27,2025-05-27 17:00,Puerto Montt,7.0,Soleado,1000,90,1.4,SSE,0.0,19
+2025-05-27,2025-05-27 18:00,Puerto Montt,5.9,Despejado,1000,91,1.8,SSE,0.0,14
+2025-05-27,2025-05-27 19:00,Puerto Montt,5.5,Despejado,1000,91,1.1,SSW,0.0,16
+2025-05-27,2025-05-27 20:00,Puerto Montt,5.4,Despejado,1000,91,2.2,SSW,0.0,19
+2025-05-27,2025-05-27 21:00,Puerto Montt,5.2,Parcialmente nublado,1003,91,1.1,WSW,0.0,35
+2025-05-27,2025-05-27 22:00,Puerto Montt,5.1,Despejado,1000,92,2.2,WNW,0.0,14
+2025-05-27,2025-05-27 23:00,Puerto Montt,4.7,Despejado,1000,93,2.2,WNW,0.0,13
+2025-05-28,2025-05-28 00:00,Puerto Montt,4.1,Despejado,1000,89,2.2,NNW,0.0,9
+2025-05-28,2025-05-28 01:00,Puerto Montt,3.9,Despejado,1000,90,1.8,NNW,0.0,7
+2025-05-28,2025-05-28 02:00,Puerto Montt,3.6,Despejado,1000,90,2.2,NNW,0.0,5
+2025-05-28,2025-05-28 03:00,Puerto Montt,3.4,Despejado,1000,90,1.8,NNW,0.0,4
+2025-05-28,2025-05-28 04:00,Puerto Montt,3.1,Despejado,1000,90,1.8,NNW,0.0,3
+2025-05-28,2025-05-28 05:00,Puerto Montt,3.0,Despejado,1000,90,2.2,NNW,0.0,4
+2025-05-28,2025-05-28 06:00,Puerto Montt,3.0,Despejado,1000,90,2.2,NNW,0.0,8
+2025-05-28,2025-05-28 07:00,Puerto Montt,3.0,Despejado,1000,90,2.2,NNW,0.0,9
+2025-05-28,2025-05-28 08:00,Puerto Montt,3.0,Despejado,1000,89,2.5,NNE,0.0,18
+2025-05-28,2025-05-28 09:00,Puerto Montt,3.7,Soleado,1000,87,2.2,N,0.0,23
+2025-05-28,2025-05-28 10:00,Puerto Montt,5.0,Parcialmente nublado,1003,83,2.2,NW,0.0,26
+2025-05-28,2025-05-28 11:00,Puerto Montt,6.3,Parcialmente nublado,1003,78,1.4,SSW,0.0,36
+2025-05-28,2025-05-28 12:00,Puerto Montt,7.4,Parcialmente nublado,1003,73,1.8,SSE,0.0,34
+2025-05-28,2025-05-28 13:00,Puerto Montt,8.1,Parcialmente nublado,1003,69,1.8,SSE,0.0,62
+2025-05-28,2025-05-28 14:00,Puerto Montt,8.3,Cielo cubierto,1009,69,2.5,S,0.0,100
+2025-05-28,2025-05-28 15:00,Puerto Montt,8.2,Cielo cubierto,1009,71,2.9,S,0.0,100
+2025-05-28,2025-05-28 16:00,Puerto Montt,7.8,Cielo cubierto,1009,74,2.5,SSE,0.0,100
+2025-05-28,2025-05-28 17:00,Puerto Montt,7.3,Nublado,1006,77,2.9,SSE,0.0,81
+2025-05-28,2025-05-28 18:00,Puerto Montt,6.2,Nublado,1006,80,2.2,SE,0.0,63
+2025-05-28,2025-05-28 19:00,Puerto Montt,6.2,Parcialmente nublado,1003,78,2.2,SE,0.0,57
+2025-05-28,2025-05-28 20:00,Puerto Montt,5.9,Despejado,1000,79,2.2,E,0.0,16
+2025-05-28,2025-05-28 21:00,Puerto Montt,5.3,Despejado,1000,81,1.8,WSW,0.0,13
+2025-05-28,2025-05-28 22:00,Puerto Montt,5.1,Despejado,1000,82,1.1,ENE,0.0,14
+2025-05-28,2025-05-28 23:00,Puerto Montt,5.0,Despejado,1000,82,1.4,NNE,0.0,20
+2025-05-29,2025-05-29 00:00,Puerto Montt,6.7,Parcialmente nublado,1003,80,2.9,NNW,0.0,52
+2025-05-29,2025-05-29 01:00,Puerto Montt,6.4,Nublado,1006,82,3.2,N,0.0,78
+2025-05-29,2025-05-29 02:00,Puerto Montt,6.6,Nublado,1006,83,2.9,N,0.0,77
+2025-05-29,2025-05-29 03:00,Puerto Montt,7.0,Parcialmente nublado,1003,83,2.5,N,0.0,32
+2025-05-29,2025-05-29 04:00,Puerto Montt,6.4,Parcialmente nublado,1003,86,3.2,N,0.0,33
+2025-05-29,2025-05-29 05:00,Puerto Montt,6.1,Parcialmente nublado,1003,87,3.6,NNE,0.0,52
+2025-05-29,2025-05-29 06:00,Puerto Montt,6.2,Parcialmente nublado,1003,88,5.0,NNE,0.0,37
+2025-05-29,2025-05-29 07:00,Puerto Montt,6.2,Parcialmente nublado,1003,90,5.8,N,0.0,28
+2025-05-29,2025-05-29 08:00,Puerto Montt,5.8,Parcialmente nublado,1003,92,6.8,N,0.0,30
+2025-05-29,2025-05-29 09:00,Puerto Montt,6.6,Parcialmente nublado,1003,90,7.6,N,0.0,34
+2025-05-29,2025-05-29 10:00,Puerto Montt,7.8,Parcialmente nublado,1003,87,8.3,N,0.0,42
+2025-05-29,2025-05-29 11:00,Puerto Montt,9.1,Lluvia  moderada a intervalos,1063,84,8.6,N,0.05,68
+2025-05-29,2025-05-29 12:00,Puerto Montt,10.5,Lluvia  moderada a intervalos,1063,81,9.0,N,0.04,100
+2025-05-29,2025-05-29 13:00,Puerto Montt,10.8,Lluvia  moderada a intervalos,1063,82,9.0,N,0.01,76
+2025-05-29,2025-05-29 14:00,Puerto Montt,11.0,Lluvia  moderada a intervalos,1063,82,9.0,N,0.02,63
+2025-05-29,2025-05-29 15:00,Puerto Montt,10.1,Ligeras lluvias,1183,90,9.0,N,1.57,100
+2025-05-29,2025-05-29 16:00,Puerto Montt,9.7,Ligeras precipitaciones,1240,95,7.2,N,0.34,100
+2025-05-29,2025-05-29 17:00,Puerto Montt,9.8,Ligeras precipitaciones,1240,96,7.2,N,0.45,98
+2025-05-29,2025-05-29 18:00,Puerto Montt,9.1,Ligeras precipitaciones,1240,97,6.8,N,0.24,100
+2025-05-29,2025-05-29 19:00,Puerto Montt,9.1,Neblina,1030,97,5.8,NNW,0.01,67
+2025-05-29,2025-05-29 20:00,Puerto Montt,8.9,Niebla moderada,1135,97,5.0,NNW,0.0,100
+2025-05-29,2025-05-29 21:00,Puerto Montt,8.1,Niebla moderada,1135,97,4.7,NNW,0.04,100
+2025-05-29,2025-05-29 22:00,Puerto Montt,8.2,Ligeras precipitaciones,1240,98,5.8,NNW,0.2,61
+2025-05-29,2025-05-29 23:00,Puerto Montt,8.1,Ligeras lluvias,1183,98,6.8,WNW,1.01,100
+2025-05-30,2025-05-30 00:00,Puerto Montt,9.1,Ligeras precipitaciones,1240,95,7.6,WSW,0.25,66
+2025-05-30,2025-05-30 01:00,Puerto Montt,8.5,Lluvia  moderada a intervalos,1063,89,11.2,SSW,0.08,83
+2025-05-30,2025-05-30 02:00,Puerto Montt,7.9,Lluvia  moderada a intervalos,1063,87,11.2,SSW,0.04,62
+2025-05-30,2025-05-30 03:00,Puerto Montt,7.5,Lluvia  moderada a intervalos,1063,85,9.0,SSW,0.02,81
+2025-05-30,2025-05-30 04:00,Puerto Montt,6.6,Lluvia  moderada a intervalos,1063,85,7.6,SSW,0.01,88
+2025-05-30,2025-05-30 05:00,Puerto Montt,5.6,Lluvia  moderada a intervalos,1063,88,6.1,SW,0.01,83
+2025-05-30,2025-05-30 06:00,Puerto Montt,5.0,Lluvia  moderada a intervalos,1063,89,5.4,WSW,0.01,71
+2025-05-30,2025-05-30 07:00,Puerto Montt,4.6,Lluvia  moderada a intervalos,1063,90,5.0,WSW,0.01,76
+2025-05-30,2025-05-30 08:00,Puerto Montt,4.3,Despejado,1000,90,4.3,WSW,0.0,12
+2025-05-30,2025-05-30 09:00,Puerto Montt,4.8,Parcialmente nublado,1003,89,3.6,WSW,0.0,33
+2025-05-30,2025-05-30 10:00,Puerto Montt,6.3,Parcialmente nublado,1003,86,2.2,WSW,0.0,28
+2025-05-30,2025-05-30 11:00,Puerto Montt,7.8,Lluvia  moderada a intervalos,1063,80,2.2,SW,0.01,74
+2025-05-30,2025-05-30 12:00,Puerto Montt,8.8,Lluvia  moderada a intervalos,1063,76,4.3,SSW,0.06,79
+2025-05-30,2025-05-30 13:00,Puerto Montt,9.2,Lluvia  moderada a intervalos,1063,73,5.4,S,0.08,76
+2025-05-30,2025-05-30 14:00,Puerto Montt,9.4,Lluvia  moderada a intervalos,1063,71,6.1,S,0.07,55
+2025-05-30,2025-05-30 15:00,Puerto Montt,9.3,Lluvia  moderada a intervalos,1063,71,6.5,S,0.06,50
+2025-05-30,2025-05-30 16:00,Puerto Montt,9.1,Lluvia  moderada a intervalos,1063,74,5.4,S,0.07,85
+2025-05-30,2025-05-30 17:00,Puerto Montt,8.1,Lluvia  moderada a intervalos,1063,79,3.6,SSE,0.03,82
+2025-05-30,2025-05-30 18:00,Puerto Montt,7.4,Nublado,1006,81,2.5,S,0.0,67
+2025-05-30,2025-05-30 19:00,Puerto Montt,7.1,Nublado,1006,82,1.4,SW,0.0,71
+2025-05-30,2025-05-30 20:00,Puerto Montt,6.9,Parcialmente nublado,1003,83,2.2,WSW,0.0,51
+2025-05-30,2025-05-30 21:00,Puerto Montt,6.5,Parcialmente nublado,1003,85,1.8,W,0.0,41
+2025-05-30,2025-05-30 22:00,Puerto Montt,6.0,Parcialmente nublado,1003,88,1.4,W,0.0,34
+2025-05-30,2025-05-30 23:00,Puerto Montt,5.2,Parcialmente nublado,1003,90,1.8,NW,0.0,39
+2025-05-31,2025-05-31 00:00,Puerto Montt,5.2,Despejado,1000,91,2.2,WNW,0.0,11
+2025-05-31,2025-05-31 01:00,Puerto Montt,4.7,Despejado,1000,92,3.6,WNW,0.0,13
+2025-05-31,2025-05-31 02:00,Puerto Montt,4.5,Parcialmente nublado,1003,93,3.6,WNW,0.0,62
+2025-05-31,2025-05-31 03:00,Puerto Montt,4.4,Cielo cubierto,1009,93,2.5,WNW,0.0,100
+2025-05-31,2025-05-31 04:00,Puerto Montt,4.4,Cielo cubierto,1009,93,2.2,N,0.0,100
+2025-05-31,2025-05-31 05:00,Puerto Montt,4.4,Cielo cubierto,1009,93,3.6,NNW,0.0,100
+2025-05-31,2025-05-31 06:00,Puerto Montt,4.3,Cielo cubierto,1009,93,3.6,NNW,0.0,100
+2025-05-31,2025-05-31 07:00,Puerto Montt,4.2,Nublado,1006,93,4.3,N,0.0,77
+2025-05-31,2025-05-31 08:00,Puerto Montt,4.0,Nublado,1006,93,4.7,N,0.0,75
+2025-05-31,2025-05-31 09:00,Puerto Montt,4.1,Nublado,1006,92,5.0,N,0.0,82
+2025-05-31,2025-05-31 10:00,Puerto Montt,5.7,Soleado,1000,87,4.0,N,0.0,19
+2025-05-31,2025-05-31 11:00,Puerto Montt,7.2,Parcialmente nublado,1003,82,4.3,N,0.0,42
+2025-05-31,2025-05-31 12:00,Puerto Montt,8.2,Parcialmente nublado,1003,77,4.3,N,0.0,43
+2025-05-31,2025-05-31 13:00,Puerto Montt,9.1,Parcialmente nublado,1003,71,4.0,N,0.0,32
+2025-05-31,2025-05-31 14:00,Puerto Montt,9.6,Parcialmente nublado,1003,67,4.0,N,0.0,30
+2025-05-31,2025-05-31 15:00,Puerto Montt,9.6,Parcialmente nublado,1003,67,4.3,N,0.0,58
+2025-05-31,2025-05-31 16:00,Puerto Montt,9.2,Parcialmente nublado,1003,73,5.4,NNE,0.0,45
+2025-05-31,2025-05-31 17:00,Puerto Montt,7.4,Parcialmente nublado,1003,83,6.8,NNE,0.0,44
+2025-05-31,2025-05-31 18:00,Puerto Montt,6.5,Nublado,1006,86,7.2,NNE,0.0,80
+2025-05-31,2025-05-31 19:00,Puerto Montt,7.0,Nublado,1006,83,8.3,NNE,0.0,75
+2025-05-31,2025-05-31 20:00,Puerto Montt,7.2,Cielo cubierto,1009,82,7.2,N,0.0,100
+2025-05-31,2025-05-31 21:00,Puerto Montt,7.2,Lluvia  moderada a intervalos,1063,84,9.7,N,0.01,85
+2025-05-31,2025-05-31 22:00,Puerto Montt,7.2,Lluvia  moderada a intervalos,1063,85,10.4,NNE,0.07,100
+2025-05-31,2025-05-31 23:00,Puerto Montt,7.1,Lluvia  moderada a intervalos,1063,86,10.8,N,0.09,100
+2025-06-01,2025-06-01 00:00,Puerto Montt,6.6,Lluvia  moderada a intervalos,1063,84,8.3,N,0.03,100
+2025-06-01,2025-06-01 01:00,Puerto Montt,6.6,Lluvia  moderada a intervalos,1063,84,8.6,NNE,0.06,100
+2025-06-01,2025-06-01 02:00,Puerto Montt,6.6,Lluvia  moderada a intervalos,1063,84,9.4,NNE,0.02,100
+2025-06-01,2025-06-01 03:00,Puerto Montt,6.6,Cielo cubierto,1009,84,11.2,NNE,0.0,100
+2025-06-01,2025-06-01 04:00,Puerto Montt,6.7,Lluvia  moderada a intervalos,1063,82,10.4,N,0.05,100
+2025-06-01,2025-06-01 05:00,Puerto Montt,6.8,Lluvia  moderada a intervalos,1063,81,10.8,N,0.02,100
+2025-06-01,2025-06-01 06:00,Puerto Montt,6.9,Lluvia  moderada a intervalos,1063,80,11.5,N,0.05,100
+2025-06-01,2025-06-01 07:00,Puerto Montt,6.8,Lluvia  moderada a intervalos,1063,82,11.9,N,0.08,100
+2025-06-01,2025-06-01 08:00,Puerto Montt,6.9,Cielo cubierto,1009,84,13.0,NNE,0.0,100
+2025-06-01,2025-06-01 09:00,Puerto Montt,6.9,Nublado,1006,85,14.0,NNE,0.0,79
+2025-06-01,2025-06-01 10:00,Puerto Montt,7.5,Parcialmente nublado,1003,81,15.1,NNE,0.0,60
+2025-06-01,2025-06-01 11:00,Puerto Montt,7.9,Llovizna,1153,82,15.1,N,0.35,98
+2025-06-01,2025-06-01 12:00,Puerto Montt,7.7,Llovizna,1153,90,15.5,N,0.63,100
+2025-06-01,2025-06-01 13:00,Puerto Montt,7.9,Lluvia  moderada a intervalos,1063,91,16.9,NNE,0.07,81
+2025-06-01,2025-06-01 14:00,Puerto Montt,8.2,Ligeras lluvias,1183,92,16.9,NNE,1.2,100
+2025-06-01,2025-06-01 15:00,Puerto Montt,8.5,Llovizna,1153,92,16.6,N,0.24,100
+2025-06-01,2025-06-01 16:00,Puerto Montt,8.7,Llovizna,1153,93,16.6,N,0.19,100
+2025-06-01,2025-06-01 17:00,Puerto Montt,8.8,Llovizna,1153,94,16.6,N,0.15,100
+2025-06-01,2025-06-01 18:00,Puerto Montt,9.0,Llovizna,1153,94,15.5,N,0.16,100
+2025-06-01,2025-06-01 19:00,Puerto Montt,9.1,Lluvia  moderada a intervalos,1063,94,14.0,N,0.07,100
+2025-06-01,2025-06-01 20:00,Puerto Montt,9.2,Lluvia  moderada a intervalos,1063,95,12.6,N,0.05,100
+2025-06-01,2025-06-01 21:00,Puerto Montt,9.2,Neblina,1030,96,11.2,N,0.01,100
+2025-06-01,2025-06-01 22:00,Puerto Montt,9.4,Neblina,1030,96,11.2,NNE,0.0,100
+2025-06-01,2025-06-01 23:00,Puerto Montt,9.4,Neblina,1030,96,11.2,NNE,0.0,100
+2025-06-02,2025-06-02 00:00,Puerto Montt,9.8,Neblina,1030,96,11.9,N,0.03,100
+2025-06-02,2025-06-02 01:00,Puerto Montt,9.7,Neblina,1030,97,11.2,NNE,0.0,95
+2025-06-02,2025-06-02 02:00,Puerto Montt,9.6,Neblina,1030,97,10.1,NNE,0.0,91
+2025-06-02,2025-06-02 03:00,Puerto Montt,9.6,Neblina,1030,97,9.0,N,0.0,100
+2025-06-02,2025-06-02 04:00,Puerto Montt,9.5,Neblina,1030,97,9.0,NNE,0.06,100
+2025-06-02,2025-06-02 05:00,Puerto Montt,9.5,Llovizna,1153,97,9.7,NNE,0.29,100
+2025-06-02,2025-06-02 06:00,Puerto Montt,9.7,Llovizna,1153,97,10.4,NNE,0.26,100
+2025-06-02,2025-06-02 07:00,Puerto Montt,9.8,Llovizna,1153,97,11.5,NNE,0.27,100
+2025-06-02,2025-06-02 08:00,Puerto Montt,9.9,Ligeras lluvias,1183,97,12.2,NNE,1.17,100
+2025-06-02,2025-06-02 09:00,Puerto Montt,10.0,Llovizna,1153,97,13.0,NNE,0.74,100
+2025-06-02,2025-06-02 10:00,Puerto Montt,10.4,Ligeras lluvias,1183,97,14.4,N,2.02,100
+2025-06-02,2025-06-02 11:00,Puerto Montt,10.4,Ligeras lluvias,1183,97,14.4,NNE,1.85,100
+2025-06-02,2025-06-02 12:00,Puerto Montt,10.7,Ligeras lluvias,1183,97,13.7,NNE,1.02,100
+2025-06-02,2025-06-02 13:00,Puerto Montt,11.0,Ligeras lluvias,1183,97,13.7,N,1.19,100
+2025-06-02,2025-06-02 14:00,Puerto Montt,11.2,Llovizna,1153,96,14.4,N,0.29,100
+2025-06-02,2025-06-02 15:00,Puerto Montt,11.3,Llovizna,1153,96,15.1,N,0.42,100
+2025-06-02,2025-06-02 16:00,Puerto Montt,11.5,Cielo cubierto,1009,95,14.8,NNE,0.0,100
+2025-06-02,2025-06-02 17:00,Puerto Montt,11.6,Cielo cubierto,1009,94,15.8,NNE,0.0,100
+2025-06-02,2025-06-02 18:00,Puerto Montt,11.6,Cielo cubierto,1009,94,16.2,NNE,0.0,100
+2025-06-02,2025-06-02 19:00,Puerto Montt,11.4,Nublado,1006,93,16.6,N,0.0,66
+2025-06-02,2025-06-02 20:00,Puerto Montt,11.1,Lluvia  moderada a intervalos,1063,93,16.6,N,0.11,58
+2025-06-02,2025-06-02 21:00,Puerto Montt,11.0,Lluvia  moderada a intervalos,1063,93,16.9,NNE,0.09,64
+2025-06-02,2025-06-02 22:00,Puerto Montt,11.3,Lluvia  moderada a intervalos,1063,92,17.6,NNE,0.07,100
+2025-06-02,2025-06-02 23:00,Puerto Montt,11.3,Llovizna,1153,92,18.7,NNE,0.52,100
+2025-06-03,2025-06-03 00:00,Puerto Montt,11.2,Cielo cubierto,1009,87,18.4,N,0.0,100
+2025-06-03,2025-06-03 01:00,Puerto Montt,11.2,Lluvia  moderada a intervalos,1063,86,20.2,NNE,0.03,100
+2025-06-03,2025-06-03 02:00,Puerto Montt,11.1,Llovizna,1153,87,21.6,NNE,0.36,100
+2025-06-03,2025-06-03 03:00,Puerto Montt,11.2,Llovizna,1153,85,21.6,NNE,0.54,100
+2025-06-03,2025-06-03 04:00,Puerto Montt,10.6,Ligeras lluvias,1183,91,22.3,NNE,1.35,100
+2025-06-03,2025-06-03 05:00,Puerto Montt,10.6,Llovizna,1153,90,22.0,NNE,0.42,100
+2025-06-03,2025-06-03 10:00,Puerto Montt,10.6,Llovizna,1153,90,21.6,N,0.6,100
+2025-06-03,2025-06-03 11:00,Puerto Montt,10.4,Ligeras lluvias,1183,91,22.3,NNE,1.51,100
+2025-06-03,2025-06-03 12:00,Puerto Montt,10.2,Ligeras lluvias,1183,91,22.0,NNE,0.92,100
+2025-06-03,2025-06-03 13:00,Puerto Montt,10.2,Ligeras lluvias,1183,92,20.9,NNE,1.24,100
+2025-06-03,2025-06-03 14:00,Puerto Montt,10.0,Ligeras lluvias,1183,93,18.0,N,1.8,100
+2025-06-03,2025-06-03 15:00,Puerto Montt,10.0,Ligeras lluvias,1183,94,15.1,N,1.21,100
+2025-06-03,2025-06-03 16:00,Puerto Montt,9.8,Lluvia moderada,1189,95,13.7,N,2.97,100
+2025-06-03,2025-06-03 17:00,Puerto Montt,9.7,Ligeras lluvias,1183,95,12.6,NNE,1.34,100
+2025-06-03,2025-06-03 18:00,Puerto Montt,9.6,Llovizna,1153,94,12.6,NNE,0.52,100
+2025-06-03,2025-06-03 19:00,Puerto Montt,9.3,Llovizna,1153,93,14.0,NNE,0.27,100
+2025-06-03,2025-06-03 20:00,Puerto Montt,9.2,Llovizna,1153,93,12.6,NNE,0.21,100
+2025-06-03,2025-06-03 21:00,Puerto Montt,9.1,Llovizna,1153,94,10.8,N,0.33,100
+2025-06-03,2025-06-03 22:00,Puerto Montt,9.1,Lluvia  moderada a intervalos,1063,94,10.1,N,0.02,100
+2025-06-03,2025-06-03 23:00,Puerto Montt,9.1,Lluvia  moderada a intervalos,1063,93,8.6,N,0.09,100
+2025-06-04,2025-06-04 00:00,Puerto Montt,9.2,Neblina,1030,95,2.2,NW,0.03,83
+2025-06-04,2025-06-04 01:00,Puerto Montt,9.2,Neblina,1030,94,3.2,WNW,0.04,75
+2025-06-04,2025-06-04 02:00,Puerto Montt,8.8,Lluvia  moderada a intervalos,1063,94,4.7,WSW,0.03,75
+2025-06-04,2025-06-04 03:00,Puerto Montt,8.6,Lluvia  moderada a intervalos,1063,93,4.0,WSW,0.04,58
+2025-06-04,2025-06-04 04:00,Puerto Montt,8.2,Lluvia  moderada a intervalos,1063,93,4.3,WSW,0.03,79
+2025-06-04,2025-06-04 05:00,Puerto Montt,7.8,Lluvia  moderada a intervalos,1063,94,6.5,SW,0.04,60
+2025-06-04,2025-06-04 06:00,Puerto Montt,7.4,Lluvia  moderada a intervalos,1063,94,6.8,SSW,0.03,51
+2025-06-04,2025-06-04 07:00,Puerto Montt,7.5,Lluvia  moderada a intervalos,1063,90,9.0,S,0.01,66
+2025-06-04,2025-06-04 08:00,Puerto Montt,7.3,Lluvia  moderada a intervalos,1063,88,9.4,S,0.01,68
+2025-06-04,2025-06-04 09:00,Puerto Montt,7.7,Parcialmente nublado,1003,86,9.0,S,0.0,61
+2025-06-04,2025-06-04 10:00,Puerto Montt,8.3,Parcialmente nublado,1003,84,7.2,S,0.0,26
+2025-06-04,2025-06-04 11:00,Puerto Montt,9.2,Soleado,1000,80,6.1,S,0.0,9
+2025-06-04,2025-06-04 12:00,Puerto Montt,9.8,Soleado,1000,75,5.4,S,0.0,2
+2025-06-04,2025-06-04 13:00,Puerto Montt,10.3,Soleado,1000,70,5.4,SSE,0.0,0
+2025-06-04,2025-06-04 14:00,Puerto Montt,10.4,Soleado,1000,67,6.1,SSE,0.0,4
+2025-06-04,2025-06-04 15:00,Puerto Montt,10.3,Soleado,1000,66,6.8,SSE,0.0,5
+2025-06-04,2025-06-04 16:00,Puerto Montt,9.9,Soleado,1000,71,6.1,SSE,0.0,6
+2025-06-04,2025-06-04 17:00,Puerto Montt,8.4,Soleado,1000,78,7.9,SSE,0.0,5
+2025-06-04,2025-06-04 18:00,Puerto Montt,7.0,Despejado,1000,83,6.1,SSE,0.0,6
+2025-06-04,2025-06-04 19:00,Puerto Montt,6.6,Despejado,1000,83,6.5,S,0.0,8
+2025-06-04,2025-06-04 20:00,Puerto Montt,6.4,Despejado,1000,84,6.8,S,0.0,5
+2025-06-04,2025-06-04 21:00,Puerto Montt,6.2,Despejado,1000,85,6.1,SSW,0.0,5
+2025-06-04,2025-06-04 22:00,Puerto Montt,6.0,Despejado,1000,86,6.1,SSW,0.0,5
+2025-06-04,2025-06-04 23:00,Puerto Montt,5.7,Despejado,1000,87,5.4,SSW,0.0,6
