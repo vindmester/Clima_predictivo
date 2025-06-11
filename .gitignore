@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos de configuración del entorno
+*.env
+*.env.*
+
+# Distribución / packaging
+build/
+dist/
+*.egg-info/
+
+# Datos y resultados temporales
+data/
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.parquet
+*.h5
+
+# Archivos de Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Archivos generados por notebooks
+*.nbconvert.ipynb
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Otros
+*.bak
+*.tmp
+
+# Codigos secundarios no necesarios
+dfjos.py
+import requests.py
+qualifying_data.csv
